@@ -1,13 +1,14 @@
-# 🏀 Javier Pozo Miranda
+# 🧑‍💻 **Javier Pozo Miranda**
 
-**`Developer/Student/Athlete`**
+**`Developer | Student | Athlete`**
 
-I'm Javier, an international student at Penn State University, where I'm navigating the intricate world of Computer Science with a keen focus on AI and machine learning. My journey is marked by a dedication to blending rigorous academic research with practical technological applications, underpinned by a strong foundation in mathematics. Leading diverse AI projects and excelling in languages like Python and Java, I balance my technical pursuits with active involvement in varsity tennis and tech communities. This path is not just about acquiring knowledge; it's about making a meaningful impact in the tech world, fueled by a passion for innovation and a commitment to excellence.
+Hello! I'm Javier, an international student at Penn State University, where I’m immersed in the dynamic field of Computer Science with a focus on Artificial Intelligence (AI) and Machine Learning (ML). My academic journey combines rigorous research with practical applications, anchored by a robust foundation in mathematics. I’ve had the privilege of leading diverse AI-driven projects and excelling in programming languages like Python and Java, all while actively contributing to tech communities and balancing my academic pursuits with varsity tennis.
 
+My ambition extends beyond acquiring technical skills—I strive to leverage innovation to create meaningful impact in the tech world. With a commitment to excellence and a passion for solving complex problems, I aim to drive progress and inspire others along the way.
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 **Languages and Tools**
 
 <!-- Programming Language Icons -->
 <img align="left" alt="Python" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -23,27 +24,28 @@ I'm Javier, an international student at Penn State University, where I'm navigat
 
 <br clear="left"/>
 
+---
 
+## 🚀 **Highlighted Project**
 
-#
-
-### 🚀 My Project on Devpost
-
-<!-- BEGIN PROJECT-CARD -->
 [![Nittany Guesser](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/635/766/datas/original.jpeg "Nittany Guesser")](https://devpost.com/software/ni-idea)
 
-Check out my project *Nittany Guesser* on Devpost. It's a 'Nittany Guesser' employs binary search trees and divide-and-conquer methods. Through a series of questions, it determines the potential places you might be thinking of and then presents an AI-generated image based on its final guess.
-<!-- END PROJECT-CARD -->
+Explore my project, **Nittany Guesser**, on Devpost! This application uses binary search trees and divide-and-conquer techniques to guess locations you're thinking of through an interactive Q&A interface. The final result is visualized with an AI-generated image based on your input.
 
-### 📊 Stats
+---
+
+## 📊 **GitHub Stats**
 
 ![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpm2002&show_icons=true&theme=gruvbox)
 
-#
+---
 
-<details>
- <summary><h3>👨‍💻 Javier's Coding Journey</h3></summary>
-  At The Pennsylvania State University has been a vibrant tapestry of academic achievement and hands-on exploration in the realms of AI and machine learning. With a foundation solidified in mathematics and computer science, I've led AI projects, mastering programming languages like Python and Java. Beyond the code, I've balanced my academic pursuits with varsity tennis and active participation in tech societies, weaving a narrative of dedication, innovation, and community engagement. This journey reflects not just a quest for knowledge, but a passion to contribute meaningfully to the future of technology.
+## 👨‍💻 **My Coding Journey**
 
-[website]: https://www.linkedin.com/in/javier-pozo-miranda/
+My time at **The Pennsylvania State University** has been an incredible blend of academic success and hands-on exploration in the fields of AI and ML. Building on a strong foundation in mathematics and computer science, I have led AI-focused projects and honed my skills in programming languages such as Python and Java.
 
+Outside of academics, I balance my passions by competing in varsity tennis and engaging in tech societies, fostering innovation and community. This journey reflects not only my dedication to continuous learning but also my commitment to contributing meaningfully to the ever-evolving tech landscape.
+
+[LinkedIn Profile][website] | [Personal Projects](https://devpost.com/jpm2002)
+
+[website]: https://www.linkedin.com/in/javier-pozo-miranda/ 
