@@ -1,4 +1,4 @@
-# 🧑‍💻 **Javier Pozo Miranda**
+#  **Javier Pozo Miranda**
 
 **`Developer | Student | Athlete`**
 
