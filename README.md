@@ -59,8 +59,8 @@ Beyond academics, I mentor peers, lead initiatives in the Nittany AI Student Soc
 
 
 <div align="center">
-    <a href="https://github.com/JPM2002/manim-neural-network">
-    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=manim-neural-network&theme=dark" />
+    <a href="https://github.com/JPM2002/Tech-Team---Nittany-Ai">
+    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=Tech-Team---Nittany-Ai&theme=dark" />
   </a>
   <a href="https://github.com/JPM2002/Journal-Ai">
     <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=Journal-Ai&theme=dark" />
@@ -68,8 +68,8 @@ Beyond academics, I mentor peers, lead initiatives in the Nittany AI Student Soc
   <a href="https://github.com/JPM2002/Tron-Theme-VS">
     <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=Tron-Theme-VS&theme=dark" />
   </a>
-  <a href="https://github.com/JPM2002/Tech-Team---Nittany-Ai">
-    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=Tech-Team---Nittany-Ai&theme=dark" />
+  <a href="https://github.com/JPM2002/manim-neural-network">
+    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=manim-neural-network&theme=dark" />
   </a>
 </div>
 
