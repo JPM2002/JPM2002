@@ -9,8 +9,8 @@ Beyond academics, I mentor peers, lead initiatives in the Nittany AI Student Soc
 ---
 ## 🧰 **Languages and Tools**
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
+
+<p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -50,7 +50,7 @@ Beyond academics, I mentor peers, lead initiatives in the Nittany AI Student Soc
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
-</p>
+
 
 
 ---
