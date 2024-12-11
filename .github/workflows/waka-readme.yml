@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # Run daily at midnight UTC
+    # In theory this could be done to always commits stuff to the main branch. Quite interesting.
     - cron: "0 0 * * *"
 
 jobs:
