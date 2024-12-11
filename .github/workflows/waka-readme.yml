@@ -1,10 +1,10 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
+  # Trigger manually or on a schedule
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # Run daily at midnight UTC
     - cron: "0 0 * * *"
 
 jobs:
@@ -12,6 +12,11 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Required for WakaTime stats
+          SHOW_TITLE: true # Show the title for the stats section
+          LANG_COUNT: 5 # Display the top 5 languages
+          TIME_RANGE: last_7_days # Default: Last 7 days
+          SHOW_TIME: true # Show coding time per language
+          SHOW_TOTAL: true # Show total coding time
