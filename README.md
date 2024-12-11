@@ -86,6 +86,18 @@ Beyond academics, I mentor peers, lead initiatives in the Nittany AI Student Soc
 </a>
 </div>
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
+## 🌍 **Visitor Counter**
+
+<div align="center">
+  <h3>Thank you for stopping by! 👋</h3>
+  <p>
+    <img src="https://profile-counter.glitch.me/JPM2002/count.svg" alt="Visitor Count" />
+  </p>
+</div>
 
 ---
 
