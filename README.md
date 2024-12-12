@@ -90,6 +90,10 @@ Beyond academics, I mentor peers, lead initiatives in the Nittany AI Student Soc
 <!--START_SECTION:waka-->
 
 ```txt
+From: 04 December 2024 - To: 11 December 2024
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
