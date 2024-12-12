@@ -1,12 +1,3 @@
-#  **Javier Pozo Miranda**
-
-**`Developer | Student | Athlete`**
-
-Hi, I’m Javier, an international Computer Science student at Penn State University with a passion for AI and Machine Learning. With a strong foundation in mathematics, I’ve led AI-driven projects, including predictive analytics and scalable systems using tools like Python, AWS, and Microsoft Azure.
-
-Beyond academics, I mentor peers, lead initiatives in the Nittany AI Student Society, and balance my pursuits with varsity tennis. My goal is to create impactful, innovative solutions that bridge technology and real-world challenges.
-
----
 ## 🧰 **Languages and Tools**
 
 
