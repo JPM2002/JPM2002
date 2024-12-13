@@ -81,11 +81,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Total Time: 0 secs
+Total Time: 37 mins
 
-No activity tracked
+YAML         14 mins         █████████▓░░░░░░░░░░░░░░░   38.46 %
+Markdown     14 mins         █████████▓░░░░░░░░░░░░░░░   38.31 %
+HTML         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+Python       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
