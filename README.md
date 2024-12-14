@@ -1,4 +1,4 @@
-## 🧰 **Languages and Tools**
+## 🧰 **Languages and Tools** 
 
 
 <p align="center">
@@ -41,7 +41,6 @@
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
-
 
 
 ---
