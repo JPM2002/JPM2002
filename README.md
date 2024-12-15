@@ -47,7 +47,6 @@
 
 ## 🚀 **Projects**
 
-
 <div align="center">
     <a href="https://github.com/JPM2002/Tech-Team---Nittany-Ai">
     <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=Tech-Team---Nittany-Ai&theme=dark" />
@@ -62,7 +61,6 @@
     <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=manim-neural-network&theme=dark" />
   </a>
 </div>
-
 
 ---
 
@@ -101,7 +99,6 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
     <img src="https://profile-counter.glitch.me/JPM2002/count.svg" alt="Visitor Count" />
   </p>
 </div>
-
 ---
 
 [LinkedIn Profile](https://www.linkedin.com/in/javier-pozo-miranda/ ) | [Personal Projects](https://devpost.com/jpm2002)
