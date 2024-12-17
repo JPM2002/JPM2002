@@ -1,7 +1,5 @@
 ## 🧰 **Languages and Tools** 
 
-
-
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -91,6 +89,9 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+---
+## 🗒️**Notes: Looking for people to create projects**
+
 ---
 ## 🌍 **Visitor Counter**
 
