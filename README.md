@@ -90,7 +90,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 ---
-## 🗒️**Notes: Looking for people to create projects**
+## 🗒️**Notes: Looking for people to create projects!**
 
 ---
 ## 🌍 **Visitor Counter**
