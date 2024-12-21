@@ -77,11 +77,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 19 December 2024
+From: 13 December 2024 - To: 20 December 2024
 
-Total Time: 41 mins
+Total Time: 1 hr 51 mins
 
-Python   41 mins         █████████████████████████   100.00 %
+Python   1 hr 25 mins    ███████████████████▒░░░░░   76.97 %
+C#       25 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
 ```
 
 <!--END_SECTION:waka-->
