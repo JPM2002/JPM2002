@@ -101,6 +101,16 @@ HTML         1 min           ▓░░░░░░░░░░░░░░░░
     <img src="https://profile-counter.glitch.me/JPM2002/count.svg" alt="Visitor Count" />
   </p>
 </div>
+
+<!--
 ---
+
+<div align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67675ebe70129741a87f18e5?variant=dark" alt="roadmap.sh"/></a>
+</div>
+---
+
+-->
+
 
 [LinkedIn Profile](https://www.linkedin.com/in/javier-pozo-miranda/ ) | [Personal Projects](https://devpost.com/jpm2002)
