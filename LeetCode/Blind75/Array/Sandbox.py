@@ -39,7 +39,6 @@ if __name__ == '__main__':
     # for i, num in enumerate(nums):
     #     # Calculate the complement
     #     complement = target - num
-
     #     # Check if the complement exists in the hash map
     #     if complement in hash_map:
     #         return [hash_map[complement], i]  # Return the indices of the complement and the current number
