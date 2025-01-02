@@ -107,6 +107,8 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 <div align="center">
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67675ebe70129741a87f18e5?variant=dark" alt="roadmap.sh"/></a>
 </div>
+
+Need to create a more consisten develpment for my page
 ---
 
 Will have to update more links that are helpful
