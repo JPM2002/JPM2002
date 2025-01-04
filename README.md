@@ -110,7 +110,7 @@ Git Config   0 secs          ▒░░░░░░░░░░░░░░░░
 Need to create a more consisten develpment for my page
 ---
 
-Will have to update more links that are helpful
+Will have to update more links that are helpful. fr fr
 
 -->
 
