@@ -110,6 +110,8 @@ Need to create a more consisten develpment for my page
 
 Will have to update more links that are helpful. fr fr
 if you are reading this thanks for stalking me. fr stop. we'll new semester, new mistakes
+hanging in there
+
 -->
 
 
