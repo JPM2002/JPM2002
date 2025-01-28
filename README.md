@@ -105,12 +105,9 @@ Markdown   11 mins         █████████████████�
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67675ebe70129741a87f18e5?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
-Need to create a more consisten develpment for my page
 ---
 
-Will have to update more links that are helpful. fr fr
-if you are reading this thanks for stalking me. fr stop. we'll new semester, new mistakes
-hanging in there. I might leave
+
 
 -->
 
