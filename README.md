@@ -77,13 +77,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2025 - To: 27 January 2025
+From: 21 January 2025 - To: 28 January 2025
 
-Total Time: 16 mins
+Total Time: 11 mins
 
-Markdown   11 mins         ███████████████▒░░░░░░░░░   61.12 %
-HTML       4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
-Other      2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Java    6 mins          ███████████▓░░░░░░░░░░░░░   46.43 %
+HTML    4 mins          ████████▓░░░░░░░░░░░░░░░░   34.84 %
+Other   2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
 ```
 
 <!--END_SECTION:waka-->
