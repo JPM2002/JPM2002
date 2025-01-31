@@ -77,13 +77,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2025 - To: 29 January 2025
+From: 23 January 2025 - To: 30 January 2025
 
-Total Time: 11 mins
+Total Time: 44 mins
 
-Java    6 mins          ███████████▓░░░░░░░░░░░░░   46.43 %
-HTML    4 mins          ████████▓░░░░░░░░░░░░░░░░   34.84 %
-Other   2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+HTML     22 mins         ████████████░░░░░░░░░░░░░   48.37 %
+Python   15 mins         ████████▒░░░░░░░░░░░░░░░░   32.92 %
+Java     6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Other    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
 <!--END_SECTION:waka-->
