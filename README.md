@@ -53,8 +53,8 @@
   <a href="https://github.com/JPM2002/Journal-Ai">
     <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=Journal-Ai&theme=dark" />
   </a>
-  <a href="https://github.com/JPM2002/Tron-Theme-VS">
-    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=Tron-Theme-VS&theme=dark" />
+  <a href="https://github.com/k-kochhar/SafeCall">
+    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=k-kochhar&repo=SafeCall&theme=dark" />
   </a>
   <a href="https://github.com/JPM2002/manim-neural-network">
     <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=manim-neural-network&theme=dark" />
