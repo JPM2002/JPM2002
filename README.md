@@ -116,4 +116,4 @@ Markdown     14 mins         █▒░░░░░░░░░░░░░░░
 -->
 
 
-[LinkedIn Profile](https://www.linkedin.com/in/javier-pozo-miranda/ ) | [Personal Projects]([https://devpost.com/jpm2002](https://javierpozo.vercel.app/))
+[LinkedIn Profile](https://www.linkedin.com/in/javier-pozo-miranda/ ) | [Personal Projects](https://javierpozo.vercel.app/)
