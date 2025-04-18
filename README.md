@@ -1,3 +1,5 @@
+![](https://badges.lastfm.workers.dev/last-played?user=JPM_2002&style=plastic&label=▰ LISTENING ▰&labelColor=000000&color=00FFFF&logo=lastfm&logoColor=00FFFF)
+
 ## 🧰 **Languages and Tools** 
      
 <p align="center">
@@ -133,5 +135,7 @@ Git Config   16 mins         ▓░░░░░░░░░░░░░░░░
 
 ---
 -->
+
+
 
 [LinkedIn Profile](https://www.linkedin.com/in/javier-pozo-miranda/ ) | [Personal Projects](https://javierpozo.vercel.app/)
