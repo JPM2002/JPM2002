@@ -1,7 +1,8 @@
-name: Update Tidal Now Playing
 on:
+  workflow_dispatch:    # ← manual “Run workflow” button
   schedule:
     - cron: '*/5 * * * *'
+
 
 jobs:
   update-readme:
