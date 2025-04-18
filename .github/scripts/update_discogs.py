@@ -47,12 +47,13 @@ top3_genres = genres.most_common(3)
 with open("README.md", encoding="utf-8") as f:
     content = f.read()
 
-# --- Helper to patch sections ---
 def patch_section(text, key, new_body):
     start, end = MARKERS[key]
-    pattern = f"({start})(.*?)( {end})"
-    replacement = f"{start}\n{new_body}\n{end}"
-    return re.sub(pattern, replacement, text, flags=re.S)
+    # Match from the start marker through to the end marker:
+    pattern = f"{start}.*?{end}"
+    # Build the replacement block with new_body in between:
+    block   = f"{start}\n{new_body}\n{end}"
+    return re.sub(pattern, block, text, flags=re.S)
 
 # --- Build dynamic table row ---
 artists_str = ", ".join(f"{n} ({c})" for n, c in top5)
