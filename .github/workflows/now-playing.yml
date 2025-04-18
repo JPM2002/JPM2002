@@ -14,9 +14,13 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install tidalapi
+          pip install requests
 
       - name: Fetch current Tidal track & update README
+        env:
+          TIDAL_CLIENT_ID:     ${{ secrets.TIDAL_CLIENT_ID }}
+          TIDAL_CLIENT_SECRET: ${{ secrets.TIDAL_CLIENT_SECRET }}
+          TIDAL_REFRESH_TOKEN: ${{ secrets.TIDAL_REFRESH_TOKEN }}
         run: python .github/scripts/update_now_playing.py
 
       - name: Commit changes

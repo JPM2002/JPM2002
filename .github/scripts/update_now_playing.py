@@ -1,29 +1,42 @@
-import tidalapi
-import re
+import os, requests, re
 
-# --- Authenticate with Tidal via browser‑flow (once locally) ---
-session = tidalapi.Session()
-session.login_oauth_simple()     # pops open the OAuth flow, writes a cache file
+# 1) Exchange refresh_token for an access token
+resp = requests.post(
+    "https://auth.tidal.com/v1/oauth2/token",
+    data={
+        "grant_type":    "refresh_token",
+        "refresh_token": os.getenv("TIDAL_REFRESH_TOKEN"),
+        "client_id":     os.getenv("TIDAL_CLIENT_ID"),
+        "client_secret": os.getenv("TIDAL_CLIENT_SECRET")
+    }
+)
+access = resp.json().get("access_token", "")
 
-# --- Fetch current track ---
-player = tidalapi.playback.Player(session)
-track = player.current_track()
-if track:
-    artists = ', '.join(a.name for a in track.artists)
-    now_line = f"🎧 Now Playing: **{track.name}** by **{artists}**"
+# 2) Get currently‐playing info
+resp = requests.get(
+    "https://api.tidal.com/v1/me/player/currently-playing",
+    headers={"Authorization": f"Bearer {access}"}
+)
+data = resp.json().get("item", {})
+
+# 3) Build the markdown line
+if data:
+    title  = data["title"]
+    artist = data["artists"][0]["name"]
+    now = f"🎧 Now Playing: **{title}** by **{artist}**"
 else:
-    now_line = "🎧 Now Playing: _none_"
+    now = "🎧 Now Playing: _none_"
 
-# --- Read & patch README.md ---
+# 4) Patch your README
 with open("README.md", encoding="utf-8") as f:
     text = f.read()
 
-new_text = re.sub(
+new = re.sub(
     r"<!-- NOW_PLAYING_START -->.*?<!-- NOW_PLAYING_END -->",
-    f"<!-- NOW_PLAYING_START -->\n{now_line}\n<!-- NOW_PLAYING_END -->",
+    f"<!-- NOW_PLAYING_START -->\n{now}\n<!-- NOW_PLAYING_END -->",
     text,
     flags=re.S
 )
 
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_text)
+    f.write(new)
