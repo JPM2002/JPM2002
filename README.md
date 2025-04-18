@@ -6,8 +6,6 @@
 [![Website](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=flat-square&logo=vercel)](https://javierpozo.vercel.app/)
 [![Email](https://img.shields.io/badge/Outlook-jdp5958@psu.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jdp5958@psu.edu)
 
-
-
 ## 🧰 **Languages and Tools** 
      
 <p align="center">
@@ -126,6 +124,10 @@ Git Config   16 mins         ▓░░░░░░░░░░░░░░░░
 
 ![](https://badges.lastfm.workers.dev/last-played?user=JPM_2002&style=plastic&label=▰ Listening On Tidal ▰&labelColor=000000&color=00FFFF&logo=lastfm&logoColor=00FFFF)
 [![Discogs Collection](https://img.shields.io/badge/Discogs–Collection-110%20records-blue?logo=discogs&style=flat)](https://www.discogs.com/user/JPM2002/collection)
+![Now Spinning](https://img.shields.io/badge/Vinyl-Currently%20Playing:%20Billy%20Joel-8e44ad?style=flat-square&logo=vinyl)
+[![Discogs Chart](https://img.shields.io/badge/-Top%20Artist%20This%20Month:%20The%20Smiths-lightgrey?style=flat-square&logo=discogs)](https://www.discogs.com/user/JPM2002/collection)
+![Workstation](https://img.shields.io/badge/Gear-🎧Final%20Audio%20Sonorus%20III-informational?style=flat-square)
+
 
 <!-- DISCOGS_TABLE_START -->
 | 📦 Collection | 🌟 Wantlist | 🎤 Top Artists           | 🎶 Top Genres          |
