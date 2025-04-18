@@ -1,4 +1,5 @@
 ![](https://badges.lastfm.workers.dev/last-played?user=JPM_2002&style=plastic&label=▰ LISTENING ▰&labelColor=000000&color=00FFFF&logo=lastfm&logoColor=00FFFF)
+[![Discogs Collection](https://img.shields.io/badge/Discogs–Collection-110%20records-blue?logo=discogs&style=flat)](https://www.discogs.com/user/JPM2002/collection)
 
 <!-- DISCOGS_COLLECTION_START -->
 **Discogs Collection:** 110 records
