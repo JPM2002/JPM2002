@@ -4,7 +4,10 @@ import os
 
 # --- Authenticate with Tidal ---
 session = tidalapi.Session()
-session.login(os.getenv('TIDAL_USERNAME'), os.getenv('TIDAL_PASSWORD'))
+
+# Replace the login method with the correct one
+session.login_oauth_simple()
+
 player = tidalapi.playback.Player(session)
 
 # --- Fetch current track ---
