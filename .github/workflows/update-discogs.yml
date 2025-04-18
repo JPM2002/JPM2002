@@ -3,7 +3,7 @@ name: Update Discogs Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'    # daily at midnight UTC
+    - cron: '0 0 * * *'  # daily at midnight UTC
 
 jobs:
   stats:

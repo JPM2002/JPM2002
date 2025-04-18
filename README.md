@@ -16,6 +16,10 @@
 **Top Genres:** _loading…_
 <!-- DISCOGS_TOP_GENRES_END -->
 
+<!-- DISCOGS_VALUE_START -->
+**Est. Value:** _loading…_
+<!-- DISCOGS_VALUE_END -->
+
 
 ## 🧰 **Languages and Tools** 
      
