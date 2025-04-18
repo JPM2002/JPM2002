@@ -1,11 +1,11 @@
-![](https://badges.lastfm.workers.dev/last-played?user=JPM_2002&style=plastic&label=▰ LISTENING ▰&labelColor=000000&color=00FFFF&logo=lastfm&logoColor=00FFFF)
-[![Discogs Collection](https://img.shields.io/badge/Discogs–Collection-110%20records-blue?logo=discogs&style=flat)](https://www.discogs.com/user/JPM2002/collection)
+![Commits This Month](https://img.shields.io/github/commit-activity/m/JPM2002/JPM2002?style=flat-square&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/JPM2002/JPM2002?logo=git&style=flat-square)
+![GitHub User Stars](https://img.shields.io/github/stars/JPM2002?affiliations=OWNER&style=flat-square)
+[![Hours Coding](https://wakatime.com/badge/user/4a1fb732-ab60-4581-a317-67709ec0b158.svg)](https://wakatime.com/@4a1fb732-ab60-4581-a317-67709ec0b158)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/javier-pozo-miranda/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=flat-square&logo=vercel)](https://javierpozo.vercel.app/)
+[![Email](https://img.shields.io/badge/Outlook-jdp5958@psu.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jdp5958@psu.edu)
 
-<!-- DISCOGS_TABLE_START -->
-| 📦 Collection | 🌟 Wantlist | 🎤 Top Artists           | 🎶 Top Genres          |
-|:-------------:|:-----------:|:-----------------------:|:----------------------:|
-| 110 records | 233 records | Billy Joel (11), Various (7), Bobby Vinton (6), Genesis (5), The Smiths (4) | Rock (65), Pop (29), Electronic (13) |
-<!-- DISCOGS_TABLE_END -->
 
 
 ## 🧰 **Languages and Tools** 
@@ -122,7 +122,17 @@ Git Config   16 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 ---
-## 🗒️**Looking for people to create projects!**
+## 🎧 **Music**
+
+![](https://badges.lastfm.workers.dev/last-played?user=JPM_2002&style=plastic&label=▰ Listening On Tidal ▰&labelColor=000000&color=00FFFF&logo=lastfm&logoColor=00FFFF)
+[![Discogs Collection](https://img.shields.io/badge/Discogs–Collection-110%20records-blue?logo=discogs&style=flat)](https://www.discogs.com/user/JPM2002/collection)
+
+<!-- DISCOGS_TABLE_START -->
+| 📦 Collection | 🌟 Wantlist | 🎤 Top Artists           | 🎶 Top Genres          |
+|:-------------:|:-----------:|:-----------------------:|:----------------------:|
+| 110 records | 233 records | Billy Joel (11), Various (7), Bobby Vinton (6), Genesis (5), The Smiths (4) | Rock (65), Pop (29), Electronic (13) |
+<!-- DISCOGS_TABLE_END -->
+
 
 ---
 ## 🌍 **Visitor Counter**
@@ -142,8 +152,4 @@ Git Config   16 mins         ▓░░░░░░░░░░░░░░░░
 </div>
 
 ---
--->
-
-
-
-[LinkedIn Profile](https://www.linkedin.com/in/javier-pozo-miranda/ ) | [Personal Projects](https://javierpozo.vercel.app/)
+-->     
