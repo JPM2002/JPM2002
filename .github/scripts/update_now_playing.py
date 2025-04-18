@@ -2,15 +2,15 @@ import tidalapi
 import re
 import os
 
-# --- Authenticate with Tidal ---
+# --- Authenticate with Tidal via non-interactive OAuth ---
 session = tidalapi.Session()
-
-# Replace the login method with the correct one
-session.login_oauth_simple()
-
-player = tidalapi.playback.Player(session)
+session.login_oauth(
+    os.getenv('TIDAL_USERNAME'),
+    os.getenv('TIDAL_PASSWORD')
+)
 
 # --- Fetch current track ---
+player = tidalapi.playback.Player(session)
 track = player.current_track()
 if track:
     artists = ', '.join(a.name for a in track.artists)
