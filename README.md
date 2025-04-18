@@ -1,19 +1,20 @@
 ![](https://badges.lastfm.workers.dev/last-played?user=JPM_2002&style=plastic&label=▰ LISTENING ▰&labelColor=000000&color=00FFFF&logo=lastfm&logoColor=00FFFF)
+[![Discogs Collection](https://img.shields.io/badge/Discogs–Collection-110%20records-blue?logo=discogs&style=flat)](https://www.discogs.com/user/JPM2002/collection)
 
 <!-- DISCOGS_COLLECTION_START -->
-**Discogs Collection:** _loading…_
+**Discogs Collection:** 110 records
 <!-- DISCOGS_COLLECTION_END -->
 
 <!-- DISCOGS_WANTLIST_START -->
-**Wantlist:** _loading…_
+**Wantlist:** 233 records
 <!-- DISCOGS_WANTLIST_END -->
 
 <!-- DISCOGS_TOP_ARTISTS_START -->
-**Top Artists:** _loading…_
+**Top Artists:** Billy Joel (11), Various (7), Bobby Vinton (6), Genesis (5), The Smiths (4)
 <!-- DISCOGS_TOP_ARTISTS_END -->
 
 <!-- DISCOGS_TOP_GENRES_START -->
-**Top Genres:** _loading…_
+**Top Genres:** Rock (65), Pop (29), Electronic (13)
 <!-- DISCOGS_TOP_GENRES_END -->
 
 <!-- DISCOGS_VALUE_START -->
