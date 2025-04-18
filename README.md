@@ -18,7 +18,7 @@
 <!-- DISCOGS_TOP_GENRES_END -->
 
 <!-- DISCOGS_VALUE_START -->
-**Est. Value:** _loading…_
+**Est. Value:** $0.00
 <!-- DISCOGS_VALUE_END -->
 
 
