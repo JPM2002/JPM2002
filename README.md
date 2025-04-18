@@ -1,8 +1,21 @@
 ![](https://badges.lastfm.workers.dev/last-played?user=JPM_2002&style=plastic&label=▰ LISTENING ▰&labelColor=000000&color=00FFFF&logo=lastfm&logoColor=00FFFF)
 
-<!-- NOW_PLAYING_START -->
-🎧 Now Playing: _none_
-<!-- NOW_PLAYING_END -->
+<!-- DISCOGS_COLLECTION_START -->
+**Discogs Collection:** _loading…_
+<!-- DISCOGS_COLLECTION_END -->
+
+<!-- DISCOGS_WANTLIST_START -->
+**Wantlist:** _loading…_
+<!-- DISCOGS_WANTLIST_END -->
+
+<!-- DISCOGS_TOP_ARTISTS_START -->
+**Top Artists:** _loading…_
+<!-- DISCOGS_TOP_ARTISTS_END -->
+
+<!-- DISCOGS_TOP_GENRES_START -->
+**Top Genres:** _loading…_
+<!-- DISCOGS_TOP_GENRES_END -->
+
 
 ## 🧰 **Languages and Tools** 
      
