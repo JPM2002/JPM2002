@@ -1,13 +1,9 @@
 import tidalapi
 import re
-import os
 
-# --- Authenticate with Tidal via non-interactive OAuth ---
+# --- Authenticate with Tidal via browser‑flow (once locally) ---
 session = tidalapi.Session()
-session.login_oauth(
-    os.getenv('TIDAL_USERNAME'),
-    os.getenv('TIDAL_PASSWORD')
-)
+session.login_oauth_simple()     # pops open the OAuth flow, writes a cache file
 
 # --- Fetch current track ---
 player = tidalapi.playback.Player(session)
