@@ -6,6 +6,7 @@
 [![Website](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=flat-square&logo=vercel)](https://javierpozo.vercel.app/)
 [![Email](https://img.shields.io/badge/Outlook-jdp5958@psu.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jdp5958@psu.edu)
 
+
 ## 🧰 **Languages and Tools** 
      
 <p align="center">
