@@ -133,7 +133,7 @@ Java         14 mins         ██▓░░░░░░░░░░░░░░
 <!-- DISCOGS_TABLE_START -->
 | 📦 Collection | 🌟 Wantlist | 🎤 Top Artists           | 🎶 Top Genres          |
 |:-------------:|:-----------:|:-----------------------:|:----------------------:|
-| 111 records | 231 records | Billy Joel (11), Various (7), Bobby Vinton (6), Genesis (5), The Smiths (4) | Rock (66), Pop (29), Electronic (13) |
+| 109 records | 231 records | Billy Joel (10), Various (7), Bobby Vinton (5), Genesis (5), The Smiths (4) | Rock (65), Pop (28), Electronic (13) |
 <!-- DISCOGS_TABLE_END -->
 
 
