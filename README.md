@@ -129,7 +129,7 @@ No activity tracked
 <!-- DISCOGS_TABLE_START -->
 | 📦 Collection | 🌟 Wantlist | 🎤 Top Artists           | 🎶 Top Genres          |
 |:-------------:|:-----------:|:-----------------------:|:----------------------:|
-| 112 records | 235 records | Billy Joel (10), Various (7), Bobby Vinton (5), Genesis (5), The Smiths (4) | Rock (66), Pop (28), Electronic (14) |
+| 118 records | 235 records | Billy Joel (13), Various (7), Bobby Vinton (5), Genesis (5), The Smiths (4) | Rock (67), Pop (28), Electronic (14) |
 <!-- DISCOGS_TABLE_END -->
 
 
