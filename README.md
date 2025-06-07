@@ -108,15 +108,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2025 - To: 05 June 2025
+From: 30 May 2025 - To: 06 June 2025
 
-Total Time: 4 hrs 14 mins
+Total Time: 2 hrs 53 mins
 
-TypeScript   3 hrs           █████████████████░░░░░░░░   68.19 %
-Python       1 hr 11 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TypeScript   1 hr 40 mins    ██████████████░░░░░░░░░░░   55.83 %
+Python       1 hr 11 mins    ██████████░░░░░░░░░░░░░░░   39.84 %
+Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
