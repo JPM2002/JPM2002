@@ -108,15 +108,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
+From: 30 September 2025 - To: 07 October 2025
 
-Total Time: 8 hrs 56 mins
+Total Time: 6 hrs 29 mins
 
-Python       3 hrs 57 mins   ███████████░░░░░░░░░░░░░░   44.02 %
-HTML         2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25 %
-Text         1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Bash         45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Git Config   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Python       2 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.36 %
+HTML         2 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.62 %
+Bash         45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Text         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Git Config   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
