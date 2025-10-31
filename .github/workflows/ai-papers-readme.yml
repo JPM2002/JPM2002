@@ -4,16 +4,29 @@ on:
   workflow_dispatch:
     inputs:
       search_query:
-        description: "Topic to search (overrides default)"
+        description: >-
+          Free-text query for arXiv (matched in title/abstract/authors via all:).
+          Use quotes for phrases and OR/AND to combine terms.
+          Examples:
+          "computer vision" OR diffusion,
+          ("vision-language" OR VLM) AND retrieval,
+          ("large language model" OR LLM) AND NOT survey
         required: false
       arxiv_categories:
-        description: "Comma-separated arXiv categories (e.g. cs.LG,cs.CV)"
+        description: >-
+          Comma-separated arXiv subject codes to restrict results (no spaces).
+          Common: cs.CV (Vision), cs.CL (NLP), cs.LG (ML), cs.AI (AI), stat.ML (Stats ML).
+          Examples: cs.CV  •  cs.CL,cs.LG  •  cs.CV,cs.CL,cs.LG
         required: false
       days_back:
-        description: "How far back to look (days)"
+        description: >-
+          How many days back to include (UTC window; the cron runs daily).
+          Smaller = fresher. Examples: 1 (today), 2 (last 48h), 7 (last week).
         required: false
       max_papers:
-        description: "Max papers to show"
+        description: >-
+          Maximum number of papers to render in the README (after filtering by time/category).
+          Examples: 3 (compact showcase), 10 (default), 20 (broader sweep).
         required: false
   schedule:
     - cron: "5 6 * * *"  # daily at 06:05 UTC
