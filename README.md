@@ -9,7 +9,28 @@
 ## 🔬 Fresh SOTA Papers
 
 <!-- SOTA-START -->
-_The latest will appear here after the daily run._
+**Query:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` &nbsp; • &nbsp; **Categories:** `cs.LG,cs.AI,cs.CV,cs.CL,stat.ML` &nbsp; • &nbsp; **Window:** last 2 day(s)
+
+- **[Masked Diffusion Captioning for Visual Feature Learning](http://arxiv.org/pdf/2510.26799v1)**  
+  Chao Feng, Zihao Wei, Andrew Owens — *cs.CV*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26799v1)]
+- **[The Quest for Generalizable Motion Generation: Data, Model, and Evaluation](http://arxiv.org/pdf/2510.26794v1)**  
+  Jing Lin, Ruisi Wang, Junzhe Lu, Ziqi Huang, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai, Lei Yang, Ziwei Liu — *cs.CV*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26794v1)]
+- **[Emu3.5: Native Multimodal Models are World Learners](http://arxiv.org/pdf/2510.26583v1)**  
+  Yufeng Cui, Honghao Chen, Haoge Deng, Xu Huang, Xinghang Li, Jirong Liu, Yang Liu, Zhuoyan Luo, Jinsheng Wang, Wenxuan Wang, Yueze Wang, Chengyuan Wang, Fan Zhang, Yingli Zhao, Ting Pan, Xianduo Li, Zecheng Hao, Wenxuan Ma, Zhuo Chen, Yulong Ao, Tiejun Huang, Zhongyuan Wang, Xinlong Wang — *cs.CV*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26583v1)]
+- **[Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters](http://arxiv.org/pdf/2510.26501v1)**  
+  Mustafa Fuad Rifet Ibrahim, Maurice Meijer, Alexander Schlaefer, Peer Stelldinger — *cs.LG*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26501v1)]
+- **[EEG-Driven Image Reconstruction with Saliency-Guided Diffusion Models](http://arxiv.org/pdf/2510.26391v1)**  
+  Igor Abramov, Ilya Makarov — *cs.CV*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26391v1)]
+- **[GLYPH-SR: Can We Achieve Both High-Quality Image Super-Resolution and High-Fidelity Text Recovery via VLM-guided Latent Diffusion Model?](http://arxiv.org/pdf/2510.26339v1)**  
+  Mingyu Sung, Seungjae Ham, Kangwoo Kim, Yeokyoung Yoon, Sangseok Yun, Il-Min Kim, Jae-Mo Kang — *cs.CV*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26339v1)]
+- **[Posterior Sampling by Combining Diffusion Models with Annealed Langevin Dynamics](http://arxiv.org/pdf/2510.26324v1)**  
+  Zhiyang Xun, Shivam Gupta, Eric Price — *cs.LG*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26324v1)]
+- **[Distributional Multi-objective Black-box Optimization for Diffusion-model Inference-time Multi-Target Generation](http://arxiv.org/pdf/2510.26278v1)**  
+  Kim Yong Tan, Yueming Lyu, Ivor Tsang, Yew-Soon Ong — *cs.LG*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26278v1)]
+- **[Revisiting Generative Infrared and Visible Image Fusion Based on Human Cognitive Laws](http://arxiv.org/pdf/2510.26268v1)**  
+  Lin Guo, Xiaoqing Luo, Wei Xie, Zhancheng Zhang, Hui Li, Rui Wang, Zhenhua Feng, Xiaoning Song — *cs.CV*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26268v1)]
+- **[Which Way Does Time Flow? A Psychophysics-Grounded Evaluation for Vision-Language Models](http://arxiv.org/pdf/2510.26241v1)**  
+  Shiho Matta, Lis Kanashiro Pereira, Peitao Han, Fei Cheng, Shigeru Kitazawa — *cs.CV*, 2025-10-30 · [[abs](http://arxiv.org/abs/2510.26241v1)]
 <!-- SOTA-END -->
 
 
