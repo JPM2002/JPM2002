@@ -161,45 +161,48 @@ def maybe_fetch_x_links():
     return uniq
 
 def render_markdown(papers, xlinks):
-    if not papers and not xlinks:
-        return "_No new results in the chosen window._"
+    """
+    Render a compact table with a 'last updated' line.
+    Authors go in <sub> to keep the table tidy.
+    """
+    from datetime import datetime, timezone
 
-    lines = []
+    now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+    header = (
+        f"**Topic:** `{SEARCH_QUERY}` • **Categories:** `{ARXIV_CATEGORIES}` "
+        f"• **Window:** last {DAYS_BACK} day(s) • **Max:** {MAX_PAPERS}  \n"
+        f"_Last updated: {now_utc}_\n\n"
+    )
+
+    lines = [header]
+
     if papers:
-        lines.append(f"**Query:** `{SEARCH_QUERY}` &nbsp; • &nbsp; **Categories:** `{ARXIV_CATEGORIES}` &nbsp; • &nbsp; **Window:** last {DAYS_BACK} day(s)")
-        lines.append("")
-        for p in papers:
-            lines.append(
-                f"- **[{p['title']}]({p['pdf']})**  \n"
-                f"  {p['authors']} — *{p['primary']}*, {p['date']} · [[abs]({p['abs']})]"
-            )
+        lines.append("| # | Title | Cat. | Date | Links |")
+        lines.append("|:-:|:------|:----:|:----:|:------|")
+        for i, p in enumerate(papers, 1):
+            title = p["title"]
+            authors = p["authors"]
+            primary = p["primary"] or "—"
+            date = p["date"]
+            pdf = p["pdf"]
+            abs_url = p["abs"]
+            # put authors in small text under the title to keep the row short
+            title_cell = f"**[{title}]({pdf})**<br><sub>{authors}</sub>" if authors else f"**[{title}]({pdf})**"
+            links_cell = f"[pdf]({pdf}) · [abs]({abs_url})"
+            lines.append(f"| {i} | {title_cell} | {primary} | {date} | {links_cell} |")
+
     if xlinks:
-        lines.append("")
-        lines.append("<details><summary>🔎 Also spotted on X (arXiv links)</summary>\n")
+        lines.append("\n<details><summary>🔎 Also spotted on X (arXiv links)</summary>\n")
         for xl in xlinks[:10]:
             lines.append(f"- {xl['date']}: {xl['url']} (via @{xl['tweeted_by']})")
         lines.append("\n</details>")
 
+    if not papers and not xlinks:
+        lines.append("_No new results in the chosen window._")
+
     return "\n".join(lines)
 
-def update_readme(block_md: str):
-    with open(README_PATH, "r", encoding="utf-8") as f:
-        content = f.read()
-
-    if START_MARK not in content or END_MARK not in content:
-        print(f"[error] README missing anchors {START_MARK} / {END_MARK}", file=sys.stderr)
-        sys.exit(1)
-
-    pattern = re.compile(rf"{re.escape(START_MARK)}.*?{re.escape(END_MARK)}", flags=re.DOTALL)
-    replacement = f"{START_MARK}\n{block_md}\n{END_MARK}"
-    new_content = re.sub(pattern, replacement, content)
-
-    if new_content != content:
-        with open(README_PATH, "w", encoding="utf-8") as f:
-            f.write(new_content)
-        print("[info] README updated.")
-    else:
-        print("[info] README unchanged.")
 
 def main():
     print(f"[info] Query='{SEARCH_QUERY}', categories='{ARXIV_CATEGORIES}', days_back={DAYS_BACK}, max_papers={MAX_PAPERS}")
