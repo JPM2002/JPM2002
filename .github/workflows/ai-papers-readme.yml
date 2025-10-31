@@ -1,0 +1,60 @@
+name: SOTA Papers → README
+
+on:
+  workflow_dispatch:
+    inputs:
+      search_query:
+        description: "Topic to search (overrides default)"
+        required: false
+      arxiv_categories:
+        description: "Comma-separated arXiv categories (e.g. cs.LG,cs.CV)"
+        required: false
+      days_back:
+        description: "How far back to look (days)"
+        required: false
+      max_papers:
+        description: "Max papers to show"
+        required: false
+  schedule:
+    # Daily at 06:05 UTC — adjust if you like
+    - cron: "5 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests python-dateutil
+
+      - name: Run fetch script
+        env:
+          # Defaults (can be overridden via workflow_dispatch inputs or repo Variables)
+          SEARCH_QUERY: ${{ github.event.inputs.search_query || vars.SOTA_SEARCH_QUERY || 'diffusion OR "large language model" OR "vision-language" OR reinforcement learning' }}
+          ARXIV_CATEGORIES: ${{ github.event.inputs.arxiv_categories || vars.SOTA_ARXIV_CATEGORIES || 'cs.LG,cs.AI,cs.CV,cs.CL,stat.ML' }}
+          DAYS_BACK: ${{ github.event.inputs.days_back || vars.SOTA_DAYS_BACK || '2' }}
+          MAX_PAPERS: ${{ github.event.inputs.max_papers || vars.SOTA_MAX_PAPERS || '10' }}
+
+          # --- Twitter/X integration (enable by setting secret + variable) ---
+          TW_BEARER: ${{ secrets.TW_BEARER }}             # REQUIRED to pull tweets
+          TW_ACCOUNTS: ${{ vars.SOTA_TW_ACCOUNTS }}       # e.g., "karpathy,ylecun,abacaj"
+        run: |
+          python scripts/fetch_papers.py
+
+      - name: Commit & push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(readme): refresh SOTA papers list"
+          file_pattern: README.md
