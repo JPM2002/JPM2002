@@ -6,6 +6,13 @@
 [![Website](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=flat-square&logo=vercel)](https://javierpozo.vercel.app/)
 [![Email](https://img.shields.io/badge/Outlook-javier.pozo.miranda@gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:Javier.pozo.miranda@gmail.com)
 
+## 🔬 Fresh SOTA Papers
+
+<!-- SOTA-START -->
+_The latest will appear here after the daily run._
+<!-- SOTA-END -->
+
+
 
 ## 🧰 **Languages and Tools** 
      
