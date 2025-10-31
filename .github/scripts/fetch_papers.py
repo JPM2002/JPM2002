@@ -203,6 +203,25 @@ def render_markdown(papers, xlinks):
 
     return "\n".join(lines)
 
+def update_readme(block_md: str):
+    with open(README_PATH, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    if START_MARK not in content or END_MARK not in content:
+        print(f"[error] README missing anchors {START_MARK} / {END_MARK}", file=sys.stderr)
+        sys.exit(1)
+
+    pattern = re.compile(rf"{re.escape(START_MARK)}.*?{re.escape(END_MARK)}", flags=re.DOTALL)
+    replacement = f"{START_MARK}\n{block_md}\n{END_MARK}"
+    new_content = re.sub(pattern, replacement, content)
+
+    if new_content != content:
+        with open(README_PATH, "w", encoding="utf-8") as f:
+            f.write(new_content)
+        print("[info] README updated.")
+    else:
+        print("[info] README unchanged.")
+
 
 def main():
     print(f"[info] Query='{SEARCH_QUERY}', categories='{ARXIV_CATEGORIES}', days_back={DAYS_BACK}, max_papers={MAX_PAPERS}")
