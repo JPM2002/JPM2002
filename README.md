@@ -122,7 +122,15 @@ CSS          6 mins          ▒░░░░░░░░░░░░░░░░
 ## 🔬 Fresh SOTA Papers (auto-updated)
 
 <!-- SOTA-START -->
-_The latest will appear here after the run._
+**Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
+_Last updated: 2025-10-31 17:53 UTC_
+
+
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Masked Diffusion Captioning for Visual Feature Learning](http://arxiv.org/pdf/2510.26799v1)**<br><sub>Chao Feng, Zihao Wei, Andrew Owens</sub> | cs.CV | 2025-10-30 | [pdf](http://arxiv.org/pdf/2510.26799v1) · [abs](http://arxiv.org/abs/2510.26799v1) |
+| 2 | **[The Quest for Generalizable Motion Generation: Data, Model, and Evaluation](http://arxiv.org/pdf/2510.26794v1)**<br><sub>Jing Lin, Ruisi Wang, Junzhe Lu, Ziqi Huang, Guorui Song, Ailing Zeng, Xian Liu, Chen Wei, Wanqi Yin, Qingping Sun, Zhongang Cai, Lei Yang, Ziwei Liu</sub> | cs.CV | 2025-10-30 | [pdf](http://arxiv.org/pdf/2510.26794v1) · [abs](http://arxiv.org/abs/2510.26794v1) |
+| 3 | **[Emu3.5: Native Multimodal Models are World Learners](http://arxiv.org/pdf/2510.26583v1)**<br><sub>Yufeng Cui, Honghao Chen, Haoge Deng, Xu Huang, Xinghang Li, Jirong Liu, Yang Liu, Zhuoyan Luo, Jinsheng Wang, Wenxuan Wang, Yueze Wang, Chengyuan Wang, Fan Zhang, Yingli Zhao, Ting Pan, Xianduo Li, Zecheng Hao, Wenxuan Ma, Zhuo Chen, Yulong Ao, Tiejun Huang, Zhongyuan Wang, Xinlong Wang</sub> | cs.CV | 2025-10-30 | [pdf](http://arxiv.org/pdf/2510.26583v1) · [abs](http://arxiv.org/abs/2510.26583v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
