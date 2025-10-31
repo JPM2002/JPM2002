@@ -16,8 +16,7 @@ on:
         description: "Max papers to show"
         required: false
   schedule:
-    # Daily at 06:05 UTC — adjust if you like
-    - cron: "5 6 * * *"
+    - cron: "5 6 * * *"  # daily at 06:05 UTC
 
 permissions:
   contents: write
@@ -28,6 +27,19 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Show files (debug)
+        run: |
+          echo "PWD=$(pwd)"
+          ls -la
+          echo "---- .github/scripts ----"
+          ls -la .github/scripts || true
+
+      - name: Verify script exists
+        run: |
+          test -f .github/scripts/fetch_papers.py || (echo "Missing .github/scripts/fetch_papers.py" && exit 1)
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -41,17 +53,14 @@ jobs:
 
       - name: Run fetch script
         env:
-          # Defaults (can be overridden via workflow_dispatch inputs or repo Variables)
           SEARCH_QUERY: ${{ github.event.inputs.search_query || vars.SOTA_SEARCH_QUERY || 'diffusion OR "large language model" OR "vision-language" OR reinforcement learning' }}
           ARXIV_CATEGORIES: ${{ github.event.inputs.arxiv_categories || vars.SOTA_ARXIV_CATEGORIES || 'cs.LG,cs.AI,cs.CV,cs.CL,stat.ML' }}
           DAYS_BACK: ${{ github.event.inputs.days_back || vars.SOTA_DAYS_BACK || '2' }}
           MAX_PAPERS: ${{ github.event.inputs.max_papers || vars.SOTA_MAX_PAPERS || '10' }}
-
-          # --- Twitter/X integration (enable by setting secret + variable) ---
-          TW_BEARER: ${{ secrets.TW_BEARER }}             # REQUIRED to pull tweets
-          TW_ACCOUNTS: ${{ vars.SOTA_TW_ACCOUNTS }}       # e.g., "karpathy,ylecun,abacaj"
+          TW_BEARER: ${{ secrets.TW_BEARER }}
+          TW_ACCOUNTS: ${{ vars.SOTA_TW_ACCOUNTS }}
         run: |
-          python scripts/fetch_papers.py
+          python .github/scripts/fetch_papers.py
 
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v5
