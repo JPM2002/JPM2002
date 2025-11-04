@@ -124,10 +124,13 @@ CSS          6 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-03 06:42 UTC_
+_Last updated: 2025-11-04 06:41 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction](http://arxiv.org/pdf/2510.26907v2)**<br><sub>Meghraj Prajapat, Alankar Alankar</sub> | cond-mat.mtrl-sci | 2025-11-03 | [pdf](http://arxiv.org/pdf/2510.26907v2) · [abs](http://arxiv.org/abs/2510.26907v2) |
+| 2 | **[Rethinking Visual Intelligence: Insights from Video Pretraining](http://arxiv.org/pdf/2510.24448v2)**<br><sub>Pablo Acuaviva, Aram Davtyan, Mariam Hassan, Sebastian Stapf, Ahmad Rahimi, Alexandre Alahi, Paolo Favaro</sub> | cs.CV | 2025-11-03 | [pdf](http://arxiv.org/pdf/2510.24448v2) · [abs](http://arxiv.org/abs/2510.24448v2) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
