@@ -124,13 +124,14 @@ CSS          6 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-04 06:41 UTC_
+_Last updated: 2025-11-05 06:40 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction](http://arxiv.org/pdf/2510.26907v2)**<br><sub>Meghraj Prajapat, Alankar Alankar</sub> | cond-mat.mtrl-sci | 2025-11-03 | [pdf](http://arxiv.org/pdf/2510.26907v2) · [abs](http://arxiv.org/abs/2510.26907v2) |
-| 2 | **[Rethinking Visual Intelligence: Insights from Video Pretraining](http://arxiv.org/pdf/2510.24448v2)**<br><sub>Pablo Acuaviva, Aram Davtyan, Mariam Hassan, Sebastian Stapf, Ahmad Rahimi, Alexandre Alahi, Paolo Favaro</sub> | cs.CV | 2025-11-03 | [pdf](http://arxiv.org/pdf/2510.24448v2) · [abs](http://arxiv.org/abs/2510.24448v2) |
+| 1 | **[AI-Generated Image Detection: An Empirical Study and Future Research Directions](http://arxiv.org/pdf/2511.02791v1)**<br><sub>Nusrat Tasnim, Kutub Uddin, Khalid Mahmood Malik</sub> | cs.CV | 2025-11-04 | [pdf](http://arxiv.org/pdf/2511.02791v1) · [abs](http://arxiv.org/abs/2511.02791v1) |
+| 2 | **[TAUE: Training-free Noise Transplant and Cultivation Diffusion Model](http://arxiv.org/pdf/2511.02580v1)**<br><sub>Daichi Nagai, Ryugo Morita, Shunsuke Kitada, Hitoshi Iyatomi</sub> | cs.CV | 2025-11-04 | [pdf](http://arxiv.org/pdf/2511.02580v1) · [abs](http://arxiv.org/abs/2511.02580v1) |
+| 3 | **[DetectiumFire: A Comprehensive Multi-modal Dataset Bridging Vision and Language for Fire Understanding](http://arxiv.org/pdf/2511.02495v1)**<br><sub>Zixuan Liu, Siavash H. Khajavi, Guangkai Jiang</sub> | cs.CV | 2025-11-04 | [pdf](http://arxiv.org/pdf/2511.02495v1) · [abs](http://arxiv.org/abs/2511.02495v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
