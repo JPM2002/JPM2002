@@ -124,14 +124,14 @@ Text         1 min           ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-05 06:40 UTC_
+_Last updated: 2025-11-06 06:41 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[AI-Generated Image Detection: An Empirical Study and Future Research Directions](http://arxiv.org/pdf/2511.02791v1)**<br><sub>Nusrat Tasnim, Kutub Uddin, Khalid Mahmood Malik</sub> | cs.CV | 2025-11-04 | [pdf](http://arxiv.org/pdf/2511.02791v1) · [abs](http://arxiv.org/abs/2511.02791v1) |
-| 2 | **[TAUE: Training-free Noise Transplant and Cultivation Diffusion Model](http://arxiv.org/pdf/2511.02580v1)**<br><sub>Daichi Nagai, Ryugo Morita, Shunsuke Kitada, Hitoshi Iyatomi</sub> | cs.CV | 2025-11-04 | [pdf](http://arxiv.org/pdf/2511.02580v1) · [abs](http://arxiv.org/abs/2511.02580v1) |
-| 3 | **[DetectiumFire: A Comprehensive Multi-modal Dataset Bridging Vision and Language for Fire Understanding](http://arxiv.org/pdf/2511.02495v1)**<br><sub>Zixuan Liu, Siavash H. Khajavi, Guangkai Jiang</sub> | cs.CV | 2025-11-04 | [pdf](http://arxiv.org/pdf/2511.02495v1) · [abs](http://arxiv.org/abs/2511.02495v1) |
+| 1 | **[UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions](http://arxiv.org/pdf/2511.03334v1)**<br><sub>Guozhen Zhang, Zixiang Zhou, Teng Hu, Ziqiao Peng, Youliang Zhang, Yi Chen, Yuan Zhou, Qinglin Lu, Limin Wang</sub> | cs.CV | 2025-11-05 | [pdf](http://arxiv.org/pdf/2511.03334v1) · [abs](http://arxiv.org/abs/2511.03334v1) |
+| 2 | **[Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models](http://arxiv.org/pdf/2511.03317v1)**<br><sub>Minghao Fu, Guo-Hua Wang, Tianyu Cui, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang</sub> | cs.CV | 2025-11-05 | [pdf](http://arxiv.org/pdf/2511.03317v1) · [abs](http://arxiv.org/abs/2511.03317v1) |
+| 3 | **[Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising](http://arxiv.org/pdf/2511.03272v1)**<br><sub>Shuangquan Lyu, Steven Mao, Yue Ma</sub> | cs.CV | 2025-11-05 | [pdf](http://arxiv.org/pdf/2511.03272v1) · [abs](http://arxiv.org/abs/2511.03272v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
