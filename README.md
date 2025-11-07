@@ -124,14 +124,14 @@ Text         1 min           ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-06 06:41 UTC_
+_Last updated: 2025-11-07 06:40 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions](http://arxiv.org/pdf/2511.03334v1)**<br><sub>Guozhen Zhang, Zixiang Zhou, Teng Hu, Ziqiao Peng, Youliang Zhang, Yi Chen, Yuan Zhou, Qinglin Lu, Limin Wang</sub> | cs.CV | 2025-11-05 | [pdf](http://arxiv.org/pdf/2511.03334v1) · [abs](http://arxiv.org/abs/2511.03334v1) |
-| 2 | **[Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models](http://arxiv.org/pdf/2511.03317v1)**<br><sub>Minghao Fu, Guo-Hua Wang, Tianyu Cui, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang</sub> | cs.CV | 2025-11-05 | [pdf](http://arxiv.org/pdf/2511.03317v1) · [abs](http://arxiv.org/abs/2511.03317v1) |
-| 3 | **[Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising](http://arxiv.org/pdf/2511.03272v1)**<br><sub>Shuangquan Lyu, Steven Mao, Yue Ma</sub> | cs.CV | 2025-11-05 | [pdf](http://arxiv.org/pdf/2511.03272v1) · [abs](http://arxiv.org/abs/2511.03272v1) |
+| 1 | **[InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation](http://arxiv.org/pdf/2511.04675v1)**<br><sub>Jinlai Liu, Jian Han, Bin Yan, Hui Wu, Fengda Zhu, Xing Wang, Yi Jiang, Bingyue Peng, Zehuan Yuan</sub> | cs.CV | 2025-11-06 | [pdf](http://arxiv.org/pdf/2511.04675v1) · [abs](http://arxiv.org/abs/2511.04675v1) |
+| 2 | **[X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations](http://arxiv.org/pdf/2511.04671v1)**<br><sub>Maximus A. Pace, Prithwish Dan, Chuanruo Ning, Atiksh Bhardwaj, Audrey Du, Edward W. Duan, Wei-Chiu Ma, Kushal Kedia</sub> | cs.RO | 2025-11-06 | [pdf](http://arxiv.org/pdf/2511.04671v1) · [abs](http://arxiv.org/abs/2511.04671v1) |
+| 3 | **[Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](http://arxiv.org/pdf/2511.04555v1)**<br><sub>Tao Lin, Yilei Zhong, Yuxin Du, Jingjing Zhang, Jiting Liu, Yinxinyu Chen, Encheng Gu, Ziyan Liu, Hongyi Cai, Yanwen Zou, Lixing Zou, Zhaoye Zhou, Gen Li, Bo Zhao</sub> | cs.RO | 2025-11-06 | [pdf](http://arxiv.org/pdf/2511.04555v1) · [abs](http://arxiv.org/abs/2511.04555v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
