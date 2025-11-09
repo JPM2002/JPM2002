@@ -124,14 +124,10 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-08 06:37 UTC_
+_Last updated: 2025-11-09 06:37 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation](http://arxiv.org/pdf/2511.04675v1)**<br><sub>Jinlai Liu, Jian Han, Bin Yan, Hui Wu, Fengda Zhu, Xing Wang, Yi Jiang, Bingyue Peng, Zehuan Yuan</sub> | cs.CV | 2025-11-06 | [pdf](http://arxiv.org/pdf/2511.04675v1) · [abs](http://arxiv.org/abs/2511.04675v1) |
-| 2 | **[X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations](http://arxiv.org/pdf/2511.04671v1)**<br><sub>Maximus A. Pace, Prithwish Dan, Chuanruo Ning, Atiksh Bhardwaj, Audrey Du, Edward W. Duan, Wei-Chiu Ma, Kushal Kedia</sub> | cs.RO | 2025-11-06 | [pdf](http://arxiv.org/pdf/2511.04671v1) · [abs](http://arxiv.org/abs/2511.04671v1) |
-| 3 | **[Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](http://arxiv.org/pdf/2511.04555v1)**<br><sub>Tao Lin, Yilei Zhong, Yuxin Du, Jingjing Zhang, Jiting Liu, Yinxinyu Chen, Encheng Gu, Ziyan Liu, Hongyi Cai, Yanwen Zou, Lixing Zou, Zhaoye Zhou, Gen Li, Bo Zhao</sub> | cs.RO | 2025-11-06 | [pdf](http://arxiv.org/pdf/2511.04555v1) · [abs](http://arxiv.org/abs/2511.04555v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
