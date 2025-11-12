@@ -124,14 +124,10 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-11 06:41 UTC_
+_Last updated: 2025-11-12 06:41 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation](http://arxiv.org/pdf/2511.07399v1)**<br><sub>Tianrui Feng, Zhi Li, Shuo Yang, Haocheng Xi, Muyang Li, Xiuyu Li, Lvmin Zhang, Keting Yang, Kelly Peng, Song Han, Maneesh Agrawala, Kurt Keutzer, Akio Kodaira, Chenfeng Xu</sub> | cs.CV | 2025-11-10 | [pdf](http://arxiv.org/pdf/2511.07399v1) · [abs](http://arxiv.org/abs/2511.07399v1) |
-| 2 | **[Inference-Time Scaling of Diffusion Models for Infrared Data Generation](http://arxiv.org/pdf/2511.07362v1)**<br><sub>Kai A. Horstmann, Maxim Clouser, Kia Khezeli</sub> | cs.CV | 2025-11-10 | [pdf](http://arxiv.org/pdf/2511.07362v1) · [abs](http://arxiv.org/abs/2511.07362v1) |
-| 3 | **[GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution](http://arxiv.org/pdf/2511.07103v1)**<br><sub>Sirui Wang, Jiang He, Natàlia Blasco Andreo, Xiao Xiang Zhu</sub> | cs.CV | 2025-11-10 | [pdf](http://arxiv.org/pdf/2511.07103v1) · [abs](http://arxiv.org/abs/2511.07103v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
