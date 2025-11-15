@@ -121,10 +121,14 @@ Python   33 mins         ████████▒░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-14 06:41 UTC_
+_Last updated: 2025-11-15 06:37 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling](https://arxiv.org/pdf/2511.10648v1)**<br><sub>Jiahao Wang, Weiye Xu, Aijun Yang, Wengang Zhou, Lewei Lu, Houqiang Li, Xiaohua Wang, Jinguo Zhu</sub> | cs.CV | 2025-11-13 | [pdf](https://arxiv.org/pdf/2511.10648v1) · [abs](https://arxiv.org/abs/2511.10648v1) |
+| 2 | **[Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/pdf/2511.10647v1)**<br><sub>Haotong Lin, Sili Chen, Junhao Liew, Donny Y. Chen, Zhenyu Li, Guang Shi, Jiashi Feng, Bingyi Kang</sub> | cs.CV | 2025-11-13 | [pdf](https://arxiv.org/pdf/2511.10647v1) · [abs](https://arxiv.org/abs/2511.10647v1) |
+| 3 | **[One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models](https://arxiv.org/pdf/2511.10629v1)**<br><sub>Aleksandr Razin, Danil Kazantsev, Ilya Makarov</sub> | cs.CV | 2025-11-13 | [pdf](https://arxiv.org/pdf/2511.10629v1) · [abs](https://arxiv.org/abs/2511.10629v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
