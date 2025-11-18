@@ -124,10 +124,14 @@ Text     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-17 06:42 UTC_
+_Last updated: 2025-11-18 06:40 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/pdf/2511.13720v1)**<br><sub>Tianhong Li, Kaiming He</sub> | cs.CV | 2025-11-17 | [pdf](https://arxiv.org/pdf/2511.13720v1) · [abs](https://arxiv.org/abs/2511.13720v1) |
+| 2 | **[Scaling Spatial Intelligence with Multimodal Foundation Models](https://arxiv.org/pdf/2511.13719v1)**<br><sub>Zhongang Cai, Ruisi Wang, Chenyang Gu, Fanyi Pu, Junxiang Xu, Yubo Wang, Wanqi Yin, Zhitao Yang, Chen Wei, Qingping Sun, Tongxi Zhou, Jiaqi Li, Hui En Pang, Oscar Qian, Yukun Wei, Zhiqian Lin, Xuanke Shi, Kewang Deng, Xiaoyang Han, Zukai Chen, Xiangyu Fan, Hanming Deng, Lewei Lu, Liang Pan, Bo Li, Ziwei Liu, Quan Wang, Dahua Lin, Lei Yang</sub> | cs.CV | 2025-11-17 | [pdf](https://arxiv.org/pdf/2511.13719v1) · [abs](https://arxiv.org/abs/2511.13719v1) |
+| 3 | **[UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity](https://arxiv.org/pdf/2511.13714v1)**<br><sub>Junwei Yu, Trevor Darrell, XuDong Wang</sub> | cs.CV | 2025-11-17 | [pdf](https://arxiv.org/pdf/2511.13714v1) · [abs](https://arxiv.org/abs/2511.13714v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
