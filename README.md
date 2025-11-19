@@ -124,14 +124,14 @@ Text     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-18 06:40 UTC_
+_Last updated: 2025-11-19 06:40 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/pdf/2511.13720v1)**<br><sub>Tianhong Li, Kaiming He</sub> | cs.CV | 2025-11-17 | [pdf](https://arxiv.org/pdf/2511.13720v1) · [abs](https://arxiv.org/abs/2511.13720v1) |
-| 2 | **[Scaling Spatial Intelligence with Multimodal Foundation Models](https://arxiv.org/pdf/2511.13719v1)**<br><sub>Zhongang Cai, Ruisi Wang, Chenyang Gu, Fanyi Pu, Junxiang Xu, Yubo Wang, Wanqi Yin, Zhitao Yang, Chen Wei, Qingping Sun, Tongxi Zhou, Jiaqi Li, Hui En Pang, Oscar Qian, Yukun Wei, Zhiqian Lin, Xuanke Shi, Kewang Deng, Xiaoyang Han, Zukai Chen, Xiangyu Fan, Hanming Deng, Lewei Lu, Liang Pan, Bo Li, Ziwei Liu, Quan Wang, Dahua Lin, Lei Yang</sub> | cs.CV | 2025-11-17 | [pdf](https://arxiv.org/pdf/2511.13719v1) · [abs](https://arxiv.org/abs/2511.13719v1) |
-| 3 | **[UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity](https://arxiv.org/pdf/2511.13714v1)**<br><sub>Junwei Yu, Trevor Darrell, XuDong Wang</sub> | cs.CV | 2025-11-17 | [pdf](https://arxiv.org/pdf/2511.13714v1) · [abs](https://arxiv.org/abs/2511.13714v1) |
+| 1 | **[ARC Is a Vision Problem!](https://arxiv.org/pdf/2511.14761v1)**<br><sub>Keya Hu, Ali Cy, Linlu Qiu, Xiaoman Delores Ding, Runqian Wang, Yeyin Eva Zhu, Jacob Andreas, Kaiming He</sub> | cs.CV | 2025-11-18 | [pdf](https://arxiv.org/pdf/2511.14761v1) · [abs](https://arxiv.org/abs/2511.14761v1) |
+| 2 | **[UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning](https://arxiv.org/pdf/2511.14760v1)**<br><sub>Rui Tian, Mingfei Gao, Haiming Gang, Jiasen Lu, Zhe Gan, Yinfei Yang, Zuxuan Wu, Afshin Dehghan</sub> | cs.CV | 2025-11-18 | [pdf](https://arxiv.org/pdf/2511.14760v1) · [abs](https://arxiv.org/abs/2511.14760v1) |
+| 3 | **[Vision Large Language Models Are Good Noise Handlers in Engagement Analysis](https://arxiv.org/pdf/2511.14749v1)**<br><sub>Alexander Vedernikov, Puneet Kumar, Haoyu Chen, Tapio Seppänen, Xiaobai Li</sub> | cs.CV | 2025-11-18 | [pdf](https://arxiv.org/pdf/2511.14749v1) · [abs](https://arxiv.org/abs/2511.14749v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
