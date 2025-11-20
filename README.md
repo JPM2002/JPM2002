@@ -124,14 +124,14 @@ Text     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-19 06:40 UTC_
+_Last updated: 2025-11-20 06:40 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[ARC Is a Vision Problem!](https://arxiv.org/pdf/2511.14761v1)**<br><sub>Keya Hu, Ali Cy, Linlu Qiu, Xiaoman Delores Ding, Runqian Wang, Yeyin Eva Zhu, Jacob Andreas, Kaiming He</sub> | cs.CV | 2025-11-18 | [pdf](https://arxiv.org/pdf/2511.14761v1) · [abs](https://arxiv.org/abs/2511.14761v1) |
-| 2 | **[UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning](https://arxiv.org/pdf/2511.14760v1)**<br><sub>Rui Tian, Mingfei Gao, Haiming Gang, Jiasen Lu, Zhe Gan, Yinfei Yang, Zuxuan Wu, Afshin Dehghan</sub> | cs.CV | 2025-11-18 | [pdf](https://arxiv.org/pdf/2511.14760v1) · [abs](https://arxiv.org/abs/2511.14760v1) |
-| 3 | **[Vision Large Language Models Are Good Noise Handlers in Engagement Analysis](https://arxiv.org/pdf/2511.14749v1)**<br><sub>Alexander Vedernikov, Puneet Kumar, Haoyu Chen, Tapio Seppänen, Xiaobai Li</sub> | cs.CV | 2025-11-18 | [pdf](https://arxiv.org/pdf/2511.14749v1) · [abs](https://arxiv.org/abs/2511.14749v1) |
+| 1 | **[GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://arxiv.org/pdf/2511.15705v1)**<br><sub>Yikun Wang, Zuyan Liu, Ziyi Wang, Pengfei Liu, Han Hu, Yongming Rao</sub> | cs.CV | 2025-11-19 | [pdf](https://arxiv.org/pdf/2511.15705v1) · [abs](https://arxiv.org/abs/2511.15705v1) |
+| 2 | **[In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data](https://arxiv.org/pdf/2511.15704v1)**<br><sub>Xiongyi Cai, Ri-Zhao Qiu, Geng Chen, Lai Wei, Isabella Liu, Tianshu Huang, Xuxin Cheng, Xiaolong Wang</sub> | cs.RO | 2025-11-19 | [pdf](https://arxiv.org/pdf/2511.15704v1) · [abs](https://arxiv.org/abs/2511.15704v1) |
+| 3 | **[Think Visually, Reason Textually: Vision-Language Synergy in ARC](https://arxiv.org/pdf/2511.15703v1)**<br><sub>Beichen Zhang, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Haodong Duan, Dahua Lin, Jiaqi Wang</sub> | cs.CV | 2025-11-19 | [pdf](https://arxiv.org/pdf/2511.15703v1) · [abs](https://arxiv.org/abs/2511.15703v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
