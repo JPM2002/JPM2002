@@ -124,14 +124,14 @@ Text     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-20 06:40 UTC_
+_Last updated: 2025-11-21 06:42 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://arxiv.org/pdf/2511.15705v1)**<br><sub>Yikun Wang, Zuyan Liu, Ziyi Wang, Pengfei Liu, Han Hu, Yongming Rao</sub> | cs.CV | 2025-11-19 | [pdf](https://arxiv.org/pdf/2511.15705v1) · [abs](https://arxiv.org/abs/2511.15705v1) |
-| 2 | **[In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data](https://arxiv.org/pdf/2511.15704v1)**<br><sub>Xiongyi Cai, Ri-Zhao Qiu, Geng Chen, Lai Wei, Isabella Liu, Tianshu Huang, Xuxin Cheng, Xiaolong Wang</sub> | cs.RO | 2025-11-19 | [pdf](https://arxiv.org/pdf/2511.15704v1) · [abs](https://arxiv.org/abs/2511.15704v1) |
-| 3 | **[Think Visually, Reason Textually: Vision-Language Synergy in ARC](https://arxiv.org/pdf/2511.15703v1)**<br><sub>Beichen Zhang, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Haodong Duan, Dahua Lin, Jiaqi Wang</sub> | cs.CV | 2025-11-19 | [pdf](https://arxiv.org/pdf/2511.15703v1) · [abs](https://arxiv.org/abs/2511.15703v1) |
+| 1 | **[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/pdf/2511.16674v1)**<br><sub>George Cazenavette, Antonio Torralba, Vincent Sitzmann</sub> | cs.CV | 2025-11-20 | [pdf](https://arxiv.org/pdf/2511.16674v1) · [abs](https://arxiv.org/abs/2511.16674v1) |
+| 2 | **[EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards](https://arxiv.org/pdf/2511.16672v1)**<br><sub>Omkat Thawakar, Shravan Venkatraman, Ritesh Thawkar, Abdelrahman Shaker, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Khan</sub> | cs.CV | 2025-11-20 | [pdf](https://arxiv.org/pdf/2511.16672v1) · [abs](https://arxiv.org/abs/2511.16672v1) |
+| 3 | **[Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/pdf/2511.16671v1)**<br><sub>Ziyu Guo, Renrui Zhang, Hongyu Li, Manyuan Zhang, Xinyan Chen, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng</sub> | cs.CV | 2025-11-20 | [pdf](https://arxiv.org/pdf/2511.16671v1) · [abs](https://arxiv.org/abs/2511.16671v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
