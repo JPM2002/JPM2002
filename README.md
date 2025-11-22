@@ -124,7 +124,7 @@ Text     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-21 06:42 UTC_
+_Last updated: 2025-11-22 06:37 UTC_
 
 
 | # | Title | Cat. | Date | Links |
