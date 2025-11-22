@@ -107,14 +107,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2025 - To: 20 November 2025
+From: 14 November 2025 - To: 21 November 2025
 
-Total Time: 15 hrs 46 mins
+Total Time: 14 hrs 5 mins
 
-Python   10 hrs 5 mins   ████████████████░░░░░░░░░   63.96 %
-HTML     5 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   35.39 %
-YAML     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   9 hrs 31 mins   █████████████████░░░░░░░░   67.63 %
+HTML     4 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   31.64 %
+YAML     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Git      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
