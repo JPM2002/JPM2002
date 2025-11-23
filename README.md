@@ -124,14 +124,10 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-22 06:37 UTC_
+_Last updated: 2025-11-23 06:39 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/pdf/2511.16674v1)**<br><sub>George Cazenavette, Antonio Torralba, Vincent Sitzmann</sub> | cs.CV | 2025-11-20 | [pdf](https://arxiv.org/pdf/2511.16674v1) · [abs](https://arxiv.org/abs/2511.16674v1) |
-| 2 | **[EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards](https://arxiv.org/pdf/2511.16672v1)**<br><sub>Omkat Thawakar, Shravan Venkatraman, Ritesh Thawkar, Abdelrahman Shaker, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Khan</sub> | cs.CV | 2025-11-20 | [pdf](https://arxiv.org/pdf/2511.16672v1) · [abs](https://arxiv.org/abs/2511.16672v1) |
-| 3 | **[Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/pdf/2511.16671v1)**<br><sub>Ziyu Guo, Renrui Zhang, Hongyu Li, Manyuan Zhang, Xinyan Chen, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng</sub> | cs.CV | 2025-11-20 | [pdf](https://arxiv.org/pdf/2511.16671v1) · [abs](https://arxiv.org/abs/2511.16671v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
