@@ -123,10 +123,14 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-24 06:42 UTC_
+_Last updated: 2025-11-25 06:45 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection](https://arxiv.org/pdf/2511.19436v1)**<br><sub>Qiang Wang, Xinyuan Gao, SongLin Dong, Jizhou Han, Jiangyang Li, Yuhang He, Yihong Gong</sub> | cs.CV | 2025-11-24 | [pdf](https://arxiv.org/pdf/2511.19436v1) · [abs](https://arxiv.org/abs/2511.19436v1) |
+| 2 | **[Are Image-to-Video Models Good Zero-Shot Image Editors?](https://arxiv.org/pdf/2511.19435v1)**<br><sub>Zechuan Zhang, Zhenyuan Chen, Zongxin Yang, Yi Yang</sub> | cs.CV | 2025-11-24 | [pdf](https://arxiv.org/pdf/2511.19435v1) · [abs](https://arxiv.org/abs/2511.19435v1) |
+| 3 | **[Breaking the Likelihood-Quality Trade-off in Diffusion Models by Merging Pretrained Experts](https://arxiv.org/pdf/2511.19434v1)**<br><sub>Yasin Esfandiari, Stefan Bauer, Sebastian U. Stich, Andrea Dittadi</sub> | cs.CV | 2025-11-24 | [pdf](https://arxiv.org/pdf/2511.19434v1) · [abs](https://arxiv.org/abs/2511.19434v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
