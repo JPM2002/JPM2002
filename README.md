@@ -123,14 +123,14 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-26 06:43 UTC_
+_Last updated: 2025-11-27 06:43 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[RubricRL: Simple Generalizable Rewards for Text-to-Image Generation](https://arxiv.org/pdf/2511.20651v1)**<br><sub>Xuelu Feng, Yunsheng Li, Ziyu Wan, Zixuan Gao, Junsong Yuan, Dongdong Chen, Chunming Qiao</sub> | cs.CV | 2025-11-25 | [pdf](https://arxiv.org/pdf/2511.20651v1) · [abs](https://arxiv.org/abs/2511.20651v1) |
-| 2 | **[MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities](https://arxiv.org/pdf/2511.20650v1)**<br><sub>Tooba Tehreem Sheikh, Jean Lahoud, Rao Muhammad Anwer, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal</sub> | cs.CV | 2025-11-25 | [pdf](https://arxiv.org/pdf/2511.20650v1) · [abs](https://arxiv.org/abs/2511.20650v1) |
-| 3 | **[Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout](https://arxiv.org/pdf/2511.20649v1)**<br><sub>Hidir Yesiltepe, Tuna Han Salih Meral, Adil Kaan Akan, Kaan Oktay, Pinar Yanardag</sub> | cs.CV | 2025-11-25 | [pdf](https://arxiv.org/pdf/2511.20649v1) · [abs](https://arxiv.org/abs/2511.20649v1) |
+| 1 | **[Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://arxiv.org/pdf/2511.21691v1)**<br><sub>Yusuf Dalva, Guocheng Gordon Qian, Maya Goldenberg, Tsai-Shien Chen, Kfir Aberman, Sergey Tulyakov, Pinar Yanardag, Kuan-Chieh Jackson Wang</sub> | cs.CV | 2025-11-26 | [pdf](https://arxiv.org/pdf/2511.21691v1) · [abs](https://arxiv.org/abs/2511.21691v1) |
+| 2 | **[TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](https://arxiv.org/pdf/2511.21690v1)**<br><sub>Seungjae Lee, Yoonkyo Jung, Inkook Chun, Yao-Chih Lee, Zikui Cai, Hongjia Huang, Aayush Talreja, Tan Dat Dao, Yongyuan Liang, Jia-Bin Huang, Furong Huang</sub> | cs.RO | 2025-11-26 | [pdf](https://arxiv.org/pdf/2511.21690v1) · [abs](https://arxiv.org/abs/2511.21690v1) |
+| 3 | **[G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688v1)**<br><sub>Wenbo Hu, Jingli Lin, Yilin Long, Yunlong Ran, Lihan Jiang, Yifan Wang, Chenming Zhu, Runsen Xu, Tai Wang, Jiangmiao Pang</sub> | cs.CV | 2025-11-26 | [pdf](https://arxiv.org/pdf/2511.21688v1) · [abs](https://arxiv.org/abs/2511.21688v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
