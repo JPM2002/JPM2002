@@ -107,15 +107,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2025 - To: 27 November 2025
+From: 21 November 2025 - To: 28 November 2025
 
-Total Time: 5 hrs 14 mins
+Total Time: 11 hrs 22 mins
 
-Python       4 hrs 42 mins   ██████████████████████▒░░   89.91 %
-Text         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-YAML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python       9 hrs 22 mins   ████████████████████▓░░░░   82.36 %
+Text         1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+YAML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+TypeScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
