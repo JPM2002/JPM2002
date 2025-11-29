@@ -124,14 +124,10 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-11-28 06:43 UTC_
+_Last updated: 2025-11-29 06:39 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Canvas-to-Image: Compositional Image Generation with Multimodal Controls](https://arxiv.org/pdf/2511.21691v1)**<br><sub>Yusuf Dalva, Guocheng Gordon Qian, Maya Goldenberg, Tsai-Shien Chen, Kfir Aberman, Sergey Tulyakov, Pinar Yanardag, Kuan-Chieh Jackson Wang</sub> | cs.CV | 2025-11-26 | [pdf](https://arxiv.org/pdf/2511.21691v1) · [abs](https://arxiv.org/abs/2511.21691v1) |
-| 2 | **[TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](https://arxiv.org/pdf/2511.21690v1)**<br><sub>Seungjae Lee, Yoonkyo Jung, Inkook Chun, Yao-Chih Lee, Zikui Cai, Hongjia Huang, Aayush Talreja, Tan Dat Dao, Yongyuan Liang, Jia-Bin Huang, Furong Huang</sub> | cs.RO | 2025-11-26 | [pdf](https://arxiv.org/pdf/2511.21690v1) · [abs](https://arxiv.org/abs/2511.21690v1) |
-| 3 | **[G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688v1)**<br><sub>Wenbo Hu, Jingli Lin, Yilin Long, Yunlong Ran, Lihan Jiang, Yifan Wang, Chenming Zhu, Runsen Xu, Tai Wang, Jiangmiao Pang</sub> | cs.CV | 2025-11-26 | [pdf](https://arxiv.org/pdf/2511.21688v1) · [abs](https://arxiv.org/abs/2511.21688v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
