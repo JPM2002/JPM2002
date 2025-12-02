@@ -124,10 +124,14 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-01 06:47 UTC_
+_Last updated: 2025-12-02 06:45 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI](https://arxiv.org/pdf/2512.02020v1)**<br><sub>Jianlei Chang, Ruofeng Mei, Wei Ke, Xiangyu Xu</sub> | cs.RO | 2025-12-01 | [pdf](https://arxiv.org/pdf/2512.02020v1) · [abs](https://arxiv.org/abs/2512.02020v1) |
+| 2 | **[Visual Sync: Multi-Camera Synchronization via Cross-View Object Motion](https://arxiv.org/pdf/2512.02017v1)**<br><sub>Shaowei Liu, David Yifan Yao, Saurabh Gupta, Shenlong Wang</sub> | cs.CV | 2025-12-01 | [pdf](https://arxiv.org/pdf/2512.02017v1) · [abs](https://arxiv.org/abs/2512.02017v1) |
+| 3 | **[Improved Mean Flows: On the Challenges of Fastforward Generative Models](https://arxiv.org/pdf/2512.02012v1)**<br><sub>Zhengyang Geng, Yiyang Lu, Zongze Wu, Eli Shechtman, J. Zico Kolter, Kaiming He</sub> | cs.CV | 2025-12-01 | [pdf](https://arxiv.org/pdf/2512.02012v1) · [abs](https://arxiv.org/abs/2512.02012v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
