@@ -124,14 +124,14 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-03 06:44 UTC_
+_Last updated: 2025-12-04 06:44 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues](https://arxiv.org/pdf/2512.03046v1)**<br><sub>Zichen Liu, Yue Yu, Hao Ouyang, Qiuyu Wang, Shuailei Ma, Ka Leong Cheng, Wen Wang, Qingyan Bai, Yuxuan Zhang, Yanhong Zeng, Yixuan Li, Xing Zhu, Yujun Shen, Qifeng Chen</sub> | cs.CV | 2025-12-02 | [pdf](https://arxiv.org/pdf/2512.03046v1) · [abs](https://arxiv.org/abs/2512.03046v1) |
-| 2 | **[CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models](https://arxiv.org/pdf/2512.03045v1)**<br><sub>Minkyung Kwon, Jinhyeok Choi, Jiho Park, Seonghu Jeon, Jinhyuk Jang, Junyoung Seo, Minseop Kwak, Jin-Hwa Kim, Seungryong Kim</sub> | cs.CV | 2025-12-02 | [pdf](https://arxiv.org/pdf/2512.03045v1) · [abs](https://arxiv.org/abs/2512.03045v1) |
-| 3 | **[OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/pdf/2512.03043v1)**<br><sub>Kaituo Feng, Manyuan Zhang, Hongyu Li, Kaixuan Fan, Shuang Chen, Yilei Jiang, Dian Zheng, Peiwen Sun, Yiyuan Zhang, Haoze Sun, Yan Feng, Peng Pei, Xunliang Cai, Xiangyu Yue</sub> | cs.CV | 2025-12-02 | [pdf](https://arxiv.org/pdf/2512.03043v1) · [abs](https://arxiv.org/abs/2512.03043v1) |
+| 1 | **[Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/pdf/2512.04085v1)**<br><sub>Tengda Han, Sayna Ebrahimi, Dilara Gokay, Li Yang Ku, Maks Ovsjanikov, Iva Babukova, Daniel Zoran, Viorica Patraucean, Joao Carreira, Andrew Zisserman, Dima Damen</sub> | cs.CV | 2025-12-03 | [pdf](https://arxiv.org/pdf/2512.04085v1) · [abs](https://arxiv.org/abs/2512.04085v1) |
+| 2 | **[SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows](https://arxiv.org/pdf/2512.04084v1)**<br><sub>Qinyu Zhao, Guangting Zheng, Tao Yang, Rui Zhu, Xingjian Leng, Stephen Gould, Liang Zheng</sub> | cs.CV | 2025-12-03 | [pdf](https://arxiv.org/pdf/2512.04084v1) · [abs](https://arxiv.org/abs/2512.04084v1) |
+| 3 | **[PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design](https://arxiv.org/pdf/2512.04082v1)**<br><sub>Jiazhe Wei, Ken Li, Tianyu Lao, Haofan Wang, Liang Wang, Caifeng Shan, Chenyang Si</sub> | cs.CV | 2025-12-03 | [pdf](https://arxiv.org/pdf/2512.04082v1) · [abs](https://arxiv.org/abs/2512.04082v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
