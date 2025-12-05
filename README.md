@@ -124,14 +124,14 @@ JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-04 06:44 UTC_
+_Last updated: 2025-12-05 06:44 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/pdf/2512.04085v1)**<br><sub>Tengda Han, Sayna Ebrahimi, Dilara Gokay, Li Yang Ku, Maks Ovsjanikov, Iva Babukova, Daniel Zoran, Viorica Patraucean, Joao Carreira, Andrew Zisserman, Dima Damen</sub> | cs.CV | 2025-12-03 | [pdf](https://arxiv.org/pdf/2512.04085v1) · [abs](https://arxiv.org/abs/2512.04085v1) |
-| 2 | **[SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows](https://arxiv.org/pdf/2512.04084v1)**<br><sub>Qinyu Zhao, Guangting Zheng, Tao Yang, Rui Zhu, Xingjian Leng, Stephen Gould, Liang Zheng</sub> | cs.CV | 2025-12-03 | [pdf](https://arxiv.org/pdf/2512.04084v1) · [abs](https://arxiv.org/abs/2512.04084v1) |
-| 3 | **[PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design](https://arxiv.org/pdf/2512.04082v1)**<br><sub>Jiazhe Wei, Ken Li, Tianyu Lao, Haofan Wang, Liang Wang, Caifeng Shan, Chenyang Si</sub> | cs.CV | 2025-12-03 | [pdf](https://arxiv.org/pdf/2512.04082v1) · [abs](https://arxiv.org/abs/2512.04082v1) |
+| 1 | **[The Universal Weight Subspace Hypothesis](https://arxiv.org/pdf/2512.05117v1)**<br><sub>Prakhar Kaushik, Shravan Chaudhari, Ankit Vaidya, Rama Chellappa, Alan Yuille</sub> | cs.LG | 2025-12-04 | [pdf](https://arxiv.org/pdf/2512.05117v1) · [abs](https://arxiv.org/abs/2512.05117v1) |
+| 2 | **[Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/pdf/2512.05116v1)**<br><sub>Zhen Liu, Tim Z. Xiao, Carles Domingo-Enrich, Weiyang Liu, Dinghuai Zhang</sub> | cs.LG | 2025-12-04 | [pdf](https://arxiv.org/pdf/2512.05116v1) · [abs](https://arxiv.org/abs/2512.05116v1) |
+| 3 | **[Deep infant brain segmentation from multi-contrast MRI](https://arxiv.org/pdf/2512.05114v1)**<br><sub>Malte Hoffmann, Lilla Zöllei, Adrian V. Dalca</sub> | cs.LG | 2025-12-04 | [pdf](https://arxiv.org/pdf/2512.05114v1) · [abs](https://arxiv.org/abs/2512.05114v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
