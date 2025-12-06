@@ -124,7 +124,7 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-05 06:44 UTC_
+_Last updated: 2025-12-06 06:39 UTC_
 
 
 | # | Title | Cat. | Date | Links |
