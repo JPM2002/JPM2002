@@ -146,7 +146,7 @@ _Last updated: 2025-12-06 06:39 UTC_
 <!-- DISCOGS_TABLE_START -->
 | 📦 Collection | 🌟 Wantlist | 🎤 Top Artists           | 🎶 Top Genres          |
 |:-------------:|:-----------:|:-----------------------:|:----------------------:|
-| 122 records | 242 records | Billy Joel (13), Various (8), Bobby Vinton (5), Genesis (5), Falco (3) | Rock (68), Pop (30), Electronic (14) |
+| 122 records | 244 records | Billy Joel (13), Various (8), Bobby Vinton (5), Genesis (5), Falco (3) | Rock (68), Pop (30), Electronic (14) |
 <!-- DISCOGS_TABLE_END -->
 
 
