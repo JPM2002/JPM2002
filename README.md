@@ -4,8 +4,8 @@
 [![Hours Coding](https://wakatime.com/badge/user/4a1fb732-ab60-4581-a317-67709ec0b158.svg)](https://wakatime.com/@4a1fb732-ab60-4581-a317-67709ec0b158)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/javier-pozo-miranda/)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=flat-square&logo=vercel)](https://javierpozo.vercel.app/)
-[![Email](https://img.shields.io/badge/Outlook-javier.pozo.miranda@gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:Javier.pozo.miranda@gmail.com)
- 
+[![Email](https://img.shields.io/badge/Outlook-javier.pozo.miranda@gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:Javier.pozo.miranda@gmail.cwhy? 
+  
 ## 🧰 **Languages and Tools** 
        
 <p align="center">
