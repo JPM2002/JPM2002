@@ -124,14 +124,10 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-06 06:39 UTC_
+_Last updated: 2025-12-07 06:38 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[The Universal Weight Subspace Hypothesis](https://arxiv.org/pdf/2512.05117v1)**<br><sub>Prakhar Kaushik, Shravan Chaudhari, Ankit Vaidya, Rama Chellappa, Alan Yuille</sub> | cs.LG | 2025-12-04 | [pdf](https://arxiv.org/pdf/2512.05117v1) · [abs](https://arxiv.org/abs/2512.05117v1) |
-| 2 | **[Value Gradient Guidance for Flow Matching Alignment](https://arxiv.org/pdf/2512.05116v1)**<br><sub>Zhen Liu, Tim Z. Xiao, Carles Domingo-Enrich, Weiyang Liu, Dinghuai Zhang</sub> | cs.LG | 2025-12-04 | [pdf](https://arxiv.org/pdf/2512.05116v1) · [abs](https://arxiv.org/abs/2512.05116v1) |
-| 3 | **[Deep infant brain segmentation from multi-contrast MRI](https://arxiv.org/pdf/2512.05114v1)**<br><sub>Malte Hoffmann, Lilla Zöllei, Adrian V. Dalca</sub> | cs.LG | 2025-12-04 | [pdf](https://arxiv.org/pdf/2512.05114v1) · [abs](https://arxiv.org/abs/2512.05114v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
