@@ -124,14 +124,14 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-09 06:45 UTC_
+_Last updated: 2025-12-10 06:46 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Relational Visual Similarity](https://arxiv.org/pdf/2512.07833v1)**<br><sub>Thao Nguyen, Sicheng Mo, Krishna Kumar Singh, Yilin Wang, Jing Shi, Nicholas Kolkin, Eli Shechtman, Yong Jae Lee, Yuheng Li</sub> | cs.CV | 2025-12-08 | [pdf](https://arxiv.org/pdf/2512.07833v1) · [abs](https://arxiv.org/abs/2512.07833v1) |
-| 2 | **[UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](https://arxiv.org/pdf/2512.07831v1)**<br><sub>Jiehui Huang, Yuechen Zhang, Xu He, Yuan Gao, Zhi Cen, Bin Xia, Yan Zhou, Xin Tao, Pengfei Wan, Jiaya Jia</sub> | cs.CV | 2025-12-08 | [pdf](https://arxiv.org/pdf/2512.07831v1) · [abs](https://arxiv.org/abs/2512.07831v1) |
-| 3 | **[One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation](https://arxiv.org/pdf/2512.07829v1)**<br><sub>Yuan Gao, Chen Chen, Tianrong Chen, Jiatao Gu</sub> | cs.CV | 2025-12-08 | [pdf](https://arxiv.org/pdf/2512.07829v1) · [abs](https://arxiv.org/abs/2512.07829v1) |
+| 1 | **[Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/pdf/2512.08931v1)**<br><sub>Yixuan Zhu, Jiaqi Feng, Wenzhao Zheng, Yuan Gao, Xin Tao, Pengfei Wan, Jie Zhou, Jiwen Lu</sub> | cs.CV | 2025-12-09 | [pdf](https://arxiv.org/pdf/2512.08931v1) · [abs](https://arxiv.org/abs/2512.08931v1) |
+| 2 | **[Unified Diffusion Transformer for High-fidelity Text-Aware Image Restoration](https://arxiv.org/pdf/2512.08922v1)**<br><sub>Jin Hyeon Kim, Paul Hyunbin Cho, Claire Kim, Jaewon Min, Jaeeun Lee, Jihye Park, Yeji Choi, Seungryong Kim</sub> | cs.CV | 2025-12-09 | [pdf](https://arxiv.org/pdf/2512.08922v1) · [abs](https://arxiv.org/abs/2512.08922v1) |
+| 3 | **[UniLayDiff: A Unified Diffusion Transformer for Content-Aware Layout Generation](https://arxiv.org/pdf/2512.08897v1)**<br><sub>Zeyang Liu, Le Wang, Sanping Zhou, Yuxuan Wu, Xiaolong Sun, Gang Hua, Haoxiang Li</sub> | cs.CV | 2025-12-09 | [pdf](https://arxiv.org/pdf/2512.08897v1) · [abs](https://arxiv.org/abs/2512.08897v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
