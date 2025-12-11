@@ -124,14 +124,14 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-10 06:46 UTC_
+_Last updated: 2025-12-11 06:47 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/pdf/2512.08931v1)**<br><sub>Yixuan Zhu, Jiaqi Feng, Wenzhao Zheng, Yuan Gao, Xin Tao, Pengfei Wan, Jie Zhou, Jiwen Lu</sub> | cs.CV | 2025-12-09 | [pdf](https://arxiv.org/pdf/2512.08931v1) · [abs](https://arxiv.org/abs/2512.08931v1) |
-| 2 | **[Unified Diffusion Transformer for High-fidelity Text-Aware Image Restoration](https://arxiv.org/pdf/2512.08922v1)**<br><sub>Jin Hyeon Kim, Paul Hyunbin Cho, Claire Kim, Jaewon Min, Jaeeun Lee, Jihye Park, Yeji Choi, Seungryong Kim</sub> | cs.CV | 2025-12-09 | [pdf](https://arxiv.org/pdf/2512.08922v1) · [abs](https://arxiv.org/abs/2512.08922v1) |
-| 3 | **[UniLayDiff: A Unified Diffusion Transformer for Content-Aware Layout Generation](https://arxiv.org/pdf/2512.08897v1)**<br><sub>Zeyang Liu, Le Wang, Sanping Zhou, Yuxuan Wu, Xiaolong Sun, Gang Hua, Haoxiang Li</sub> | cs.CV | 2025-12-09 | [pdf](https://arxiv.org/pdf/2512.08897v1) · [abs](https://arxiv.org/abs/2512.08897v1) |
+| 1 | **[GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures](https://arxiv.org/pdf/2512.09925v1)**<br><sub>Patrick Noras, Jun Myeong Choi, Didier Stricker, Pieter Peers, Roni Sengupta</sub> | cs.CV | 2025-12-10 | [pdf](https://arxiv.org/pdf/2512.09925v1) · [abs](https://arxiv.org/abs/2512.09925v1) |
+| 2 | **[ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning](https://arxiv.org/pdf/2512.09924v1)**<br><sub>Xinyu Liu, Hangjie Yuan, Yujie Wei, Jiazheng Xing, Yujin Han, Jiahao Pan, Yanbiao Ma, Chi-Min Chan, Kang Zhao, Shiwei Zhang, Wenhan Luo, Yike Guo</sub> | cs.CV | 2025-12-10 | [pdf](https://arxiv.org/pdf/2512.09924v1) · [abs](https://arxiv.org/abs/2512.09924v1) |
+| 3 | **[Splatent: Splatting Diffusion Latents for Novel View Synthesis](https://arxiv.org/pdf/2512.09923v1)**<br><sub>Or Hirschorn, Omer Sela, Inbar Huberman-Spiegelglas, Netalee Efrat, Eli Alshan, Ianir Ideses, Frederic Devernay, Yochai Zvik, Lior Fritz</sub> | cs.CV | 2025-12-10 | [pdf](https://arxiv.org/pdf/2512.09923v1) · [abs](https://arxiv.org/abs/2512.09923v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
