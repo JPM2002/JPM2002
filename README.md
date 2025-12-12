@@ -124,14 +124,14 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-11 06:47 UTC_
+_Last updated: 2025-12-12 06:47 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures](https://arxiv.org/pdf/2512.09925v1)**<br><sub>Patrick Noras, Jun Myeong Choi, Didier Stricker, Pieter Peers, Roni Sengupta</sub> | cs.CV | 2025-12-10 | [pdf](https://arxiv.org/pdf/2512.09925v1) · [abs](https://arxiv.org/abs/2512.09925v1) |
-| 2 | **[ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning](https://arxiv.org/pdf/2512.09924v1)**<br><sub>Xinyu Liu, Hangjie Yuan, Yujie Wei, Jiazheng Xing, Yujin Han, Jiahao Pan, Yanbiao Ma, Chi-Min Chan, Kang Zhao, Shiwei Zhang, Wenhan Luo, Yike Guo</sub> | cs.CV | 2025-12-10 | [pdf](https://arxiv.org/pdf/2512.09924v1) · [abs](https://arxiv.org/abs/2512.09924v1) |
-| 3 | **[Splatent: Splatting Diffusion Latents for Novel View Synthesis](https://arxiv.org/pdf/2512.09923v1)**<br><sub>Or Hirschorn, Omer Sela, Inbar Huberman-Spiegelglas, Netalee Efrat, Eli Alshan, Ianir Ideses, Frederic Devernay, Yochai Zvik, Lior Fritz</sub> | cs.CV | 2025-12-10 | [pdf](https://arxiv.org/pdf/2512.09923v1) · [abs](https://arxiv.org/abs/2512.09923v1) |
+| 1 | **[StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space](https://arxiv.org/pdf/2512.10959v1)**<br><sub>Tjark Behrens, Anton Obukhov, Bingxin Ke, Fabio Tosi, Matteo Poggi, Konrad Schindler</sub> | cs.CV | 2025-12-11 | [pdf](https://arxiv.org/pdf/2512.10959v1) · [abs](https://arxiv.org/abs/2512.10959v1) |
+| 2 | **[Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](https://arxiv.org/pdf/2512.10955v1)**<br><sub>Tsai-Shien Chen, Aliaksandr Siarohin, Guocheng Gordon Qian, Kuan-Chieh Jackson Wang, Egor Nemchinov, Moayed Haji-Ali, Riza Alp Guler, Willi Menapace, Ivan Skorokhodov, Anil Kag, Jun-Yan Zhu, Sergey Tulyakov</sub> | cs.CV | 2025-12-11 | [pdf](https://arxiv.org/pdf/2512.10955v1) · [abs](https://arxiv.org/abs/2512.10955v1) |
+| 3 | **[Bidirectional Normalizing Flow: From Data to Noise and Back](https://arxiv.org/pdf/2512.10953v1)**<br><sub>Yiyang Lu, Qiao Sun, Xianbang Wang, Zhicheng Jiang, Hanhong Zhao, Kaiming He</sub> | cs.LG | 2025-12-11 | [pdf](https://arxiv.org/pdf/2512.10953v1) · [abs](https://arxiv.org/abs/2512.10953v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
