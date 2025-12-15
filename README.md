@@ -120,7 +120,7 @@ Python   53 mins         ██████████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-14 06:41 UTC_
+_Last updated: 2025-12-15 06:49 UTC_
 
 
 _No new results in the chosen window._
