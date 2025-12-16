@@ -120,10 +120,14 @@ Python   53 mins         ██████████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-15 06:49 UTC_
+_Last updated: 2025-12-16 06:48 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders](https://arxiv.org/pdf/2512.13690v1)**<br><sub>Susung Hong, Chongjian Ge, Zhifei Zhang, Jui-Hsien Wang</sub> | cs.CV | 2025-12-15 | [pdf](https://arxiv.org/pdf/2512.13690v1) · [abs](https://arxiv.org/abs/2512.13690v1) |
+| 2 | **[Recurrent Video Masked Autoencoders](https://arxiv.org/pdf/2512.13684v1)**<br><sub>Daniel Zoran, Nikhil Parthasarathy, Yi Yang, Drew A Hudson, Joao Carreira, Andrew Zisserman</sub> | cs.CV | 2025-12-15 | [pdf](https://arxiv.org/pdf/2512.13684v1) · [abs](https://arxiv.org/abs/2512.13684v1) |
+| 3 | **[I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](https://arxiv.org/pdf/2512.13683v1)**<br><sub>Lu Ling, Yunhao Ge, Yichen Sheng, Aniket Bera</sub> | cs.CV | 2025-12-15 | [pdf](https://arxiv.org/pdf/2512.13683v1) · [abs](https://arxiv.org/abs/2512.13683v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
