@@ -120,14 +120,14 @@ Python   53 mins         ██████████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-16 06:48 UTC_
+_Last updated: 2025-12-17 06:47 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders](https://arxiv.org/pdf/2512.13690v1)**<br><sub>Susung Hong, Chongjian Ge, Zhifei Zhang, Jui-Hsien Wang</sub> | cs.CV | 2025-12-15 | [pdf](https://arxiv.org/pdf/2512.13690v1) · [abs](https://arxiv.org/abs/2512.13690v1) |
-| 2 | **[Recurrent Video Masked Autoencoders](https://arxiv.org/pdf/2512.13684v1)**<br><sub>Daniel Zoran, Nikhil Parthasarathy, Yi Yang, Drew A Hudson, Joao Carreira, Andrew Zisserman</sub> | cs.CV | 2025-12-15 | [pdf](https://arxiv.org/pdf/2512.13684v1) · [abs](https://arxiv.org/abs/2512.13684v1) |
-| 3 | **[I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](https://arxiv.org/pdf/2512.13683v1)**<br><sub>Lu Ling, Yunhao Ge, Yichen Sheng, Aniket Bera</sub> | cs.CV | 2025-12-15 | [pdf](https://arxiv.org/pdf/2512.13683v1) · [abs](https://arxiv.org/abs/2512.13683v1) |
+| 1 | **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/pdf/2512.14698v1)**<br><sub>Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang</sub> | cs.CV | 2025-12-16 | [pdf](https://arxiv.org/pdf/2512.14698v1) · [abs](https://arxiv.org/abs/2512.14698v1) |
+| 2 | **[Spherical Leech Quantization for Visual Tokenization and Generation](https://arxiv.org/pdf/2512.14697v1)**<br><sub>Yue Zhao, Hanwen Jiang, Zhenlin Xu, Chutong Yang, Ehsan Adeli, Philipp Krähenbühl</sub> | cs.CV | 2025-12-16 | [pdf](https://arxiv.org/pdf/2512.14697v1) · [abs](https://arxiv.org/abs/2512.14697v1) |
+| 3 | **[CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives](https://arxiv.org/pdf/2512.14696v1)**<br><sub>Zihan Wang, Jiashun Wang, Jeff Tan, Yiwen Zhao, Jessica Hodgins, Shubham Tulsiani, Deva Ramanan</sub> | cs.CV | 2025-12-16 | [pdf](https://arxiv.org/pdf/2512.14696v1) · [abs](https://arxiv.org/abs/2512.14696v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
