@@ -120,14 +120,14 @@ Python   53 mins         ██████████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-17 06:47 UTC_
+_Last updated: 2025-12-18 06:46 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/pdf/2512.14698v1)**<br><sub>Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang</sub> | cs.CV | 2025-12-16 | [pdf](https://arxiv.org/pdf/2512.14698v1) · [abs](https://arxiv.org/abs/2512.14698v1) |
-| 2 | **[Spherical Leech Quantization for Visual Tokenization and Generation](https://arxiv.org/pdf/2512.14697v1)**<br><sub>Yue Zhao, Hanwen Jiang, Zhenlin Xu, Chutong Yang, Ehsan Adeli, Philipp Krähenbühl</sub> | cs.CV | 2025-12-16 | [pdf](https://arxiv.org/pdf/2512.14697v1) · [abs](https://arxiv.org/abs/2512.14697v1) |
-| 3 | **[CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives](https://arxiv.org/pdf/2512.14696v1)**<br><sub>Zihan Wang, Jiashun Wang, Jeff Tan, Yiwen Zhao, Jessica Hodgins, Shubham Tulsiani, Deva Ramanan</sub> | cs.CV | 2025-12-16 | [pdf](https://arxiv.org/pdf/2512.14696v1) · [abs](https://arxiv.org/abs/2512.14696v1) |
+| 1 | **[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/pdf/2512.15715v1)**<br><sub>Lihe Yang, Shang-Wen Li, Yang Li, Xinjie Lei, Dong Wang, Abdelrahman Mohamed, Hengshuang Zhao, Hu Xu</sub> | cs.CV | 2025-12-17 | [pdf](https://arxiv.org/pdf/2512.15715v1) · [abs](https://arxiv.org/abs/2512.15715v1) |
+| 2 | **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/pdf/2512.15713v1)**<br><sub>Lunbin Zeng, Jingfeng Yao, Bencheng Liao, Hongyuan Tao, Wenyu Liu, Xinggang Wang</sub> | cs.CV | 2025-12-17 | [pdf](https://arxiv.org/pdf/2512.15713v1) · [abs](https://arxiv.org/abs/2512.15713v1) |
+| 3 | **[GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection](https://arxiv.org/pdf/2512.15707v1)**<br><sub>Yu Wang, Juhyung Ha, Frangil M. Ramirez, Yuchen Wang, David J. Crandall</sub> | cs.CV | 2025-12-17 | [pdf](https://arxiv.org/pdf/2512.15707v1) · [abs](https://arxiv.org/abs/2512.15707v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
