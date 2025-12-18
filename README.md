@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Outlook-javier.pozo.miranda@gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:Javier.pozo.miranda@gmail.cwhy?)
     
 ## 🧰 **Languages and Tools** 
-       
+        
 <p align="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank">
