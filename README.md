@@ -122,14 +122,14 @@ Git Config   0 secs          █████▓░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-18 06:46 UTC_
+_Last updated: 2025-12-19 06:44 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/pdf/2512.15715v1)**<br><sub>Lihe Yang, Shang-Wen Li, Yang Li, Xinjie Lei, Dong Wang, Abdelrahman Mohamed, Hengshuang Zhao, Hu Xu</sub> | cs.CV | 2025-12-17 | [pdf](https://arxiv.org/pdf/2512.15715v1) · [abs](https://arxiv.org/abs/2512.15715v1) |
-| 2 | **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/pdf/2512.15713v1)**<br><sub>Lunbin Zeng, Jingfeng Yao, Bencheng Liao, Hongyuan Tao, Wenyu Liu, Xinggang Wang</sub> | cs.CV | 2025-12-17 | [pdf](https://arxiv.org/pdf/2512.15713v1) · [abs](https://arxiv.org/abs/2512.15713v1) |
-| 3 | **[GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection](https://arxiv.org/pdf/2512.15707v1)**<br><sub>Yu Wang, Juhyung Ha, Frangil M. Ramirez, Yuchen Wang, David J. Crandall</sub> | cs.CV | 2025-12-17 | [pdf](https://arxiv.org/pdf/2512.15707v1) · [abs](https://arxiv.org/abs/2512.15707v1) |
+| 1 | **[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/pdf/2512.16922v1)**<br><sub>Sihan Xu, Ziqiao Ma, Wenhao Chai, Xuweiyi Chen, Weiyang Jin, Joyce Chai, Saining Xie, Stella X. Yu</sub> | cs.CV | 2025-12-18 | [pdf](https://arxiv.org/pdf/2512.16922v1) · [abs](https://arxiv.org/abs/2512.16922v1) |
+| 2 | **[Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/pdf/2512.16921v1)**<br><sub>Qihao Liu, Chengzhi Mao, Yaojie Liu, Alan Yuille, Wen-Sheng Chu</sub> | cs.CV | 2025-12-18 | [pdf](https://arxiv.org/pdf/2512.16921v1) · [abs](https://arxiv.org/abs/2512.16921v1) |
+| 3 | **[AdaTooler-V: Adaptive Tool-Use for Images and Videos](https://arxiv.org/pdf/2512.16918v1)**<br><sub>Chaoyang Wang, Kaituo Feng, Dongyang Chen, Zhongyu Wang, Zhixun Li, Sicheng Gao, Meng Meng, Xu Zhou, Manyuan Zhang, Yuzhang Shang, Xiangyu Yue</sub> | cs.CV | 2025-12-18 | [pdf](https://arxiv.org/pdf/2512.16918v1) · [abs](https://arxiv.org/abs/2512.16918v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
