@@ -124,14 +124,10 @@ Python       0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-20 06:41 UTC_
+_Last updated: 2025-12-21 06:42 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/pdf/2512.16922v1)**<br><sub>Sihan Xu, Ziqiao Ma, Wenhao Chai, Xuweiyi Chen, Weiyang Jin, Joyce Chai, Saining Xie, Stella X. Yu</sub> | cs.CV | 2025-12-18 | [pdf](https://arxiv.org/pdf/2512.16922v1) · [abs](https://arxiv.org/abs/2512.16922v1) |
-| 2 | **[Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/pdf/2512.16921v1)**<br><sub>Qihao Liu, Chengzhi Mao, Yaojie Liu, Alan Yuille, Wen-Sheng Chu</sub> | cs.CV | 2025-12-18 | [pdf](https://arxiv.org/pdf/2512.16921v1) · [abs](https://arxiv.org/abs/2512.16921v1) |
-| 3 | **[AdaTooler-V: Adaptive Tool-Use for Images and Videos](https://arxiv.org/pdf/2512.16918v1)**<br><sub>Chaoyang Wang, Kaituo Feng, Dongyang Chen, Zhongyu Wang, Zhixun Li, Sicheng Gao, Meng Meng, Xu Zhou, Manyuan Zhang, Yuzhang Shang, Xiangyu Yue</sub> | cs.CV | 2025-12-18 | [pdf](https://arxiv.org/pdf/2512.16918v1) · [abs](https://arxiv.org/abs/2512.16918v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
