@@ -107,15 +107,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 20 December 2025
+From: 14 December 2025 - To: 21 December 2025
 
-Total Time: 20 mins
+Total Time: 51 mins
 
-TSV          8 mins          ██████████▓░░░░░░░░░░░░░░   42.15 %
-Markdown     7 mins          █████████░░░░░░░░░░░░░░░░   36.66 %
-Bash         3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
-Git Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python       23 mins         ███████████▒░░░░░░░░░░░░░   45.53 %
+TSV          8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+Text         7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Markdown     7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Bash         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
 ```
 
 <!--END_SECTION:waka-->
