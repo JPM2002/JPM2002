@@ -124,10 +124,14 @@ Bash         3 mins          ██░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-22 06:48 UTC_
+_Last updated: 2025-12-23 06:48 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models](https://arxiv.org/pdf/2512.19692v1)**<br><sub>Pablo Ruiz-Ponce, Sergio Escalera, José García-Rodríguez, Jiankang Deng, Rolandos Alexandros Potamias</sub> | cs.CV | 2025-12-22 | [pdf](https://arxiv.org/pdf/2512.19692v1) · [abs](https://arxiv.org/abs/2512.19692v1) |
+| 2 | **[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/pdf/2512.19687v1)**<br><sub>Apoorv Vyas, Heng-Jui Chang, Cheng-Fu Yang, Po-Yao Huang, Luya Gao, Julius Richter, Sanyuan Chen, Matt Le, Piotr Dollár, Christoph Feichtenhofer, Ann Lee, Wei-Ning Hsu</sub> | cs.SD | 2025-12-22 | [pdf](https://arxiv.org/pdf/2512.19687v1) · [abs](https://arxiv.org/abs/2512.19687v1) |
+| 3 | **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/pdf/2512.19683v1)**<br><sub>Mingrui Wu, Zhaozhi Wang, Fangjinhua Wang, Jiaolong Yang, Marc Pollefeys, Tong Zhang</sub> | cs.CV | 2025-12-22 | [pdf](https://arxiv.org/pdf/2512.19683v1) · [abs](https://arxiv.org/abs/2512.19683v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
