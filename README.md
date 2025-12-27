@@ -124,14 +124,10 @@ TSV        8 mins          █▒░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-26 06:46 UTC_
+_Last updated: 2025-12-27 06:43 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming](https://arxiv.org/pdf/2512.21338v1)**<br><sub>Haonan Qiu, Shikun Liu, Zijian Zhou, Zhaochong An, Weiming Ren, Zhiheng Liu, Jonas Schult, Sen He, Shoufa Chen, Yuren Cong, Tao Xiang, Ziwei Liu, Juan-Manuel Perez-Rua</sub> | cs.CV | 2025-12-24 | [pdf](https://arxiv.org/pdf/2512.21338v1) · [abs](https://arxiv.org/abs/2512.21338v1) |
-| 2 | **[Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models](https://arxiv.org/pdf/2512.21337v1)**<br><sub>Li-Zhong Szu-Tu, Ting-Lin Wu, Chia-Jui Chang, He Syu, Yu-Lun Liu</sub> | cs.CV | 2025-12-24 | [pdf](https://arxiv.org/pdf/2512.21337v1) · [abs](https://arxiv.org/abs/2512.21337v1) |
-| 3 | **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/pdf/2512.21331v1)**<br><sub>Varun Belagali, Saarthak Kapse, Pierre Marza, Srijan Das, Zilinghan Li, Sofiène Boutaj, Pushpak Pati, Srikar Yellapragada, Tarak Nath Nandi, Ravi K Madduri, Joel Saltz, Prateek Prasanna, Stergios Christodoulidis Maria Vakalopoulou, Dimitris Samaras</sub> | cs.CV | 2025-12-24 | [pdf](https://arxiv.org/pdf/2512.21331v1) · [abs](https://arxiv.org/abs/2512.21331v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
