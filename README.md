@@ -124,10 +124,14 @@ YAML       1 min           ▒░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-29 06:50 UTC_
+_Last updated: 2025-12-30 06:47 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://arxiv.org/pdf/2512.23709v1)**<br><sub>Hau-Shiang Shiu, Chin-Yang Lin, Zhixiang Wang, Chi-Wei Hsiao, Po-Fan Yu, Yu-Chih Chen, Yu-Lun Liu</sub> | cs.CV | 2025-12-29 | [pdf](https://arxiv.org/pdf/2512.23709v1) · [abs](https://arxiv.org/abs/2512.23709v1) |
+| 2 | **[Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation](https://arxiv.org/pdf/2512.23705v1)**<br><sub>Shaocong Xu, Songlin Wei, Qizhe Wei, Zheng Geng, Hong Li, Licheng Shen, Qianpu Sun, Shu Han, Bin Ma, Bohan Li, Chongjie Ye, Yuhang Zheng, Nan Wang, Saining Zhang, Hao Zhao</sub> | cs.CV | 2025-12-29 | [pdf](https://arxiv.org/pdf/2512.23705v1) · [abs](https://arxiv.org/abs/2512.23705v1) |
+| 3 | **[Web World Models](https://arxiv.org/pdf/2512.23676v1)**<br><sub>Jichen Feng, Yifan Zhang, Chenggong Zhang, Yifu Lu, Shilong Liu, Mengdi Wang</sub> | cs.AI | 2025-12-29 | [pdf](https://arxiv.org/pdf/2512.23676v1) · [abs](https://arxiv.org/abs/2512.23676v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
