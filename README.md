@@ -124,14 +124,14 @@ Markdown     1 min           ▓░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2025-12-31 06:48 UTC_
+_Last updated: 2026-01-01 06:47 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://arxiv.org/pdf/2512.23709v1)**<br><sub>Hau-Shiang Shiu, Chin-Yang Lin, Zhixiang Wang, Chi-Wei Hsiao, Po-Fan Yu, Yu-Chih Chen, Yu-Lun Liu</sub> | cs.CV | 2025-12-29 | [pdf](https://arxiv.org/pdf/2512.23709v1) · [abs](https://arxiv.org/abs/2512.23709v1) |
-| 2 | **[Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation](https://arxiv.org/pdf/2512.23705v1)**<br><sub>Shaocong Xu, Songlin Wei, Qizhe Wei, Zheng Geng, Hong Li, Licheng Shen, Qianpu Sun, Shu Han, Bin Ma, Bohan Li, Chongjie Ye, Yuhang Zheng, Nan Wang, Saining Zhang, Hao Zhao</sub> | cs.CV | 2025-12-29 | [pdf](https://arxiv.org/pdf/2512.23705v1) · [abs](https://arxiv.org/abs/2512.23705v1) |
-| 3 | **[Web World Models](https://arxiv.org/pdf/2512.23676v1)**<br><sub>Jichen Feng, Yifan Zhang, Chenggong Zhang, Yifu Lu, Shilong Liu, Mengdi Wang</sub> | cs.AI | 2025-12-29 | [pdf](https://arxiv.org/pdf/2512.23676v1) · [abs](https://arxiv.org/abs/2512.23676v1) |
+| 1 | **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](https://arxiv.org/pdf/2512.25075v1)**<br><sub>Zhening Huang, Hyeonho Jeong, Xuelin Chen, Yulia Gryaditskaya, Tuanfeng Y. Wang, Joan Lasenby, Chun-Hao Huang</sub> | cs.CV | 2025-12-31 | [pdf](https://arxiv.org/pdf/2512.25075v1) · [abs](https://arxiv.org/abs/2512.25075v1) |
+| 2 | **[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/pdf/2512.25073v1)**<br><sub>Yi-Chuan Huang, Hao-Jen Chien, Chin-Yang Lin, Ying-Huan Chen, Yu-Lun Liu</sub> | cs.CV | 2025-12-31 | [pdf](https://arxiv.org/pdf/2512.25073v1) · [abs](https://arxiv.org/abs/2512.25073v1) |
+| 3 | **[From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing](https://arxiv.org/pdf/2512.25066v1)**<br><sub>Xu He, Haoxian Zhang, Hejia Chen, Changyuan Zheng, Liyang Chen, Songlin Tang, Jiehui Huang, Xiaoqiang Liu, Pengfei Wan, Zhiyong Wu</sub> | cs.CV | 2025-12-31 | [pdf](https://arxiv.org/pdf/2512.25066v1) · [abs](https://arxiv.org/abs/2512.25066v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
