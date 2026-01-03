@@ -124,14 +124,10 @@ Markdown     1 min           ▓░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-02 06:48 UTC_
+_Last updated: 2026-01-03 06:43 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](https://arxiv.org/pdf/2512.25075v1)**<br><sub>Zhening Huang, Hyeonho Jeong, Xuelin Chen, Yulia Gryaditskaya, Tuanfeng Y. Wang, Joan Lasenby, Chun-Hao Huang</sub> | cs.CV | 2025-12-31 | [pdf](https://arxiv.org/pdf/2512.25075v1) · [abs](https://arxiv.org/abs/2512.25075v1) |
-| 2 | **[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/pdf/2512.25073v1)**<br><sub>Yi-Chuan Huang, Hao-Jen Chien, Chin-Yang Lin, Ying-Huan Chen, Yu-Lun Liu</sub> | cs.CV | 2025-12-31 | [pdf](https://arxiv.org/pdf/2512.25073v1) · [abs](https://arxiv.org/abs/2512.25073v1) |
-| 3 | **[From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing](https://arxiv.org/pdf/2512.25066v1)**<br><sub>Xu He, Haoxian Zhang, Hejia Chen, Changyuan Zheng, Liyang Chen, Songlin Tang, Jiehui Huang, Xiaoqiang Liu, Pengfei Wan, Zhiyong Wu</sub> | cs.CV | 2025-12-31 | [pdf](https://arxiv.org/pdf/2512.25066v1) · [abs](https://arxiv.org/abs/2512.25066v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
