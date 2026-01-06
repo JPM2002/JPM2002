@@ -77,30 +77,31 @@
 ## 🚀 **Projects**
 
 <div align="center">
-    <a href="https://github.com/JPM2002/Tech-Team---Nittany-Ai">
-    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=Tech-Team---Nittany-Ai&theme=dark" />
+  <a href="https://github.com/JPM2002/Tech-Team---Nittany-Ai">
+    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JPM2002&repo=Tech-Team---Nittany-Ai&theme=dark" />
   </a>
   <a href="https://github.com/JPM2002/Journal-Ai">
-    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=Journal-Ai&theme=dark" />
+    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JPM2002&repo=Journal-Ai&theme=dark" />
   </a>
   <a href="https://github.com/k-kochhar/SafeCall">
-    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=k-kochhar&repo=SafeCall&theme=dark" />
+    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=k-kochhar&repo=SafeCall&theme=dark" />
   </a>
   <a href="https://github.com/JPM2002/manim-neural-network">
-    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=JPM2002&repo=manim-neural-network&theme=dark" />
+    <img align="center" style="width: 400px; height: auto;" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JPM2002&repo=manim-neural-network&theme=dark" />
   </a>
 </div>
 
 ---
 
 ## 📊 **GitHub Stats**
+
 <div align="center">
-<a href="https://github.com/jpm2002">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpm2002&show_icons=true&theme=dark&show=reviews" />
-</a>
-<a href="https://github.com/jpm2002">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpm2002&layout=donut&theme=dark" />
-</a>
+  <a href="https://github.com/jpm2002">
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=jpm2002&show_icons=true&theme=dark&show=reviews" />
+  </a>
+  <a href="https://github.com/jpm2002">
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jpm2002&layout=donut&theme=dark" />
+  </a>
 </div>
 
 ---
