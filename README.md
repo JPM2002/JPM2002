@@ -124,10 +124,14 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-05 06:53 UTC_
+_Last updated: 2026-01-06 06:49 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors](https://arxiv.org/pdf/2601.02359v1)**<br><sub>Kaede Shiohara, Toshihiko Yamasaki, Vladislav Golyanik</sub> | cs.CV | 2026-01-05 | [pdf](https://arxiv.org/pdf/2601.02359v1) · [abs](https://arxiv.org/abs/2601.02359v1) |
+| 2 | **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/pdf/2601.02358v1)**<br><sub>Junyi Chen, Tong He, Zhoujie Fu, Pengfei Wan, Kun Gai, Weicai Ye</sub> | cs.CV | 2026-01-05 | [pdf](https://arxiv.org/pdf/2601.02358v1) · [abs](https://arxiv.org/abs/2601.02358v1) |
+| 3 | **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/pdf/2601.02356v1)**<br><sub>Jing Tan, Zhaoyang Zhang, Yantao Shen, Jiarui Cai, Shuo Yang, Jiajun Wu, Wei Xia, Zhuowen Tu, Stefano Soatto</sub> | cs.CV | 2026-01-05 | [pdf](https://arxiv.org/pdf/2601.02356v1) · [abs](https://arxiv.org/abs/2601.02356v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
