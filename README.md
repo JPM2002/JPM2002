@@ -122,14 +122,14 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-06 06:49 UTC_
+_Last updated: 2026-01-07 06:48 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors](https://arxiv.org/pdf/2601.02359v1)**<br><sub>Kaede Shiohara, Toshihiko Yamasaki, Vladislav Golyanik</sub> | cs.CV | 2026-01-05 | [pdf](https://arxiv.org/pdf/2601.02359v1) · [abs](https://arxiv.org/abs/2601.02359v1) |
-| 2 | **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/pdf/2601.02358v1)**<br><sub>Junyi Chen, Tong He, Zhoujie Fu, Pengfei Wan, Kun Gai, Weicai Ye</sub> | cs.CV | 2026-01-05 | [pdf](https://arxiv.org/pdf/2601.02358v1) · [abs](https://arxiv.org/abs/2601.02358v1) |
-| 3 | **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/pdf/2601.02356v1)**<br><sub>Jing Tan, Zhaoyang Zhang, Yantao Shen, Jiarui Cai, Shuo Yang, Jiajun Wu, Wei Xia, Zhuowen Tu, Stefano Soatto</sub> | cs.CV | 2026-01-05 | [pdf](https://arxiv.org/pdf/2601.02356v1) · [abs](https://arxiv.org/abs/2601.02356v1) |
+| 1 | **[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://arxiv.org/pdf/2601.03233v1)**<br><sub>Yoav HaCohen, Benny Brazowski, Nisan Chiprut, Yaki Bitterman, Andrew Kvochko, Avishai Berkowitz, Daniel Shalem, Daphna Lifschitz, Dudu Moshe, Eitan Porat, Eitan Richardson, Guy Shiran, Itay Chachy, Jonathan Chetboun, Michael Finkelson, Michael Kupchick, Nir Zabari, Nitzan Guetta, Noa Kotler, Ofir Bibi, Ori Gordon, Poriya Panet, Roi Benita, Shahar Armon, Victor Kulikov, Yaron Inger, Yonatan Shiftan, Zeev Melumian, Zeev Farbman</sub> | cs.CV | 2026-01-06 | [pdf](https://arxiv.org/pdf/2601.03233v1) · [abs](https://arxiv.org/abs/2601.03233v1) |
+| 2 | **[AnatomiX, an Anatomy-Aware Grounded Multimodal Large Language Model for Chest X-Ray Interpretation](https://arxiv.org/pdf/2601.03191v1)**<br><sub>Anees Ur Rehman Hashmi, Numan Saeed, Christoph Lippert</sub> | cs.CV | 2026-01-06 | [pdf](https://arxiv.org/pdf/2601.03191v1) · [abs](https://arxiv.org/abs/2601.03191v1) |
+| 3 | **[DiffBench Meets DiffAgent: End-to-End LLM-Driven Diffusion Acceleration Code Generation](https://arxiv.org/pdf/2601.03178v1)**<br><sub>Jiajun jiao, Haowei Zhu, Puyuan Yang, Jianghui Wang, Ji Liu, Ziqiong Liu, Dong Li, Yuejian Fang, Junhai Yong, Bin Wang, Emad Barsoum</sub> | cs.CV | 2026-01-06 | [pdf](https://arxiv.org/pdf/2601.03178v1) · [abs](https://arxiv.org/abs/2601.03178v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
