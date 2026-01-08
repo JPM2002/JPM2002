@@ -122,14 +122,14 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-07 06:48 UTC_
+_Last updated: 2026-01-08 06:48 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://arxiv.org/pdf/2601.03233v1)**<br><sub>Yoav HaCohen, Benny Brazowski, Nisan Chiprut, Yaki Bitterman, Andrew Kvochko, Avishai Berkowitz, Daniel Shalem, Daphna Lifschitz, Dudu Moshe, Eitan Porat, Eitan Richardson, Guy Shiran, Itay Chachy, Jonathan Chetboun, Michael Finkelson, Michael Kupchick, Nir Zabari, Nitzan Guetta, Noa Kotler, Ofir Bibi, Ori Gordon, Poriya Panet, Roi Benita, Shahar Armon, Victor Kulikov, Yaron Inger, Yonatan Shiftan, Zeev Melumian, Zeev Farbman</sub> | cs.CV | 2026-01-06 | [pdf](https://arxiv.org/pdf/2601.03233v1) · [abs](https://arxiv.org/abs/2601.03233v1) |
-| 2 | **[AnatomiX, an Anatomy-Aware Grounded Multimodal Large Language Model for Chest X-Ray Interpretation](https://arxiv.org/pdf/2601.03191v1)**<br><sub>Anees Ur Rehman Hashmi, Numan Saeed, Christoph Lippert</sub> | cs.CV | 2026-01-06 | [pdf](https://arxiv.org/pdf/2601.03191v1) · [abs](https://arxiv.org/abs/2601.03191v1) |
-| 3 | **[DiffBench Meets DiffAgent: End-to-End LLM-Driven Diffusion Acceleration Code Generation](https://arxiv.org/pdf/2601.03178v1)**<br><sub>Jiajun jiao, Haowei Zhu, Puyuan Yang, Jianghui Wang, Ji Liu, Ziqiong Liu, Dong Li, Yuejian Fang, Junhai Yong, Bin Wang, Emad Barsoum</sub> | cs.CV | 2026-01-06 | [pdf](https://arxiv.org/pdf/2601.03178v1) · [abs](https://arxiv.org/abs/2601.03178v1) |
+| 1 | **[Choreographing a World of Dynamic Objects](https://arxiv.org/pdf/2601.04194v1)**<br><sub>Yanzhe Lyu, Chen Geng, Karthik Dharmarajan, Yunzhi Zhang, Hadi Alzayer, Shangzhe Wu, Jiajun Wu</sub> | cs.CV | 2026-01-07 | [pdf](https://arxiv.org/pdf/2601.04194v1) · [abs](https://arxiv.org/abs/2601.04194v1) |
+| 2 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/pdf/2601.04163v1)**<br><sub>Erik Thiringer, Fredrik K. Gustafsson, Kajsa Ledesma Eriksson, Mattias Rantalainen</sub> | eess.IV | 2026-01-07 | [pdf](https://arxiv.org/pdf/2601.04163v1) · [abs](https://arxiv.org/abs/2601.04163v1) |
+| 3 | **[Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning](https://arxiv.org/pdf/2601.04153v1)**<br><sub>Yifan Wang, Yanyu Li, Sergey Tulyakov, Yun Fu, Anil Kag</sub> | cs.CV | 2026-01-07 | [pdf](https://arxiv.org/pdf/2601.04153v1) · [abs](https://arxiv.org/abs/2601.04153v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
