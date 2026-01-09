@@ -125,14 +125,14 @@ TSV        0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-08 06:48 UTC_
+_Last updated: 2026-01-09 06:48 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Choreographing a World of Dynamic Objects](https://arxiv.org/pdf/2601.04194v1)**<br><sub>Yanzhe Lyu, Chen Geng, Karthik Dharmarajan, Yunzhi Zhang, Hadi Alzayer, Shangzhe Wu, Jiajun Wu</sub> | cs.CV | 2026-01-07 | [pdf](https://arxiv.org/pdf/2601.04194v1) · [abs](https://arxiv.org/abs/2601.04194v1) |
-| 2 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/pdf/2601.04163v1)**<br><sub>Erik Thiringer, Fredrik K. Gustafsson, Kajsa Ledesma Eriksson, Mattias Rantalainen</sub> | eess.IV | 2026-01-07 | [pdf](https://arxiv.org/pdf/2601.04163v1) · [abs](https://arxiv.org/abs/2601.04163v1) |
-| 3 | **[Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning](https://arxiv.org/pdf/2601.04153v1)**<br><sub>Yifan Wang, Yanyu Li, Sergey Tulyakov, Yun Fu, Anil Kag</sub> | cs.CV | 2026-01-07 | [pdf](https://arxiv.org/pdf/2601.04153v1) · [abs](https://arxiv.org/abs/2601.04153v1) |
+| 1 | **[Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](https://arxiv.org/pdf/2601.05251v1)**<br><sub>Zeren Jiang, Chuanxia Zheng, Iro Laina, Diane Larlus, Andrea Vedaldi</sub> | cs.CV | 2026-01-08 | [pdf](https://arxiv.org/pdf/2601.05251v1) · [abs](https://arxiv.org/abs/2601.05251v1) |
+| 2 | **[RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://arxiv.org/pdf/2601.05249v1)**<br><sub>Yuan-Kang Lee, Kuan-Lin Chen, Chia-Che Chang, Yu-Lun Liu</sub> | cs.CV | 2026-01-08 | [pdf](https://arxiv.org/pdf/2601.05249v1) · [abs](https://arxiv.org/abs/2601.05249v1) |
+| 3 | **[QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer](https://arxiv.org/pdf/2601.05250v1)**<br><sub>Daniele Lizzio Bosco, Shuteng Wang, Giuseppe Serra, Vladislav Golyanik</sub> | cs.CV | 2026-01-08 | [pdf](https://arxiv.org/pdf/2601.05250v1) · [abs](https://arxiv.org/abs/2601.05250v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
