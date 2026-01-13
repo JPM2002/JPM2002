@@ -125,10 +125,14 @@ SQL          10 mins         █▒░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-12 06:51 UTC_
+_Last updated: 2026-01-13 06:49 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[SecureCAI: Injection-Resilient LLM Assistants for Cybersecurity Operations](https://arxiv.org/pdf/2601.07835v1)**<br><sub>Mohammed Himayath Ali, Mohammed Aqib Abdullah, Mohammed Mudassir Uddin, Shahnawaz Alam</sub> | cs.CR | 2026-01-12 | [pdf](https://arxiv.org/pdf/2601.07835v1) · [abs](https://arxiv.org/abs/2601.07835v1) |
+| 2 | **[More Images, More Problems? A Controlled Analysis of VLM Failure Modes](https://arxiv.org/pdf/2601.07812v1)**<br><sub>Anurag Das, Adrian Bulat, Alberto Baldrati, Ioannis Maniadis Metaxas, Bernt Schiele, Georgios Tzimiropoulos, Brais Martinez</sub> | cs.CV | 2026-01-12 | [pdf](https://arxiv.org/pdf/2601.07812v1) · [abs](https://arxiv.org/abs/2601.07812v1) |
+| 3 | **[Vision-Language Model for Accurate Crater Detection](https://arxiv.org/pdf/2601.07795v1)**<br><sub>Patrick Bauer, Marius Schwinning, Florian Renk, Andreas Weinmann, Hichem Snoussi</sub> | cs.CV | 2026-01-12 | [pdf](https://arxiv.org/pdf/2601.07795v1) · [abs](https://arxiv.org/abs/2601.07795v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
