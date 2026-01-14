@@ -125,14 +125,14 @@ SQL          10 mins         █░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-13 06:49 UTC_
+_Last updated: 2026-01-14 06:48 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[SecureCAI: Injection-Resilient LLM Assistants for Cybersecurity Operations](https://arxiv.org/pdf/2601.07835v1)**<br><sub>Mohammed Himayath Ali, Mohammed Aqib Abdullah, Mohammed Mudassir Uddin, Shahnawaz Alam</sub> | cs.CR | 2026-01-12 | [pdf](https://arxiv.org/pdf/2601.07835v1) · [abs](https://arxiv.org/abs/2601.07835v1) |
-| 2 | **[More Images, More Problems? A Controlled Analysis of VLM Failure Modes](https://arxiv.org/pdf/2601.07812v1)**<br><sub>Anurag Das, Adrian Bulat, Alberto Baldrati, Ioannis Maniadis Metaxas, Bernt Schiele, Georgios Tzimiropoulos, Brais Martinez</sub> | cs.CV | 2026-01-12 | [pdf](https://arxiv.org/pdf/2601.07812v1) · [abs](https://arxiv.org/abs/2601.07812v1) |
-| 3 | **[Vision-Language Model for Accurate Crater Detection](https://arxiv.org/pdf/2601.07795v1)**<br><sub>Patrick Bauer, Marius Schwinning, Florian Renk, Andreas Weinmann, Hichem Snoussi</sub> | cs.CV | 2026-01-12 | [pdf](https://arxiv.org/pdf/2601.07795v1) · [abs](https://arxiv.org/abs/2601.07795v1) |
+| 1 | **[RAVEN: Erasing Invisible Watermarks via Novel View Synthesis](https://arxiv.org/pdf/2601.08832v1)**<br><sub>Fahad Shamshad, Nils Lukas, Karthik Nandakumar</sub> | cs.CV | 2026-01-13 | [pdf](https://arxiv.org/pdf/2601.08832v1) · [abs](https://arxiv.org/abs/2601.08832v1) |
+| 2 | **[3AM: Segment Anything with Geometric Consistency in Videos](https://arxiv.org/pdf/2601.08831v1)**<br><sub>Yang-Che Sun, Cheng Sun, Chin-Yang Lin, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Yu-Lun Liu</sub> | cs.CV | 2026-01-13 | [pdf](https://arxiv.org/pdf/2601.08831v1) · [abs](https://arxiv.org/abs/2601.08831v1) |
+| 3 | **[Motion Attribution for Video Generation](https://arxiv.org/pdf/2601.08828v1)**<br><sub>Xindi Wu, Despoina Paschalidou, Jun Gao, Antonio Torralba, Laura Leal-Taixé, Olga Russakovsky, Sanja Fidler, Jonathan Lorraine</sub> | cs.CV | 2026-01-13 | [pdf](https://arxiv.org/pdf/2601.08828v1) · [abs](https://arxiv.org/abs/2601.08828v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
