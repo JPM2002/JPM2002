@@ -125,14 +125,14 @@ SQL          10 mins         █░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-14 06:48 UTC_
+_Last updated: 2026-01-15 06:48 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[RAVEN: Erasing Invisible Watermarks via Novel View Synthesis](https://arxiv.org/pdf/2601.08832v1)**<br><sub>Fahad Shamshad, Nils Lukas, Karthik Nandakumar</sub> | cs.CV | 2026-01-13 | [pdf](https://arxiv.org/pdf/2601.08832v1) · [abs](https://arxiv.org/abs/2601.08832v1) |
-| 2 | **[3AM: Segment Anything with Geometric Consistency in Videos](https://arxiv.org/pdf/2601.08831v1)**<br><sub>Yang-Che Sun, Cheng Sun, Chin-Yang Lin, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Yu-Lun Liu</sub> | cs.CV | 2026-01-13 | [pdf](https://arxiv.org/pdf/2601.08831v1) · [abs](https://arxiv.org/abs/2601.08831v1) |
-| 3 | **[Motion Attribution for Video Generation](https://arxiv.org/pdf/2601.08828v1)**<br><sub>Xindi Wu, Despoina Paschalidou, Jun Gao, Antonio Torralba, Laura Leal-Taixé, Olga Russakovsky, Sanja Fidler, Jonathan Lorraine</sub> | cs.CV | 2026-01-13 | [pdf](https://arxiv.org/pdf/2601.08828v1) · [abs](https://arxiv.org/abs/2601.08828v1) |
+| 1 | **[Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](https://arxiv.org/pdf/2601.09708v1)**<br><sub>Chi-Pin Huang, Yunze Man, Zhiding Yu, Min-Hung Chen, Jan Kautz, Yu-Chiang Frank Wang, Fu-En Yang</sub> | cs.CV | 2026-01-14 | [pdf](https://arxiv.org/pdf/2601.09708v1) · [abs](https://arxiv.org/abs/2601.09708v1) |
+| 2 | **[COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation](https://arxiv.org/pdf/2601.09698v1)**<br><sub>Tony Danjun Wang, Tolga Birdal, Nassir Navab, Lennart Bastian</sub> | cs.CV | 2026-01-14 | [pdf](https://arxiv.org/pdf/2601.09698v1) · [abs](https://arxiv.org/abs/2601.09698v1) |
+| 3 | **[Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering](https://arxiv.org/pdf/2601.09697v1)**<br><sub>Jieying Chen, Jeffrey Hu, Joan Lasenby, Ayush Tewari</sub> | cs.CV | 2026-01-14 | [pdf](https://arxiv.org/pdf/2601.09697v1) · [abs](https://arxiv.org/abs/2601.09697v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
