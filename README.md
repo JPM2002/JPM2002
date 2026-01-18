@@ -125,14 +125,10 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-17 06:43 UTC_
+_Last updated: 2026-01-18 06:44 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Alterbute: Editing Intrinsic Attributes of Objects in Images](https://arxiv.org/pdf/2601.10714v1)**<br><sub>Tal Reiss, Daniel Winter, Matan Cohen, Alex Rav-Acha, Yael Pritch, Ariel Shamir, Yedid Hoshen</sub> | cs.CV | 2026-01-15 | [pdf](https://arxiv.org/pdf/2601.10714v1) · [abs](https://arxiv.org/abs/2601.10714v1) |
-| 2 | **[From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion](https://arxiv.org/pdf/2601.10710v1)**<br><sub>Cheng Chen, Yuyu Guo, Pengpeng Zeng, Jingkuan Song, Peng Di, Hang Yu, Lianli Gao</sub> | cs.CV | 2026-01-15 | [pdf](https://arxiv.org/pdf/2601.10710v1) · [abs](https://arxiv.org/abs/2601.10710v1) |
-| 3 | **[See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection](https://arxiv.org/pdf/2601.10707v1)**<br><sub>Amir Mallak, Erfan Aasi, Shiva Sreeram, Tsun-Hsuan Wang, Daniela Rus, Alaa Maalouf</sub> | cs.CV | 2026-01-15 | [pdf](https://arxiv.org/pdf/2601.10707v1) · [abs](https://arxiv.org/abs/2601.10707v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
