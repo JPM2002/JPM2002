@@ -108,15 +108,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 4 hrs 10 mins
+Total Time: 1 hr 21 mins
 
-Python       2 hrs 1 min     ████████████░░░░░░░░░░░░░   48.43 %
-Git Config   1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   28.35 %
-Text         33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-SQL          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Python       57 mins         █████████████████▓░░░░░░░   70.87 %
+Text         20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
+Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
