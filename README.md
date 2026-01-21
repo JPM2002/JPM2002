@@ -125,10 +125,14 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-20 06:52 UTC_
+_Last updated: 2026-01-21 06:52 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Implicit Neural Representation Facilitates Unified Universal Vision Encoding](https://arxiv.org/pdf/2601.14256v1)**<br><sub>Matthew Gwilliam, Xiao Wang, Xuefeng Hu, Zhenheng Yang</sub> | cs.CV | 2026-01-20 | [pdf](https://arxiv.org/pdf/2601.14256v1) · [abs](https://arxiv.org/abs/2601.14256v1) |
+| 2 | **[VideoMaMa: Mask-Guided Video Matting via Generative Prior](https://arxiv.org/pdf/2601.14255v1)**<br><sub>Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee</sub> | cs.CV | 2026-01-20 | [pdf](https://arxiv.org/pdf/2601.14255v1) · [abs](https://arxiv.org/abs/2601.14255v1) |
+| 3 | **[Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis](https://arxiv.org/pdf/2601.14253v1)**<br><sub>Hongyuan Chen, Xingyu Chen, Youjia Zhang, Zexiang Xu, Anpei Chen</sub> | cs.CV | 2026-01-20 | [pdf](https://arxiv.org/pdf/2601.14253v1) · [abs](https://arxiv.org/abs/2601.14253v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
