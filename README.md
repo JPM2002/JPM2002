@@ -125,14 +125,14 @@ YAML        0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-21 06:52 UTC_
+_Last updated: 2026-01-22 06:50 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Implicit Neural Representation Facilitates Unified Universal Vision Encoding](https://arxiv.org/pdf/2601.14256v1)**<br><sub>Matthew Gwilliam, Xiao Wang, Xuefeng Hu, Zhenheng Yang</sub> | cs.CV | 2026-01-20 | [pdf](https://arxiv.org/pdf/2601.14256v1) · [abs](https://arxiv.org/abs/2601.14256v1) |
-| 2 | **[VideoMaMa: Mask-Guided Video Matting via Generative Prior](https://arxiv.org/pdf/2601.14255v1)**<br><sub>Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee</sub> | cs.CV | 2026-01-20 | [pdf](https://arxiv.org/pdf/2601.14255v1) · [abs](https://arxiv.org/abs/2601.14255v1) |
-| 3 | **[Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis](https://arxiv.org/pdf/2601.14253v1)**<br><sub>Hongyuan Chen, Xingyu Chen, Youjia Zhang, Zexiang Xu, Anpei Chen</sub> | cs.CV | 2026-01-20 | [pdf](https://arxiv.org/pdf/2601.14253v1) · [abs](https://arxiv.org/abs/2601.14253v1) |
+| 1 | **[APPLE: Attribute-Preserving Pseudo-Labeling for Diffusion-Based Face Swapping](https://arxiv.org/pdf/2601.15288v1)**<br><sub>Jiwon Kang, Yeji Choi, JoungBin Lee, Wooseok Jang, Jinhyeok Choi, Taekeun Kang, Yongjae Park, Myungin Kim, Seungryong Kim</sub> | cs.CV | 2026-01-21 | [pdf](https://arxiv.org/pdf/2601.15288v1) · [abs](https://arxiv.org/abs/2601.15288v1) |
+| 2 | **[Towards Understanding Best Practices for Quantization of Vision-Language Models](https://arxiv.org/pdf/2601.15287v1)**<br><sub>Gautom Das, Vincent La, Ethan Lau, Abhinav Shrivastava, Matthew Gwilliam</sub> | cs.CV | 2026-01-21 | [pdf](https://arxiv.org/pdf/2601.15287v1) · [abs](https://arxiv.org/abs/2601.15287v1) |
+| 3 | **[Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/pdf/2601.15286v1)**<br><sub>Shantanu Jaiswal, Mihir Prabhudesai, Nikash Bhardwaj, Zheyang Qin, Amir Zadeh, Chuan Li, Katerina Fragkiadaki, Deepak Pathak</sub> | cs.CV | 2026-01-21 | [pdf](https://arxiv.org/pdf/2601.15286v1) · [abs](https://arxiv.org/abs/2601.15286v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
