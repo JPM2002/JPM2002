@@ -125,14 +125,14 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-22 06:50 UTC_
+_Last updated: 2026-01-23 06:50 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[APPLE: Attribute-Preserving Pseudo-Labeling for Diffusion-Based Face Swapping](https://arxiv.org/pdf/2601.15288v1)**<br><sub>Jiwon Kang, Yeji Choi, JoungBin Lee, Wooseok Jang, Jinhyeok Choi, Taekeun Kang, Yongjae Park, Myungin Kim, Seungryong Kim</sub> | cs.CV | 2026-01-21 | [pdf](https://arxiv.org/pdf/2601.15288v1) · [abs](https://arxiv.org/abs/2601.15288v1) |
-| 2 | **[Towards Understanding Best Practices for Quantization of Vision-Language Models](https://arxiv.org/pdf/2601.15287v1)**<br><sub>Gautom Das, Vincent La, Ethan Lau, Abhinav Shrivastava, Matthew Gwilliam</sub> | cs.CV | 2026-01-21 | [pdf](https://arxiv.org/pdf/2601.15287v1) · [abs](https://arxiv.org/abs/2601.15287v1) |
-| 3 | **[Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/pdf/2601.15286v1)**<br><sub>Shantanu Jaiswal, Mihir Prabhudesai, Nikash Bhardwaj, Zheyang Qin, Amir Zadeh, Chuan Li, Katerina Fragkiadaki, Deepak Pathak</sub> | cs.CV | 2026-01-21 | [pdf](https://arxiv.org/pdf/2601.15286v1) · [abs](https://arxiv.org/abs/2601.15286v1) |
+| 1 | **[CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback](https://arxiv.org/pdf/2601.16214v1)**<br><sub>Wenhang Ge, Guibao Shen, Jiawei Feng, Luozhou Wang, Hao Lu, Xingye Tian, Xin Tao, Ying-Cong Chen</sub> | cs.CV | 2026-01-22 | [pdf](https://arxiv.org/pdf/2601.16214v1) · [abs](https://arxiv.org/abs/2601.16214v1) |
+| 2 | **[Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](https://arxiv.org/pdf/2601.16211v1)**<br><sub>Geo Ahn, Inwoong Lee, Taeoh Kim, Minho Shim, Dongyoon Wee, Jinwoo Choi</sub> | cs.CV | 2026-01-22 | [pdf](https://arxiv.org/pdf/2601.16211v1) · [abs](https://arxiv.org/abs/2601.16211v1) |
+| 3 | **[PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](https://arxiv.org/pdf/2601.16210v1)**<br><sub>Onkar Susladkar, Tushar Prakash, Adheesh Juvekar, Kiet A. Nguyen, Dong-Hwan Jang, Inderjit S Dhillon, Ismini Lourentzou</sub> | cs.CV | 2026-01-22 | [pdf](https://arxiv.org/pdf/2601.16210v1) · [abs](https://arxiv.org/abs/2601.16210v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
