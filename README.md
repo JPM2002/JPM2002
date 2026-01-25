@@ -125,14 +125,10 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-24 06:45 UTC_
+_Last updated: 2026-01-25 06:46 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback](https://arxiv.org/pdf/2601.16214v1)**<br><sub>Wenhang Ge, Guibao Shen, Jiawei Feng, Luozhou Wang, Hao Lu, Xingye Tian, Xin Tao, Ying-Cong Chen</sub> | cs.CV | 2026-01-22 | [pdf](https://arxiv.org/pdf/2601.16214v1) · [abs](https://arxiv.org/abs/2601.16214v1) |
-| 2 | **[Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](https://arxiv.org/pdf/2601.16211v1)**<br><sub>Geo Ahn, Inwoong Lee, Taeoh Kim, Minho Shim, Dongyoon Wee, Jinwoo Choi</sub> | cs.CV | 2026-01-22 | [pdf](https://arxiv.org/pdf/2601.16211v1) · [abs](https://arxiv.org/abs/2601.16211v1) |
-| 3 | **[PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](https://arxiv.org/pdf/2601.16210v1)**<br><sub>Onkar Susladkar, Tushar Prakash, Adheesh Juvekar, Kiet A. Nguyen, Dong-Hwan Jang, Inderjit S Dhillon, Ismini Lourentzou</sub> | cs.CV | 2026-01-22 | [pdf](https://arxiv.org/pdf/2601.16210v1) · [abs](https://arxiv.org/abs/2601.16210v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
