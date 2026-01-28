@@ -125,14 +125,14 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-27 06:51 UTC_
+_Last updated: 2026-01-28 06:51 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge](https://arxiv.org/pdf/2601.18733v1)**<br><sub>Li Kang, Heng Zhou, Xiufeng Song, Rui Li, Bruno N. Y. Chen, Ziye Wang, Ximeng Meng, Stone Tao, Yiran Qin, Xiaohong Liu, Ruimao Zhang, Lei Bai, Yilun Du, Hao Su, Philip Torr, Zhenfei Yin, Ruihao Gong, Yejun Zeng, Fengjun Zhong, Shenghao Jin, Jinyang Guo, Xianglong Liu, Xiaojun Jia, Tianqi Shan, Wenqi Ren, Simeng Qin, Jialing Yang, Xiaoyu Ma, Tianxing Chen, Zixuan Li, Zijian Cai, Yan Qin, Yusen Qin, Qiangyu Chen, Kaixuan Wang, Zhaoming Han, Yao Mu, Ping Luo, Yuanqi Yao, Haoming Song, Jan-Nico Zaech, Fabien Despinoy, Danda Pani Paudel, Luc Van Gool</sub> | cs.RO | 2026-01-26 | [pdf](https://arxiv.org/pdf/2601.18733v1) · [abs](https://arxiv.org/abs/2601.18733v1) |
-| 2 | **[Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning](https://arxiv.org/pdf/2601.18714v1)**<br><sub>Judith Vilella-Cantos, Mauro Martini, Marcello Chiaberge, Mónica Ballesta, David Valiente</sub> | cs.CV | 2026-01-26 | [pdf](https://arxiv.org/pdf/2601.18714v1) · [abs](https://arxiv.org/abs/2601.18714v1) |
-| 3 | **[SMART: Scalable Mesh-free Aerodynamic Simulations from Raw Geometries using a Transformer-based Surrogate Model](https://arxiv.org/pdf/2601.18707v1)**<br><sub>Jan Hagnberger, Mathias Niepert</sub> | cs.LG | 2026-01-26 | [pdf](https://arxiv.org/pdf/2601.18707v1) · [abs](https://arxiv.org/abs/2601.18707v1) |
+| 1 | **[SONIC: Spectral Oriented Neural Invariant Convolutions](https://arxiv.org/pdf/2601.19884v1)**<br><sub>Gijs Joppe Moens, Regina Beets-Tan, Eduardo H. P. Pooch</sub> | cs.CV | 2026-01-27 | [pdf](https://arxiv.org/pdf/2601.19884v1) · [abs](https://arxiv.org/abs/2601.19884v1) |
+| 2 | **[EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning](https://arxiv.org/pdf/2601.19850v1)**<br><sub>Binzhu Xie, Shi Qiu, Sicheng Zhang, Yinqiao Wang, Hao Xu, Muzammal Naseer, Chi-Wing Fu, Pheng-Ann Heng</sub> | cs.CV | 2026-01-27 | [pdf](https://arxiv.org/pdf/2601.19850v1) · [abs](https://arxiv.org/abs/2601.19850v1) |
+| 3 | **[Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision](https://arxiv.org/pdf/2601.19798v1)**<br><sub>Zhixiang Wei, Yi Li, Zhehan Kan, Xinghua Jiang, Zuwei Long, Shifeng Liu, Hongze Shen, Wei Liu, Xiaoyu Tan, Haojia Lin, Yubo Zhu, Qianyu Li, Di Yin, Haoyu Cao, Weibo Gu, Xin Li, Yinsong Liu, Deqiang Jiang, Xing Sun, Yunsheng Wu, Mingkong Tang, Shuangyin Liu, Lexiang Tang, Haodong Lin, Junru Lu, Jiarui Qin, Lingfeng Qiao, Ruizhi Qiao, Bo Ke, Jianfeng He, Ke Li, Yangning Li, Yunhang Shen, Mengdan Zhang, Peixian Chen, Kun Yin, Bing Liu, Yunfei Wu, Huang Chen, Zhongpeng Cai, Xiaotian Li</sub> | cs.CV | 2026-01-27 | [pdf](https://arxiv.org/pdf/2601.19798v1) · [abs](https://arxiv.org/abs/2601.19798v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
