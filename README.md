@@ -125,14 +125,14 @@ TOML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-28 06:51 UTC_
+_Last updated: 2026-01-29 07:01 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[SONIC: Spectral Oriented Neural Invariant Convolutions](https://arxiv.org/pdf/2601.19884v1)**<br><sub>Gijs Joppe Moens, Regina Beets-Tan, Eduardo H. P. Pooch</sub> | cs.CV | 2026-01-27 | [pdf](https://arxiv.org/pdf/2601.19884v1) · [abs](https://arxiv.org/abs/2601.19884v1) |
-| 2 | **[EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning](https://arxiv.org/pdf/2601.19850v1)**<br><sub>Binzhu Xie, Shi Qiu, Sicheng Zhang, Yinqiao Wang, Hao Xu, Muzammal Naseer, Chi-Wing Fu, Pheng-Ann Heng</sub> | cs.CV | 2026-01-27 | [pdf](https://arxiv.org/pdf/2601.19850v1) · [abs](https://arxiv.org/abs/2601.19850v1) |
-| 3 | **[Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision](https://arxiv.org/pdf/2601.19798v1)**<br><sub>Zhixiang Wei, Yi Li, Zhehan Kan, Xinghua Jiang, Zuwei Long, Shifeng Liu, Hongze Shen, Wei Liu, Xiaoyu Tan, Haojia Lin, Yubo Zhu, Qianyu Li, Di Yin, Haoyu Cao, Weibo Gu, Xin Li, Yinsong Liu, Deqiang Jiang, Xing Sun, Yunsheng Wu, Mingkong Tang, Shuangyin Liu, Lexiang Tang, Haodong Lin, Junru Lu, Jiarui Qin, Lingfeng Qiao, Ruizhi Qiao, Bo Ke, Jianfeng He, Ke Li, Yangning Li, Yunhang Shen, Mengdan Zhang, Peixian Chen, Kun Yin, Bing Liu, Yunfei Wu, Huang Chen, Zhongpeng Cai, Xiaotian Li</sub> | cs.CV | 2026-01-27 | [pdf](https://arxiv.org/pdf/2601.19798v1) · [abs](https://arxiv.org/abs/2601.19798v1) |
+| 1 | **[FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models](https://arxiv.org/pdf/2601.20857v1)**<br><sub>Hongyu Zhou, Zisen Shao, Sheng Miao, Pan Wang, Dongfeng Bai, Bingbing Liu, Yiyi Liao</sub> | cs.CV | 2026-01-28 | [pdf](https://arxiv.org/pdf/2601.20857v1) · [abs](https://arxiv.org/abs/2601.20857v1) |
+| 2 | **[C3Box: A CLIP-based Class-Incremental Learning Toolbox](https://arxiv.org/pdf/2601.20852v1)**<br><sub>Hao Sun, Da-Wei Zhou</sub> | cs.LG | 2026-01-28 | [pdf](https://arxiv.org/pdf/2601.20852v1) · [abs](https://arxiv.org/abs/2601.20852v1) |
+| 3 | **[Open-Vocabulary Functional 3D Human-Scene Interaction Generation](https://arxiv.org/pdf/2601.20835v1)**<br><sub>Jie Liu, Yu Sun, Alpar Cseke, Yao Feng, Nicolas Heron, Michael J. Black, Yan Zhang</sub> | cs.CV | 2026-01-28 | [pdf](https://arxiv.org/pdf/2601.20835v1) · [abs](https://arxiv.org/abs/2601.20835v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
