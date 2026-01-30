@@ -125,14 +125,14 @@ Markdown     2 mins          ▓░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-29 07:01 UTC_
+_Last updated: 2026-01-30 07:03 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models](https://arxiv.org/pdf/2601.20857v1)**<br><sub>Hongyu Zhou, Zisen Shao, Sheng Miao, Pan Wang, Dongfeng Bai, Bingbing Liu, Yiyi Liao</sub> | cs.CV | 2026-01-28 | [pdf](https://arxiv.org/pdf/2601.20857v1) · [abs](https://arxiv.org/abs/2601.20857v1) |
-| 2 | **[C3Box: A CLIP-based Class-Incremental Learning Toolbox](https://arxiv.org/pdf/2601.20852v1)**<br><sub>Hao Sun, Da-Wei Zhou</sub> | cs.LG | 2026-01-28 | [pdf](https://arxiv.org/pdf/2601.20852v1) · [abs](https://arxiv.org/abs/2601.20852v1) |
-| 3 | **[Open-Vocabulary Functional 3D Human-Scene Interaction Generation](https://arxiv.org/pdf/2601.20835v1)**<br><sub>Jie Liu, Yu Sun, Alpar Cseke, Yao Feng, Nicolas Heron, Michael J. Black, Yan Zhang</sub> | cs.CV | 2026-01-28 | [pdf](https://arxiv.org/pdf/2601.20835v1) · [abs](https://arxiv.org/abs/2601.20835v1) |
+| 1 | **[One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/pdf/2601.22158v1)**<br><sub>Yiyang Lu, Susie Lu, Qiao Sun, Hanhong Zhao, Zhicheng Jiang, Xianbang Wang, Tianhong Li, Zhengyang Geng, Kaiming He</sub> | cs.CV | 2026-01-29 | [pdf](https://arxiv.org/pdf/2601.22158v1) · [abs](https://arxiv.org/abs/2601.22158v1) |
+| 2 | **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/pdf/2601.22155v1)**<br><sub>Bo Li, Yida Yin, Wenhao Chai, Xingyu Fu, Zhuang Liu</sub> | cs.CV | 2026-01-29 | [pdf](https://arxiv.org/pdf/2601.22155v1) · [abs](https://arxiv.org/abs/2601.22155v1) |
+| 3 | **[DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/pdf/2601.22153v1)**<br><sub>Haozhe Xie, Beichen Wen, Jiarui Zheng, Zhaoxi Chen, Fangzhou Hong, Haiwen Diao, Ziwei Liu</sub> | cs.RO | 2026-01-29 | [pdf](https://arxiv.org/pdf/2601.22153v1) · [abs](https://arxiv.org/abs/2601.22153v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
