@@ -124,14 +124,10 @@ Markdown    10 mins         █▓░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-01-31 06:54 UTC_
+_Last updated: 2026-02-01 07:02 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/pdf/2601.22158v1)**<br><sub>Yiyang Lu, Susie Lu, Qiao Sun, Hanhong Zhao, Zhicheng Jiang, Xianbang Wang, Tianhong Li, Zhengyang Geng, Kaiming He</sub> | cs.CV | 2026-01-29 | [pdf](https://arxiv.org/pdf/2601.22158v1) · [abs](https://arxiv.org/abs/2601.22158v1) |
-| 2 | **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/pdf/2601.22155v1)**<br><sub>Bo Li, Yida Yin, Wenhao Chai, Xingyu Fu, Zhuang Liu</sub> | cs.CV | 2026-01-29 | [pdf](https://arxiv.org/pdf/2601.22155v1) · [abs](https://arxiv.org/abs/2601.22155v1) |
-| 3 | **[DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/pdf/2601.22153v1)**<br><sub>Haozhe Xie, Beichen Wen, Jiarui Zheng, Zhaoxi Chen, Fangzhou Hong, Haiwen Diao, Ziwei Liu</sub> | cs.RO | 2026-01-29 | [pdf](https://arxiv.org/pdf/2601.22153v1) · [abs](https://arxiv.org/abs/2601.22153v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
