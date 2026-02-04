@@ -125,14 +125,14 @@ Batchfile    11 mins         █▒░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-03 07:04 UTC_
+_Last updated: 2026-02-04 07:05 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss](https://arxiv.org/pdf/2602.02493v1)**<br><sub>Zehong Ma, Ruihan Xu, Shiliang Zhang</sub> | cs.CV | 2026-02-02 | [pdf](https://arxiv.org/pdf/2602.02493v1) · [abs](https://arxiv.org/abs/2602.02493v1) |
-| 2 | **[Multi-head automated segmentation by incorporating detection head into the contextual layer neural network](https://arxiv.org/pdf/2602.02471v1)**<br><sub>Edwin Kys, Febian Febian</sub> | cs.CV | 2026-02-02 | [pdf](https://arxiv.org/pdf/2602.02471v1) · [abs](https://arxiv.org/abs/2602.02471v1) |
-| 3 | **[MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](https://arxiv.org/pdf/2602.02465v1)**<br><sub>Jana Zeller, Thaddäus Wiedemer, Fanfei Li, Thomas Klein, Prasanna Mayilvahanan, Matthias Bethge, Felix Wichmann, Ryan Cotterell, Wieland Brendel</sub> | cs.AI | 2026-02-02 | [pdf](https://arxiv.org/pdf/2602.02465v1) · [abs](https://arxiv.org/abs/2602.02465v1) |
+| 1 | **[EventNeuS: 3D Mesh Reconstruction from a Single Event Camera](https://arxiv.org/pdf/2602.03847v1)**<br><sub>Shreyas Sachan, Viktor Rudnev, Mohamed Elgharib, Christian Theobalt, Vladislav Golyanik</sub> | cs.CV | 2026-02-03 | [pdf](https://arxiv.org/pdf/2602.03847v1) · [abs](https://arxiv.org/abs/2602.03847v1) |
+| 2 | **[Continuous Control of Editing Models via Adaptive-Origin Guidance](https://arxiv.org/pdf/2602.03826v1)**<br><sub>Alon Wolf, Chen Katzir, Kfir Aberman, Or Patashnik</sub> | cs.CV | 2026-02-03 | [pdf](https://arxiv.org/pdf/2602.03826v1) · [abs](https://arxiv.org/abs/2602.03826v1) |
+| 3 | **[Deep-learning-based pan-phenomic data reveals the explosive evolution of avian visual disparity](https://arxiv.org/pdf/2602.03824v1)**<br><sub>Jiao Sun</sub> | q-bio.PE | 2026-02-03 | [pdf](https://arxiv.org/pdf/2602.03824v1) · [abs](https://arxiv.org/abs/2602.03824v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
