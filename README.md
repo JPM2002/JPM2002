@@ -125,14 +125,14 @@ Batchfile    11 mins         █░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-04 07:05 UTC_
+_Last updated: 2026-02-05 07:12 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[EventNeuS: 3D Mesh Reconstruction from a Single Event Camera](https://arxiv.org/pdf/2602.03847v1)**<br><sub>Shreyas Sachan, Viktor Rudnev, Mohamed Elgharib, Christian Theobalt, Vladislav Golyanik</sub> | cs.CV | 2026-02-03 | [pdf](https://arxiv.org/pdf/2602.03847v1) · [abs](https://arxiv.org/abs/2602.03847v1) |
-| 2 | **[Continuous Control of Editing Models via Adaptive-Origin Guidance](https://arxiv.org/pdf/2602.03826v1)**<br><sub>Alon Wolf, Chen Katzir, Kfir Aberman, Or Patashnik</sub> | cs.CV | 2026-02-03 | [pdf](https://arxiv.org/pdf/2602.03826v1) · [abs](https://arxiv.org/abs/2602.03826v1) |
-| 3 | **[Deep-learning-based pan-phenomic data reveals the explosive evolution of avian visual disparity](https://arxiv.org/pdf/2602.03824v1)**<br><sub>Jiao Sun</sub> | q-bio.PE | 2026-02-03 | [pdf](https://arxiv.org/pdf/2602.03824v1) · [abs](https://arxiv.org/abs/2602.03824v1) |
+| 1 | **[Reinforced Attention Learning](https://arxiv.org/pdf/2602.04884v1)**<br><sub>Bangzheng Li, Jianmo Ni, Chen Qu, Ian Miao, Liu Yang, Xingyu Fu, Muhao Chen, Derek Zhiyuan Cheng</sub> | cs.CL | 2026-02-04 | [pdf](https://arxiv.org/pdf/2602.04884v1) · [abs](https://arxiv.org/abs/2602.04884v1) |
+| 2 | **[Laminating Representation Autoencoders for Efficient Diffusion](https://arxiv.org/pdf/2602.04873v1)**<br><sub>Ramón Calvo-González, François Fleuret</sub> | cs.CV | 2026-02-04 | [pdf](https://arxiv.org/pdf/2602.04873v1) · [abs](https://arxiv.org/abs/2602.04873v1) |
+| 3 | **[When LLaVA Meets Objects: Token Composition for Vision-Language-Models](https://arxiv.org/pdf/2602.04864v1)**<br><sub>Soumya Jahagirdar, Walid Bousselham, Anna Kukleva, Hilde Kuehne</sub> | cs.CV | 2026-02-04 | [pdf](https://arxiv.org/pdf/2602.04864v1) · [abs](https://arxiv.org/abs/2602.04864v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
