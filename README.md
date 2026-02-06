@@ -125,14 +125,14 @@ Text         19 mins         █▒░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-05 07:12 UTC_
+_Last updated: 2026-02-06 07:07 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Reinforced Attention Learning](https://arxiv.org/pdf/2602.04884v1)**<br><sub>Bangzheng Li, Jianmo Ni, Chen Qu, Ian Miao, Liu Yang, Xingyu Fu, Muhao Chen, Derek Zhiyuan Cheng</sub> | cs.CL | 2026-02-04 | [pdf](https://arxiv.org/pdf/2602.04884v1) · [abs](https://arxiv.org/abs/2602.04884v1) |
-| 2 | **[Laminating Representation Autoencoders for Efficient Diffusion](https://arxiv.org/pdf/2602.04873v1)**<br><sub>Ramón Calvo-González, François Fleuret</sub> | cs.CV | 2026-02-04 | [pdf](https://arxiv.org/pdf/2602.04873v1) · [abs](https://arxiv.org/abs/2602.04873v1) |
-| 3 | **[When LLaVA Meets Objects: Token Composition for Vision-Language-Models](https://arxiv.org/pdf/2602.04864v1)**<br><sub>Soumya Jahagirdar, Walid Bousselham, Anna Kukleva, Hilde Kuehne</sub> | cs.CV | 2026-02-04 | [pdf](https://arxiv.org/pdf/2602.04864v1) · [abs](https://arxiv.org/abs/2602.04864v1) |
+| 1 | **[Shared LoRA Subspaces for almost Strict Continual Learning](https://arxiv.org/pdf/2602.06043v1)**<br><sub>Prakhar Kaushik, Ankit Vaidya, Shravan Chaudhari, Rama Chellappa, Alan Yuille</sub> | cs.LG | 2026-02-05 | [pdf](https://arxiv.org/pdf/2602.06043v1) · [abs](https://arxiv.org/abs/2602.06043v1) |
+| 2 | **[Pseudo-Invertible Neural Networks](https://arxiv.org/pdf/2602.06042v1)**<br><sub>Yamit Ehrlich, Nimrod Berman, Assaf Shocher</sub> | cs.LG | 2026-02-05 | [pdf](https://arxiv.org/pdf/2602.06042v1) · [abs](https://arxiv.org/abs/2602.06042v1) |
+| 3 | **[Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning](https://arxiv.org/pdf/2602.06041v1)**<br><sub>Xuejun Zhang, Aditi Tiwari, Zhenhailong Wang, Heng Ji</sub> | cs.CV | 2026-02-05 | [pdf](https://arxiv.org/pdf/2602.06041v1) · [abs](https://arxiv.org/abs/2602.06041v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
