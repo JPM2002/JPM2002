@@ -125,10 +125,14 @@ Text         19 mins         █▓░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-09 07:18 UTC_
+_Last updated: 2026-02-10 07:18 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Autoregressive Image Generation with Masked Bit Modeling](https://arxiv.org/pdf/2602.09024v1)**<br><sub>Qihang Yu, Qihao Liu, Ju He, Xinyang Zhang, Yang Liu, Liang-Chieh Chen, Xi Chen</sub> | cs.CV | 2026-02-09 | [pdf](https://arxiv.org/pdf/2602.09024v1) · [abs](https://arxiv.org/abs/2602.09024v1) |
+| 2 | **[WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/pdf/2602.09022v1)**<br><sub>Zehan Wang, Tengfei Wang, Haiyu Zhang, Xuhui Zuo, Junta Wu, Haoyuan Wang, Wenqiang Sun, Zhenwei Wang, Chenjie Cao, Hengshuang Zhao, Chunchao Guo, Zhou Zhao</sub> | cs.CV | 2026-02-09 | [pdf](https://arxiv.org/pdf/2602.09022v1) · [abs](https://arxiv.org/abs/2602.09022v1) |
+| 3 | **[$χ_{0}$: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://arxiv.org/pdf/2602.09021v1)**<br><sub>Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang Li, Huijie Wang, Jin Chen, Kaiyang Wu, Li Chen, Lirui Zhao, Modi Shi, Ping Luo, Qingwen Bu, Shijia Peng, Tianyu Li, Yibo Yuan</sub> | cs.RO | 2026-02-09 | [pdf](https://arxiv.org/pdf/2602.09021v1) · [abs](https://arxiv.org/abs/2602.09021v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
