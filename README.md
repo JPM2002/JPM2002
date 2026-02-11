@@ -125,14 +125,14 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-10 07:18 UTC_
+_Last updated: 2026-02-11 07:15 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Autoregressive Image Generation with Masked Bit Modeling](https://arxiv.org/pdf/2602.09024v1)**<br><sub>Qihang Yu, Qihao Liu, Ju He, Xinyang Zhang, Yang Liu, Liang-Chieh Chen, Xi Chen</sub> | cs.CV | 2026-02-09 | [pdf](https://arxiv.org/pdf/2602.09024v1) · [abs](https://arxiv.org/abs/2602.09024v1) |
-| 2 | **[WorldCompass: Reinforcement Learning for Long-Horizon World Models](https://arxiv.org/pdf/2602.09022v1)**<br><sub>Zehan Wang, Tengfei Wang, Haiyu Zhang, Xuhui Zuo, Junta Wu, Haoyuan Wang, Wenqiang Sun, Zhenwei Wang, Chenjie Cao, Hengshuang Zhao, Chunchao Guo, Zhou Zhao</sub> | cs.CV | 2026-02-09 | [pdf](https://arxiv.org/pdf/2602.09022v1) · [abs](https://arxiv.org/abs/2602.09022v1) |
-| 3 | **[$χ_{0}$: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://arxiv.org/pdf/2602.09021v1)**<br><sub>Checheng Yu, Chonghao Sima, Gangcheng Jiang, Hai Zhang, Haoguang Mai, Hongyang Li, Huijie Wang, Jin Chen, Kaiyang Wu, Li Chen, Lirui Zhao, Modi Shi, Ping Luo, Qingwen Bu, Shijia Peng, Tianyu Li, Yibo Yuan</sub> | cs.RO | 2026-02-09 | [pdf](https://arxiv.org/pdf/2602.09021v1) · [abs](https://arxiv.org/abs/2602.09021v1) |
+| 1 | **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/pdf/2602.10113v1)**<br><sub>Mingyang Wu, Ashirbad Mishra, Soumik Dey, Shuo Xing, Naveen Ravipati, Hansi Wu, Binbin Li, Zhengzhong Tu</sub> | cs.CV | 2026-02-10 | [pdf](https://arxiv.org/pdf/2602.10113v1) · [abs](https://arxiv.org/abs/2602.10113v1) |
+| 2 | **[Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/pdf/2602.10104v1)**<br><sub>Yuxin Jiang, Yuchao Gu, Ivor W. Tsang, Mike Zheng Shou</sub> | cs.CV | 2026-02-10 | [pdf](https://arxiv.org/pdf/2602.10104v1) · [abs](https://arxiv.org/abs/2602.10104v1) |
+| 3 | **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/pdf/2602.10102v1)**<br><sub>Zhongwei Ren, Yunchao Wei, Xiao Yu, Guixun Luo, Yao Zhao, Bingyi Kang, Jiashi Feng, Xiaojie Jin</sub> | cs.CV | 2026-02-10 | [pdf](https://arxiv.org/pdf/2602.10102v1) · [abs](https://arxiv.org/abs/2602.10102v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
