@@ -125,14 +125,14 @@ HTML       0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-11 07:15 UTC_
+_Last updated: 2026-02-12 07:14 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/pdf/2602.10113v1)**<br><sub>Mingyang Wu, Ashirbad Mishra, Soumik Dey, Shuo Xing, Naveen Ravipati, Hansi Wu, Binbin Li, Zhengzhong Tu</sub> | cs.CV | 2026-02-10 | [pdf](https://arxiv.org/pdf/2602.10113v1) · [abs](https://arxiv.org/abs/2602.10113v1) |
-| 2 | **[Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/pdf/2602.10104v1)**<br><sub>Yuxin Jiang, Yuchao Gu, Ivor W. Tsang, Mike Zheng Shou</sub> | cs.CV | 2026-02-10 | [pdf](https://arxiv.org/pdf/2602.10104v1) · [abs](https://arxiv.org/abs/2602.10104v1) |
-| 3 | **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/pdf/2602.10102v1)**<br><sub>Zhongwei Ren, Yunchao Wei, Xiao Yu, Guixun Luo, Yao Zhao, Bingyi Kang, Jiashi Feng, Xiaojie Jin</sub> | cs.CV | 2026-02-10 | [pdf](https://arxiv.org/pdf/2602.10102v1) · [abs](https://arxiv.org/abs/2602.10102v1) |
+| 1 | **[SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos](https://arxiv.org/pdf/2602.11154v1)**<br><sub>Yue Gao, Hong-Xing Yu, Sanghyeon Chang, Qianxi Fu, Bo Zhu, Yoonjin Won, Juan Carlos Niebles, Jiajun Wu</sub> | cs.CV | 2026-02-11 | [pdf](https://arxiv.org/pdf/2602.11154v1) · [abs](https://arxiv.org/abs/2602.11154v1) |
+| 2 | **[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/pdf/2602.11146v1)**<br><sub>Gongye Liu, Bo Yang, Yida Zhi, Zhizhou Zhong, Lei Ke, Didan Deng, Han Gao, Yongxiang Huang, Kaihao Zhang, Hongbo Fu, Wenhan Luo</sub> | cs.CV | 2026-02-11 | [pdf](https://arxiv.org/pdf/2602.11146v1) · [abs](https://arxiv.org/abs/2602.11146v1) |
+| 3 | **[GENIUS: Generative Fluid Intelligence Evaluation Suite](https://arxiv.org/pdf/2602.11144v1)**<br><sub>Ruichuan An, Sihan Yang, Ziyu Guo, Wei Dai, Zijun Shen, Haodong Li, Renrui Zhang, Xinyu Wei, Guopeng Li, Wenshan Wu, Wentao Zhang</sub> | cs.LG | 2026-02-11 | [pdf](https://arxiv.org/pdf/2602.11144v1) · [abs](https://arxiv.org/abs/2602.11144v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
