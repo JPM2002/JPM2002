@@ -125,14 +125,14 @@ Text         8 mins          █░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-12 07:14 UTC_
+_Last updated: 2026-02-13 07:12 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos](https://arxiv.org/pdf/2602.11154v1)**<br><sub>Yue Gao, Hong-Xing Yu, Sanghyeon Chang, Qianxi Fu, Bo Zhu, Yoonjin Won, Juan Carlos Niebles, Jiajun Wu</sub> | cs.CV | 2026-02-11 | [pdf](https://arxiv.org/pdf/2602.11154v1) · [abs](https://arxiv.org/abs/2602.11154v1) |
-| 2 | **[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/pdf/2602.11146v1)**<br><sub>Gongye Liu, Bo Yang, Yida Zhi, Zhizhou Zhong, Lei Ke, Didan Deng, Han Gao, Yongxiang Huang, Kaihao Zhang, Hongbo Fu, Wenhan Luo</sub> | cs.CV | 2026-02-11 | [pdf](https://arxiv.org/pdf/2602.11146v1) · [abs](https://arxiv.org/abs/2602.11146v1) |
-| 3 | **[GENIUS: Generative Fluid Intelligence Evaluation Suite](https://arxiv.org/pdf/2602.11144v1)**<br><sub>Ruichuan An, Sihan Yang, Ziyu Guo, Wei Dai, Zijun Shen, Haodong Li, Renrui Zhang, Xinyu Wei, Guopeng Li, Wenshan Wu, Wentao Zhang</sub> | cs.LG | 2026-02-11 | [pdf](https://arxiv.org/pdf/2602.11144v1) · [abs](https://arxiv.org/abs/2602.11144v1) |
+| 1 | **[UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://arxiv.org/pdf/2602.12279v1)**<br><sub>Leon Liangyu Chen, Haoyu Ma, Zhipeng Fan, Ziqi Huang, Animesh Sinha, Xiaoliang Dai, Jialiang Wang, Zecheng He, Jianwei Yang, Chunyuan Li, Junzhe Sun, Chu Wang, Serena Yeung-Levy, Felix Juefei-Xu</sub> | cs.CV | 2026-02-12 | [pdf](https://arxiv.org/pdf/2602.12279v1) · [abs](https://arxiv.org/abs/2602.12279v1) |
+| 2 | **[MonarchRT: Efficient Attention for Real-Time Video Generation](https://arxiv.org/pdf/2602.12271v1)**<br><sub>Krish Agarwal, Zhuoming Chen, Cheng Luo, Yongqi Chen, Haizhong Zheng, Xun Huang, Atri Rudra, Beidi Chen</sub> | cs.CV | 2026-02-12 | [pdf](https://arxiv.org/pdf/2602.12271v1) · [abs](https://arxiv.org/abs/2602.12271v1) |
+| 3 | **[Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision](https://arxiv.org/pdf/2602.12236v1)**<br><sub>Anika Tabassum Meem, Muntasir Hossain Nadid, Md Zesun Ahmed Mia</sub> | cs.NE | 2026-02-12 | [pdf](https://arxiv.org/pdf/2602.12236v1) · [abs](https://arxiv.org/abs/2602.12236v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
