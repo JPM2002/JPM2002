@@ -125,14 +125,10 @@ Bash         14 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-14 06:59 UTC_
+_Last updated: 2026-02-15 07:02 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://arxiv.org/pdf/2602.12279v1)**<br><sub>Leon Liangyu Chen, Haoyu Ma, Zhipeng Fan, Ziqi Huang, Animesh Sinha, Xiaoliang Dai, Jialiang Wang, Zecheng He, Jianwei Yang, Chunyuan Li, Junzhe Sun, Chu Wang, Serena Yeung-Levy, Felix Juefei-Xu</sub> | cs.CV | 2026-02-12 | [pdf](https://arxiv.org/pdf/2602.12279v1) · [abs](https://arxiv.org/abs/2602.12279v1) |
-| 2 | **[MonarchRT: Efficient Attention for Real-Time Video Generation](https://arxiv.org/pdf/2602.12271v1)**<br><sub>Krish Agarwal, Zhuoming Chen, Cheng Luo, Yongqi Chen, Haizhong Zheng, Xun Huang, Atri Rudra, Beidi Chen</sub> | cs.CV | 2026-02-12 | [pdf](https://arxiv.org/pdf/2602.12271v1) · [abs](https://arxiv.org/abs/2602.12271v1) |
-| 3 | **[Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision](https://arxiv.org/pdf/2602.12236v1)**<br><sub>Anika Tabassum Meem, Muntasir Hossain Nadid, Md Zesun Ahmed Mia</sub> | cs.NE | 2026-02-12 | [pdf](https://arxiv.org/pdf/2602.12236v1) · [abs](https://arxiv.org/abs/2602.12236v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
