@@ -125,10 +125,14 @@ Bash         14 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-16 07:17 UTC_
+_Last updated: 2026-02-17 07:11 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Image Generation with a Sphere Encoder](https://arxiv.org/pdf/2602.15030v1)**<br><sub>Kaiyu Yue, Menglin Jia, Ji Hou, Tom Goldstein</sub> | cs.CV | 2026-02-16 | [pdf](https://arxiv.org/pdf/2602.15030v1) · [abs](https://arxiv.org/abs/2602.15030v1) |
+| 2 | **[Neurosim: A Fast Simulator for Neuromorphic Robot Perception](https://arxiv.org/pdf/2602.15018v1)**<br><sub>Richeek Das, Pratik Chaudhari</sub> | cs.RO | 2026-02-16 | [pdf](https://arxiv.org/pdf/2602.15018v1) · [abs](https://arxiv.org/abs/2602.15018v1) |
+| 3 | **[ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery](https://arxiv.org/pdf/2602.14989v1)**<br><sub>Ayush Shrivastava, Kirtan Gangani, Laksh Jain, Mayank Goel, Nipun Batra</sub> | cs.CV | 2026-02-16 | [pdf](https://arxiv.org/pdf/2602.14989v1) · [abs](https://arxiv.org/abs/2602.14989v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
