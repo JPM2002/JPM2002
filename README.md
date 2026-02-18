@@ -125,14 +125,14 @@ Bash         14 mins               ▓░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-17 07:11 UTC_
+_Last updated: 2026-02-18 07:13 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Image Generation with a Sphere Encoder](https://arxiv.org/pdf/2602.15030v1)**<br><sub>Kaiyu Yue, Menglin Jia, Ji Hou, Tom Goldstein</sub> | cs.CV | 2026-02-16 | [pdf](https://arxiv.org/pdf/2602.15030v1) · [abs](https://arxiv.org/abs/2602.15030v1) |
-| 2 | **[Neurosim: A Fast Simulator for Neuromorphic Robot Perception](https://arxiv.org/pdf/2602.15018v1)**<br><sub>Richeek Das, Pratik Chaudhari</sub> | cs.RO | 2026-02-16 | [pdf](https://arxiv.org/pdf/2602.15018v1) · [abs](https://arxiv.org/abs/2602.15018v1) |
-| 3 | **[ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery](https://arxiv.org/pdf/2602.14989v1)**<br><sub>Ayush Shrivastava, Kirtan Gangani, Laksh Jain, Mayank Goel, Nipun Batra</sub> | cs.CV | 2026-02-16 | [pdf](https://arxiv.org/pdf/2602.14989v1) · [abs](https://arxiv.org/abs/2602.14989v1) |
+| 1 | **[Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation](https://arxiv.org/pdf/2602.15828v1)**<br><sub>Yuxuan Kuang, Sungjae Park, Katerina Fragkiadaki, Shubham Tulsiani</sub> | cs.RO | 2026-02-17 | [pdf](https://arxiv.org/pdf/2602.15828v1) · [abs](https://arxiv.org/abs/2602.15828v1) |
+| 2 | **[VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/pdf/2602.15819v1)**<br><sub>Hui Ren, Yuval Alaluf, Omer Bar Tal, Alexander Schwing, Antonio Torralba, Yael Vinker</sub> | cs.CV | 2026-02-17 | [pdf](https://arxiv.org/pdf/2602.15819v1) · [abs](https://arxiv.org/abs/2602.15819v1) |
+| 3 | **[Task-Agnostic Continual Learning for Chest Radiograph Classification](https://arxiv.org/pdf/2602.15811v1)**<br><sub>Muthu Subash Kavitha, Anas Zafar, Amgad Muneer, Jia Wu</sub> | cs.CV | 2026-02-17 | [pdf](https://arxiv.org/pdf/2602.15811v1) · [abs](https://arxiv.org/abs/2602.15811v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
