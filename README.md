@@ -125,14 +125,14 @@ Bash         14 mins               ▓░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-18 07:13 UTC_
+_Last updated: 2026-02-19 07:12 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation](https://arxiv.org/pdf/2602.15828v1)**<br><sub>Yuxuan Kuang, Sungjae Park, Katerina Fragkiadaki, Shubham Tulsiani</sub> | cs.RO | 2026-02-17 | [pdf](https://arxiv.org/pdf/2602.15828v1) · [abs](https://arxiv.org/abs/2602.15828v1) |
-| 2 | **[VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/pdf/2602.15819v1)**<br><sub>Hui Ren, Yuval Alaluf, Omer Bar Tal, Alexander Schwing, Antonio Torralba, Yael Vinker</sub> | cs.CV | 2026-02-17 | [pdf](https://arxiv.org/pdf/2602.15819v1) · [abs](https://arxiv.org/abs/2602.15819v1) |
-| 3 | **[Task-Agnostic Continual Learning for Chest Radiograph Classification](https://arxiv.org/pdf/2602.15811v1)**<br><sub>Muthu Subash Kavitha, Anas Zafar, Amgad Muneer, Jia Wu</sub> | cs.CV | 2026-02-17 | [pdf](https://arxiv.org/pdf/2602.15811v1) · [abs](https://arxiv.org/abs/2602.15811v1) |
+| 1 | **[Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation](https://arxiv.org/pdf/2602.16705v1)**<br><sub>Runpei Dong, Ziyan Li, Xialin He, Saurabh Gupta</sub> | cs.RO | 2026-02-18 | [pdf](https://arxiv.org/pdf/2602.16705v1) · [abs](https://arxiv.org/abs/2602.16705v1) |
+| 2 | **[Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning](https://arxiv.org/pdf/2602.16702v1)**<br><sub>Mingjia Shi, Yinhan He, Yaochen Zhu, Jundong Li</sub> | cs.CV | 2026-02-18 | [pdf](https://arxiv.org/pdf/2602.16702v1) · [abs](https://arxiv.org/abs/2602.16702v1) |
+| 3 | **[Are Object-Centric Representations Better At Compositional Generalization?](https://arxiv.org/pdf/2602.16689v1)**<br><sub>Ferdinand Kapl, Amir Mohammad Karimi Mamaghan, Maximilian Seitzer, Karl Henrik Johansson, Carsten Marr, Stefan Bauer, Andrea Dittadi</sub> | cs.CV | 2026-02-18 | [pdf](https://arxiv.org/pdf/2602.16689v1) · [abs](https://arxiv.org/abs/2602.16689v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
