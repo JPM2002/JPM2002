@@ -125,14 +125,14 @@ PowerShell   6 mins                ▒░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-19 07:12 UTC_
+_Last updated: 2026-02-20 07:09 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation](https://arxiv.org/pdf/2602.16705v1)**<br><sub>Runpei Dong, Ziyan Li, Xialin He, Saurabh Gupta</sub> | cs.RO | 2026-02-18 | [pdf](https://arxiv.org/pdf/2602.16705v1) · [abs](https://arxiv.org/abs/2602.16705v1) |
-| 2 | **[Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning](https://arxiv.org/pdf/2602.16702v1)**<br><sub>Mingjia Shi, Yinhan He, Yaochen Zhu, Jundong Li</sub> | cs.CV | 2026-02-18 | [pdf](https://arxiv.org/pdf/2602.16702v1) · [abs](https://arxiv.org/abs/2602.16702v1) |
-| 3 | **[Are Object-Centric Representations Better At Compositional Generalization?](https://arxiv.org/pdf/2602.16689v1)**<br><sub>Ferdinand Kapl, Amir Mohammad Karimi Mamaghan, Maximilian Seitzer, Karl Henrik Johansson, Carsten Marr, Stefan Bauer, Andrea Dittadi</sub> | cs.CV | 2026-02-18 | [pdf](https://arxiv.org/pdf/2602.16689v1) · [abs](https://arxiv.org/abs/2602.16689v1) |
+| 1 | **[OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents](https://arxiv.org/pdf/2602.17665v1)**<br><sub>Akashah Shabbir, Muhammad Umer Sheikh, Muhammad Akhtar Munir, Hiyam Debary, Mustansar Fiaz, Muhammad Zaigham Zaheer, Paolo Fraccaro, Fahad Shahbaz Khan, Muhammad Haris Khan, Xiao Xiang Zhu, Salman Khan</sub> | cs.CV | 2026-02-19 | [pdf](https://arxiv.org/pdf/2602.17665v1) · [abs](https://arxiv.org/abs/2602.17665v1) |
+| 2 | **[When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs](https://arxiv.org/pdf/2602.17659v1)**<br><sub>Yu Fang, Yuchun Feng, Dong Jing, Jiaqi Liu, Yue Yang, Zhenyu Wei, Daniel Szafir, Mingyu Ding</sub> | cs.CV | 2026-02-19 | [pdf](https://arxiv.org/pdf/2602.17659v1) · [abs](https://arxiv.org/abs/2602.17659v1) |
+| 3 | **[Human-level 3D shape perception emerges from multi-view learning](https://arxiv.org/pdf/2602.17650v1)**<br><sub>Tyler Bonnen, Jitendra Malik, Angjoo Kanazawa</sub> | cs.CV | 2026-02-19 | [pdf](https://arxiv.org/pdf/2602.17650v1) · [abs](https://arxiv.org/abs/2602.17650v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
