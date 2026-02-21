@@ -123,14 +123,10 @@ Markdown     18 mins               █▒░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-20 07:09 UTC_
+_Last updated: 2026-02-21 06:57 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents](https://arxiv.org/pdf/2602.17665v1)**<br><sub>Akashah Shabbir, Muhammad Umer Sheikh, Muhammad Akhtar Munir, Hiyam Debary, Mustansar Fiaz, Muhammad Zaigham Zaheer, Paolo Fraccaro, Fahad Shahbaz Khan, Muhammad Haris Khan, Xiao Xiang Zhu, Salman Khan</sub> | cs.CV | 2026-02-19 | [pdf](https://arxiv.org/pdf/2602.17665v1) · [abs](https://arxiv.org/abs/2602.17665v1) |
-| 2 | **[When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs](https://arxiv.org/pdf/2602.17659v1)**<br><sub>Yu Fang, Yuchun Feng, Dong Jing, Jiaqi Liu, Yue Yang, Zhenyu Wei, Daniel Szafir, Mingyu Ding</sub> | cs.CV | 2026-02-19 | [pdf](https://arxiv.org/pdf/2602.17659v1) · [abs](https://arxiv.org/abs/2602.17659v1) |
-| 3 | **[Human-level 3D shape perception emerges from multi-view learning](https://arxiv.org/pdf/2602.17650v1)**<br><sub>Tyler Bonnen, Jitendra Malik, Angjoo Kanazawa</sub> | cs.CV | 2026-02-19 | [pdf](https://arxiv.org/pdf/2602.17650v1) · [abs](https://arxiv.org/abs/2602.17650v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
