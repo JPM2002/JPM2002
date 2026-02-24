@@ -125,10 +125,14 @@ JSON       0 secs                ░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-23 07:18 UTC_
+_Last updated: 2026-02-24 07:12 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://arxiv.org/pdf/2602.20161v1)**<br><sub>Abdelrahman Shaker, Ahmed Heakl, Jaseel Muhammad, Ritesh Thawkar, Omkar Thawakar, Senmao Li, Hisham Cholakkal, Ian Reid, Eric P. Xing, Salman Khan, Fahad Shahbaz Khan</sub> | cs.CV | 2026-02-23 | [pdf](https://arxiv.org/pdf/2602.20161v1) · [abs](https://arxiv.org/abs/2602.20161v1) |
+| 2 | **[tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](https://arxiv.org/pdf/2602.20160v1)**<br><sub>Chen Wang, Hao Tan, Wang Yifan, Zhiqin Chen, Yuheng Liu, Kalyan Sunkavalli, Sai Bi, Lingjie Liu, Yiwei Hu</sub> | cs.CV | 2026-02-23 | [pdf](https://arxiv.org/pdf/2602.20160v1) · [abs](https://arxiv.org/abs/2602.20160v1) |
+| 3 | **[A Very Big Video Reasoning Suite](https://arxiv.org/pdf/2602.20159v1)**<br><sub>Maijunxian Wang, Ruisi Wang, Juyi Lin, Ran Ji, Thaddäus Wiedemer, Qingying Gao, Dezhi Luo, Yaoyao Qian, Lianyu Huang, Zelong Hong, Jiahui Ge, Qianli Ma, Hang He, Yifan Zhou, Lingzi Guo, Lantao Mei, Jiachen Li, Hanwen Xing, Tianqi Zhao, Fengyuan Yu, Weihang Xiao, Yizheng Jiao, Jianheng Hou, Danyang Zhang, Pengcheng Xu, Boyang Zhong, Zehong Zhao, Gaoyun Fang, John Kitaoka, Yile Xu, Hua Xu, Kenton Blacutt, Tin Nguyen, Siyuan Song, Haoran Sun, Shaoyue Wen, Linyang He, Runming Wang, Yanzhi Wang, Mengyue Yang, Ziqiao Ma, Raphaël Millière, Freda Shi, Nuno Vasconcelos, Daniel Khashabi, Alan Yuille, Yilun Du, Ziming Liu, Bo Li, Dahua Lin, Ziwei Liu, Vikash Kumar, Yijiang Li, Lei Yang, Zhongang Cai, Hokin Deng</sub> | cs.CV | 2026-02-23 | [pdf](https://arxiv.org/pdf/2602.20159v1) · [abs](https://arxiv.org/abs/2602.20159v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
