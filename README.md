@@ -125,14 +125,14 @@ JSON       0 secs                ░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-25 07:14 UTC_
+_Last updated: 2026-02-26 07:12 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Test-Time Training with KV Binding Is Secretly Linear Attention](https://arxiv.org/pdf/2602.21204v1)**<br><sub>Junchen Liu, Sven Elflein, Or Litany, Zan Gojcic, Ruilong Li</sub> | cs.LG | 2026-02-24 | [pdf](https://arxiv.org/pdf/2602.21204v1) · [abs](https://arxiv.org/abs/2602.21204v1) |
-| 2 | **[Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics](https://arxiv.org/pdf/2602.21203v1)**<br><sub>Abdulaziz Almuzairee, Henrik I. Christensen</sub> | cs.RO | 2026-02-24 | [pdf](https://arxiv.org/pdf/2602.21203v1) · [abs](https://arxiv.org/abs/2602.21203v1) |
-| 3 | **[Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](https://arxiv.org/pdf/2602.21198v1)**<br><sub>Yining Hong, Huang Huang, Manling Li, Li Fei-Fei, Jiajun Wu, Yejin Choi</sub> | cs.LG | 2026-02-24 | [pdf](https://arxiv.org/pdf/2602.21198v1) · [abs](https://arxiv.org/abs/2602.21198v1) |
+| 1 | **[Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](https://arxiv.org/pdf/2602.22212v1)**<br><sub>Julian Kaltheuner, Hannah Dröge, Markus Plack, Patrick Stotko, Reinhard Klein</sub> | cs.CV | 2026-02-25 | [pdf](https://arxiv.org/pdf/2602.22212v1) · [abs](https://arxiv.org/abs/2602.22212v1) |
+| 2 | **[WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos](https://arxiv.org/pdf/2602.22209v1)**<br><sub>Yufei Ye, Jiaman Li, Ryan Rong, C. Karen Liu</sub> | cs.CV | 2026-02-25 | [pdf](https://arxiv.org/pdf/2602.22209v1) · [abs](https://arxiv.org/abs/2602.22209v1) |
+| 3 | **[Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](https://arxiv.org/pdf/2602.22197v1)**<br><sub>Xavier Pleimling, Sifat Muhammad Abdullah, Gunjan Balde, Peng Gao, Mainack Mondal, Murtuza Jadliwala, Bimal Viswanath</sub> | cs.CV | 2026-02-25 | [pdf](https://arxiv.org/pdf/2602.22197v1) · [abs](https://arxiv.org/abs/2602.22197v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
