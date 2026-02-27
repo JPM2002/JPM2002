@@ -125,14 +125,14 @@ Batchfile    1 min                 ▒░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-02-26 07:12 UTC_
+_Last updated: 2026-02-27 07:07 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](https://arxiv.org/pdf/2602.22212v1)**<br><sub>Julian Kaltheuner, Hannah Dröge, Markus Plack, Patrick Stotko, Reinhard Klein</sub> | cs.CV | 2026-02-25 | [pdf](https://arxiv.org/pdf/2602.22212v1) · [abs](https://arxiv.org/abs/2602.22212v1) |
-| 2 | **[WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos](https://arxiv.org/pdf/2602.22209v1)**<br><sub>Yufei Ye, Jiaman Li, Ryan Rong, C. Karen Liu</sub> | cs.CV | 2026-02-25 | [pdf](https://arxiv.org/pdf/2602.22209v1) · [abs](https://arxiv.org/abs/2602.22209v1) |
-| 3 | **[Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](https://arxiv.org/pdf/2602.22197v1)**<br><sub>Xavier Pleimling, Sifat Muhammad Abdullah, Gunjan Balde, Peng Gao, Mainack Mondal, Murtuza Jadliwala, Bimal Viswanath</sub> | cs.CV | 2026-02-25 | [pdf](https://arxiv.org/pdf/2602.22197v1) · [abs](https://arxiv.org/abs/2602.22197v1) |
+| 1 | **[MediX-R1: Open Ended Medical Reinforcement Learning](https://arxiv.org/pdf/2602.23363v1)**<br><sub>Sahal Shaji Mullappilly, Mohammed Irfan Kurpath, Omair Mohamed, Mohamed Zidan, Fahad Khan, Salman Khan, Rao Anwer, Hisham Cholakkal</sub> | cs.CV | 2026-02-26 | [pdf](https://arxiv.org/pdf/2602.23363v1) · [abs](https://arxiv.org/abs/2602.23363v1) |
+| 2 | **[A Dataset is Worth 1 MB](https://arxiv.org/pdf/2602.23358v1)**<br><sub>Elad Kimchi Shoshani, Leeyam Gabay, Yedid Hoshen</sub> | cs.LG | 2026-02-26 | [pdf](https://arxiv.org/pdf/2602.23358v1) · [abs](https://arxiv.org/abs/2602.23358v1) |
+| 3 | **[Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning](https://arxiv.org/pdf/2602.23351v1)**<br><sub>Amita Kamath, Jack Hessel, Khyathi Chandu, Jena D. Hwang, Kai-Wei Chang, Ranjay Krishna</sub> | cs.CL | 2026-02-26 | [pdf](https://arxiv.org/pdf/2602.23351v1) · [abs](https://arxiv.org/abs/2602.23351v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
