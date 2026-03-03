@@ -125,10 +125,14 @@ Other        7 mins                █▒░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-02 07:11 UTC_
+_Last updated: 2026-03-03 07:05 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Adaptive Confidence Regularization for Multimodal Failure Detection](https://arxiv.org/pdf/2603.02200v1)**<br><sub>Moru Liu, Hao Dong, Olga Fink, Mario Trapp</sub> | cs.CV | 2026-03-02 | [pdf](https://arxiv.org/pdf/2603.02200v1) · [abs](https://arxiv.org/abs/2603.02200v1) |
+| 2 | **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/pdf/2603.02194v1)**<br><sub>Mateus Karvat, Bram Adams, Sidney Givigi</sub> | cs.CV | 2026-03-02 | [pdf](https://arxiv.org/pdf/2603.02194v1) · [abs](https://arxiv.org/abs/2603.02194v1) |
+| 3 | **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/pdf/2603.02190v1)**<br><sub>Divyanshu Daiya, Aniket Bera</sub> | cs.CV | 2026-03-02 | [pdf](https://arxiv.org/pdf/2603.02190v1) · [abs](https://arxiv.org/abs/2603.02190v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
