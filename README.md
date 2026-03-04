@@ -125,14 +125,14 @@ Other        7 mins                █▒░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-03 07:05 UTC_
+_Last updated: 2026-03-04 07:01 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Adaptive Confidence Regularization for Multimodal Failure Detection](https://arxiv.org/pdf/2603.02200v1)**<br><sub>Moru Liu, Hao Dong, Olga Fink, Mario Trapp</sub> | cs.CV | 2026-03-02 | [pdf](https://arxiv.org/pdf/2603.02200v1) · [abs](https://arxiv.org/abs/2603.02200v1) |
-| 2 | **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/pdf/2603.02194v1)**<br><sub>Mateus Karvat, Bram Adams, Sidney Givigi</sub> | cs.CV | 2026-03-02 | [pdf](https://arxiv.org/pdf/2603.02194v1) · [abs](https://arxiv.org/abs/2603.02194v1) |
-| 3 | **[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/pdf/2603.02190v1)**<br><sub>Divyanshu Daiya, Aniket Bera</sub> | cs.CV | 2026-03-02 | [pdf](https://arxiv.org/pdf/2603.02190v1) · [abs](https://arxiv.org/abs/2603.02190v1) |
+| 1 | **[Utonia: Toward One Encoder for All Point Clouds](https://arxiv.org/pdf/2603.03283v1)**<br><sub>Yujia Zhang, Xiaoyang Wu, Yunhan Yang, Xianzhe Fan, Han Li, Yuechen Zhang, Zehao Huang, Naiyan Wang, Hengshuang Zhao</sub> | cs.CV | 2026-03-03 | [pdf](https://arxiv.org/pdf/2603.03283v1) · [abs](https://arxiv.org/abs/2603.03283v1) |
+| 2 | **[MIBURI: Towards Expressive Interactive Gesture Synthesis](https://arxiv.org/pdf/2603.03282v1)**<br><sub>M. Hamza Mughal, Rishabh Dabral, Vera Demberg, Christian Theobalt</sub> | cs.CV | 2026-03-03 | [pdf](https://arxiv.org/pdf/2603.03282v1) · [abs](https://arxiv.org/abs/2603.03282v1) |
+| 3 | **[CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance](https://arxiv.org/pdf/2603.03281v1)**<br><sub>Hanyang Wang, Yiyang Liu, Jiawei Chi, Fangfu Liu, Ran Xue, Yueqi Duan</sub> | cs.CV | 2026-03-03 | [pdf](https://arxiv.org/pdf/2603.03281v1) · [abs](https://arxiv.org/abs/2603.03281v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
