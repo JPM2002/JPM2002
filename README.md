@@ -125,14 +125,14 @@ Other        7 mins                █▒░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-04 07:01 UTC_
+_Last updated: 2026-03-05 07:05 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Utonia: Toward One Encoder for All Point Clouds](https://arxiv.org/pdf/2603.03283v1)**<br><sub>Yujia Zhang, Xiaoyang Wu, Yunhan Yang, Xianzhe Fan, Han Li, Yuechen Zhang, Zehao Huang, Naiyan Wang, Hengshuang Zhao</sub> | cs.CV | 2026-03-03 | [pdf](https://arxiv.org/pdf/2603.03283v1) · [abs](https://arxiv.org/abs/2603.03283v1) |
-| 2 | **[MIBURI: Towards Expressive Interactive Gesture Synthesis](https://arxiv.org/pdf/2603.03282v1)**<br><sub>M. Hamza Mughal, Rishabh Dabral, Vera Demberg, Christian Theobalt</sub> | cs.CV | 2026-03-03 | [pdf](https://arxiv.org/pdf/2603.03282v1) · [abs](https://arxiv.org/abs/2603.03282v1) |
-| 3 | **[CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance](https://arxiv.org/pdf/2603.03281v1)**<br><sub>Hanyang Wang, Yiyang Liu, Jiawei Chi, Fangfu Liu, Ran Xue, Yueqi Duan</sub> | cs.CV | 2026-03-03 | [pdf](https://arxiv.org/pdf/2603.03281v1) · [abs](https://arxiv.org/abs/2603.03281v1) |
+| 1 | **[SimpliHuMoN: Simplifying Human Motion Prediction](https://arxiv.org/pdf/2603.04399v1)**<br><sub>Aadya Agrawal, Alexander Schwing</sub> | cs.CV | 2026-03-04 | [pdf](https://arxiv.org/pdf/2603.04399v1) · [abs](https://arxiv.org/abs/2603.04399v1) |
+| 2 | **[ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training](https://arxiv.org/pdf/2603.04385v1)**<br><sub>Haian Jin, Rundi Wu, Tianyuan Zhang, Ruiqi Gao, Jonathan T. Barron, Noah Snavely, Aleksander Holynski</sub> | cs.CV | 2026-03-04 | [pdf](https://arxiv.org/pdf/2603.04385v1) · [abs](https://arxiv.org/abs/2603.04385v1) |
+| 3 | **[TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning](https://arxiv.org/pdf/2603.04380v1)**<br><sub>Maximilian von Klinski, Maximilian Schall</sub> | cs.CV | 2026-03-04 | [pdf](https://arxiv.org/pdf/2603.04380v1) · [abs](https://arxiv.org/abs/2603.04380v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
