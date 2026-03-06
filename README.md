@@ -125,14 +125,14 @@ Other        7 mins                █▒░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-05 07:05 UTC_
+_Last updated: 2026-03-06 07:03 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[SimpliHuMoN: Simplifying Human Motion Prediction](https://arxiv.org/pdf/2603.04399v1)**<br><sub>Aadya Agrawal, Alexander Schwing</sub> | cs.CV | 2026-03-04 | [pdf](https://arxiv.org/pdf/2603.04399v1) · [abs](https://arxiv.org/abs/2603.04399v1) |
-| 2 | **[ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training](https://arxiv.org/pdf/2603.04385v1)**<br><sub>Haian Jin, Rundi Wu, Tianyuan Zhang, Ruiqi Gao, Jonathan T. Barron, Noah Snavely, Aleksander Holynski</sub> | cs.CV | 2026-03-04 | [pdf](https://arxiv.org/pdf/2603.04385v1) · [abs](https://arxiv.org/abs/2603.04385v1) |
-| 3 | **[TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning](https://arxiv.org/pdf/2603.04380v1)**<br><sub>Maximilian von Klinski, Maximilian Schall</sub> | cs.CV | 2026-03-04 | [pdf](https://arxiv.org/pdf/2603.04380v1) · [abs](https://arxiv.org/abs/2603.04380v1) |
+| 1 | **[Accelerating Text-to-Video Generation with Calibrated Sparse Attention](https://arxiv.org/pdf/2603.05503v1)**<br><sub>Shai Yehezkel, Shahar Yadin, Noam Elata, Yaron Ostrovsky-Berman, Bahjat Kawar</sub> | cs.CV | 2026-03-05 | [pdf](https://arxiv.org/pdf/2603.05503v1) · [abs](https://arxiv.org/abs/2603.05503v1) |
+| 2 | **[Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline](https://arxiv.org/pdf/2603.05484v1)**<br><sub>Guo Chen, Lidong Lu, Yicheng Liu, Liangrui Dong, Lidong Zou, Jixin Lv, Zhenquan Li, Xinyi Mao, Baoqi Pei, Shihao Wang, Zhiqi Li, Karan Sapra, Fuxiao Liu, Yin-Dong Zheng, Yifei Huang, Limin Wang, Zhiding Yu, Andrew Tao, Guilin Liu, Tong Lu</sub> | cs.CV | 2026-03-05 | [pdf](https://arxiv.org/pdf/2603.05484v1) · [abs](https://arxiv.org/abs/2603.05484v1) |
+| 3 | **[HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token](https://arxiv.org/pdf/2603.05465v1)**<br><sub>Sai Akhil Kogilathota, Sripadha Vallabha E G, Luzhe Sun, Jiawei Zhou</sub> | cs.CV | 2026-03-05 | [pdf](https://arxiv.org/pdf/2603.05465v1) · [abs](https://arxiv.org/abs/2603.05465v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
