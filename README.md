@@ -125,10 +125,14 @@ JSON        0 secs                ░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-10 07:03 UTC_
+_Last updated: 2026-03-11 07:07 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[From Data Statistics to Feature Geometry: How Correlations Shape Superposition](https://arxiv.org/pdf/2603.09972v1)**<br><sub>Lucas Prieto, Edward Stevinson, Melih Barsbey, Tolga Birdal, Pedro A. M. Mediano</sub> | cs.LG | 2026-03-10 | [pdf](https://arxiv.org/pdf/2603.09972v1) · [abs](https://arxiv.org/abs/2603.09972v1) |
+| 2 | **[BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion](https://arxiv.org/pdf/2603.09961v1)**<br><sub>Xinyu Gao, Gang Chen, Javier Alonso-Mora</sub> | cs.RO | 2026-03-10 | [pdf](https://arxiv.org/pdf/2603.09961v1) · [abs](https://arxiv.org/abs/2603.09961v1) |
+| 3 | **[From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding](https://arxiv.org/pdf/2603.09955v1)**<br><sub>Wenzhao Xiang, Yue Wu, Hongyang Yu, Feng Gao, Fan Yang, Xilin Chen</sub> | cs.CV | 2026-03-10 | [pdf](https://arxiv.org/pdf/2603.09955v1) · [abs](https://arxiv.org/abs/2603.09955v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
