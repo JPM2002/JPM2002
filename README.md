@@ -125,14 +125,14 @@ JSON        0 secs                ░░░░░░░░░░░░░░░�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-12 07:08 UTC_
+_Last updated: 2026-03-13 07:08 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[LiTo: Surface Light Field Tokenization](https://arxiv.org/pdf/2603.11047v1)**<br><sub>Jen-Hao Rick Chang, Xiaoming Zhao, Dorian Chan, Oncel Tuzel</sub> | cs.CV | 2026-03-11 | [pdf](https://arxiv.org/pdf/2603.11047v1) · [abs](https://arxiv.org/abs/2603.11047v1) |
-| 2 | **[Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation](https://arxiv.org/pdf/2603.11045v1)**<br><sub>Tao Zhong, Yixun Hu, Dongzhe Zheng, Aditya Sood, Christine Allen-Blanchette</sub> | cs.LG | 2026-03-11 | [pdf](https://arxiv.org/pdf/2603.11045v1) · [abs](https://arxiv.org/abs/2603.11045v1) |
-| 3 | **[Agentar-Fin-OCR](https://arxiv.org/pdf/2603.11044v1)**<br><sub>Siyi Qian, Xiongfei Bai, Bingtao Fu, Yichen Lu, Gaoyang Zhang, Xudong Yang, Peng Zhang</sub> | cs.CV | 2026-03-11 | [pdf](https://arxiv.org/pdf/2603.11044v1) · [abs](https://arxiv.org/abs/2603.11044v1) |
+| 1 | **[MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning](https://arxiv.org/pdf/2603.12266v1)**<br><sub>Haozhan Shen, Shilin Yan, Hongwei Xue, Shuaiqi Lu, Xiaojun Tang, Guannan Zhang, Tiancheng Zhao, Jianwei Yin</sub> | cs.CV | 2026-03-12 | [pdf](https://arxiv.org/pdf/2603.12266v1) · [abs](https://arxiv.org/abs/2603.12266v1) |
+| 2 | **[OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams](https://arxiv.org/pdf/2603.12265v1)**<br><sub>Yibin Yan, Jilan Xu, Shangzhe Di, Haoning Wu, Weidi Xie</sub> | cs.CV | 2026-03-12 | [pdf](https://arxiv.org/pdf/2603.12265v1) · [abs](https://arxiv.org/abs/2603.12265v1) |
+| 3 | **[Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously](https://arxiv.org/pdf/2603.12262v1)**<br><sub>Yiran Guan, Liang Yin, Dingkang Liang, Jianzhong Ju, Zhenbo Luo, Jian Luan, Yuliang Liu, Xiang Bai</sub> | cs.CV | 2026-03-12 | [pdf](https://arxiv.org/pdf/2603.12262v1) · [abs](https://arxiv.org/abs/2603.12262v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
