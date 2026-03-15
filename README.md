@@ -125,14 +125,10 @@ Markdown     3 mins                ▓░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-14 07:01 UTC_
+_Last updated: 2026-03-15 07:10 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning](https://arxiv.org/pdf/2603.12266v1)**<br><sub>Haozhan Shen, Shilin Yan, Hongwei Xue, Shuaiqi Lu, Xiaojun Tang, Guannan Zhang, Tiancheng Zhao, Jianwei Yin</sub> | cs.CV | 2026-03-12 | [pdf](https://arxiv.org/pdf/2603.12266v1) · [abs](https://arxiv.org/abs/2603.12266v1) |
-| 2 | **[OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams](https://arxiv.org/pdf/2603.12265v1)**<br><sub>Yibin Yan, Jilan Xu, Shangzhe Di, Haoning Wu, Weidi Xie</sub> | cs.CV | 2026-03-12 | [pdf](https://arxiv.org/pdf/2603.12265v1) · [abs](https://arxiv.org/abs/2603.12265v1) |
-| 3 | **[Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously](https://arxiv.org/pdf/2603.12262v1)**<br><sub>Yiran Guan, Liang Yin, Dingkang Liang, Jianzhong Ju, Zhenbo Luo, Jian Luan, Yuliang Liu, Xiang Bai</sub> | cs.CV | 2026-03-12 | [pdf](https://arxiv.org/pdf/2603.12262v1) · [abs](https://arxiv.org/abs/2603.12262v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
