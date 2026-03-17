@@ -125,10 +125,14 @@ TypeScript   9 mins                ██░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-16 07:44 UTC_
+_Last updated: 2026-03-17 07:16 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Towards Generalizable Robotic Manipulation in Dynamic Environments](https://arxiv.org/pdf/2603.15620v1)**<br><sub>Heng Fang, Shangru Li, Shuhan Wang, Xuanyang Xi, Dingkang Liang, Xiang Bai</sub> | cs.CV | 2026-03-16 | [pdf](https://arxiv.org/pdf/2603.15620v1) · [abs](https://arxiv.org/abs/2603.15620v1) |
+| 2 | **[Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models](https://arxiv.org/pdf/2603.15618v1)**<br><sub>Yulin Luo, Hao Chen, Zhuangzhe Wu, Bowen Sui, Jiaming Liu, Chenyang Gu, Zhuoyang Liu, Qiuxuan Feng, Jiale Yu, Shuo Gu, Peng Jia, Pheng-Ann Heng, Shanghang Zhang</sub> | cs.CV | 2026-03-16 | [pdf](https://arxiv.org/pdf/2603.15618v1) · [abs](https://arxiv.org/abs/2603.15618v1) |
+| 3 | **[GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering](https://arxiv.org/pdf/2603.15616v1)**<br><sub>Xincheng Shuai, Ziye Li, Henghui Ding, Dacheng Tao</sub> | cs.CV | 2026-03-16 | [pdf](https://arxiv.org/pdf/2603.15616v1) · [abs](https://arxiv.org/abs/2603.15616v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
