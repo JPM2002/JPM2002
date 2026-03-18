@@ -125,14 +125,14 @@ Git Config   14 mins               ██░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-17 07:16 UTC_
+_Last updated: 2026-03-18 07:15 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Towards Generalizable Robotic Manipulation in Dynamic Environments](https://arxiv.org/pdf/2603.15620v1)**<br><sub>Heng Fang, Shangru Li, Shuhan Wang, Xuanyang Xi, Dingkang Liang, Xiang Bai</sub> | cs.CV | 2026-03-16 | [pdf](https://arxiv.org/pdf/2603.15620v1) · [abs](https://arxiv.org/abs/2603.15620v1) |
-| 2 | **[Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models](https://arxiv.org/pdf/2603.15618v1)**<br><sub>Yulin Luo, Hao Chen, Zhuangzhe Wu, Bowen Sui, Jiaming Liu, Chenyang Gu, Zhuoyang Liu, Qiuxuan Feng, Jiale Yu, Shuo Gu, Peng Jia, Pheng-Ann Heng, Shanghang Zhang</sub> | cs.CV | 2026-03-16 | [pdf](https://arxiv.org/pdf/2603.15618v1) · [abs](https://arxiv.org/abs/2603.15618v1) |
-| 3 | **[GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering](https://arxiv.org/pdf/2603.15616v1)**<br><sub>Xincheng Shuai, Ziye Li, Henghui Ding, Dacheng Tao</sub> | cs.CV | 2026-03-16 | [pdf](https://arxiv.org/pdf/2603.15616v1) · [abs](https://arxiv.org/abs/2603.15616v1) |
+| 1 | **[WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation](https://arxiv.org/pdf/2603.16871v1)**<br><sub>Jisu Nam, Yicong Hong, Chun-Hao Paul Huang, Feng Liu, JoungBin Lee, Jiyoung Kim, Siyoon Jin, Yunsung Lee, Jaeyoon Jung, Suhwan Choi, Seungryong Kim, Yang Zhou</sub> | cs.CV | 2026-03-17 | [pdf](https://arxiv.org/pdf/2603.16871v1) · [abs](https://arxiv.org/abs/2603.16871v1) |
+| 2 | **[Demystifing Video Reasoning](https://arxiv.org/pdf/2603.16870v1)**<br><sub>Ruisi Wang, Zhongang Cai, Fanyi Pu, Junxiang Xu, Wanqi Yin, Maijunxian Wang, Ran Ji, Chenyang Gu, Bo Li, Ziqi Huang, Hokin Deng, Dahua Lin, Ziwei Liu, Lei Yang</sub> | cs.CV | 2026-03-17 | [pdf](https://arxiv.org/pdf/2603.16870v1) · [abs](https://arxiv.org/abs/2603.16870v1) |
+| 3 | **[SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation](https://arxiv.org/pdf/2603.16864v1)**<br><sub>Jiongze Yu, Xiangbo Gao, Pooja Verlani, Akshay Gadde, Yilin Wang, Balu Adsumilli, Zhengzhong Tu</sub> | cs.CV | 2026-03-17 | [pdf](https://arxiv.org/pdf/2603.16864v1) · [abs](https://arxiv.org/abs/2603.16864v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
