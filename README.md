@@ -125,14 +125,14 @@ Git Config   14 mins               █▓░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-18 07:15 UTC_
+_Last updated: 2026-03-19 07:10 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation](https://arxiv.org/pdf/2603.16871v1)**<br><sub>Jisu Nam, Yicong Hong, Chun-Hao Paul Huang, Feng Liu, JoungBin Lee, Jiyoung Kim, Siyoon Jin, Yunsung Lee, Jaeyoon Jung, Suhwan Choi, Seungryong Kim, Yang Zhou</sub> | cs.CV | 2026-03-17 | [pdf](https://arxiv.org/pdf/2603.16871v1) · [abs](https://arxiv.org/abs/2603.16871v1) |
-| 2 | **[Demystifing Video Reasoning](https://arxiv.org/pdf/2603.16870v1)**<br><sub>Ruisi Wang, Zhongang Cai, Fanyi Pu, Junxiang Xu, Wanqi Yin, Maijunxian Wang, Ran Ji, Chenyang Gu, Bo Li, Ziqi Huang, Hokin Deng, Dahua Lin, Ziwei Liu, Lei Yang</sub> | cs.CV | 2026-03-17 | [pdf](https://arxiv.org/pdf/2603.16870v1) · [abs](https://arxiv.org/abs/2603.16870v1) |
-| 3 | **[SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation](https://arxiv.org/pdf/2603.16864v1)**<br><sub>Jiongze Yu, Xiangbo Gao, Pooja Verlani, Akshay Gadde, Yilin Wang, Balu Adsumilli, Zhengzhong Tu</sub> | cs.CV | 2026-03-17 | [pdf](https://arxiv.org/pdf/2603.16864v1) · [abs](https://arxiv.org/abs/2603.16864v1) |
+| 1 | **[Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/pdf/2603.18004v1)**<br><sub>Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark, Yong Jae Lee, Sangho Lee</sub> | cs.CV | 2026-03-18 | [pdf](https://arxiv.org/pdf/2603.18004v1) · [abs](https://arxiv.org/abs/2603.18004v1) |
+| 2 | **[Universal Skeleton Understanding via Differentiable Rendering and MLLMs](https://arxiv.org/pdf/2603.18003v1)**<br><sub>Ziyi Wang, Peiming Li, Xinshun Wang, Yang Tang, Kai-Kuang Ma, Mengyuan Liu</sub> | cs.CV | 2026-03-18 | [pdf](https://arxiv.org/pdf/2603.18003v1) · [abs](https://arxiv.org/abs/2603.18003v1) |
+| 3 | **[Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models](https://arxiv.org/pdf/2603.18002v1)**<br><sub>Kevin Qu, Haozhe Qi, Mihai Dusmanu, Mahdi Rad, Rui Wang, Marc Pollefeys</sub> | cs.CV | 2026-03-18 | [pdf](https://arxiv.org/pdf/2603.18002v1) · [abs](https://arxiv.org/abs/2603.18002v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
