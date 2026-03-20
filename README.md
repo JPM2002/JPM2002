@@ -125,14 +125,14 @@ Git Config   20 mins               █▓░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-19 07:10 UTC_
+_Last updated: 2026-03-20 07:08 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/pdf/2603.18004v1)**<br><sub>Jianrui Zhang, Yue Yang, Rohun Tripathi, Winson Han, Ranjay Krishna, Christopher Clark, Yong Jae Lee, Sangho Lee</sub> | cs.CV | 2026-03-18 | [pdf](https://arxiv.org/pdf/2603.18004v1) · [abs](https://arxiv.org/abs/2603.18004v1) |
-| 2 | **[Universal Skeleton Understanding via Differentiable Rendering and MLLMs](https://arxiv.org/pdf/2603.18003v1)**<br><sub>Ziyi Wang, Peiming Li, Xinshun Wang, Yang Tang, Kai-Kuang Ma, Mengyuan Liu</sub> | cs.CV | 2026-03-18 | [pdf](https://arxiv.org/pdf/2603.18003v1) · [abs](https://arxiv.org/abs/2603.18003v1) |
-| 3 | **[Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models](https://arxiv.org/pdf/2603.18002v1)**<br><sub>Kevin Qu, Haozhe Qi, Mihai Dusmanu, Mahdi Rad, Rui Wang, Marc Pollefeys</sub> | cs.CV | 2026-03-18 | [pdf](https://arxiv.org/pdf/2603.18002v1) · [abs](https://arxiv.org/abs/2603.18002v1) |
+| 1 | **[Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/pdf/2603.19235v1)**<br><sub>Xianjin Wu, Dingkang Liang, Tianrui Feng, Kui Xia, Yumeng Zhang, Xiaofan Li, Xiao Tan, Xiang Bai</sub> | cs.CV | 2026-03-19 | [pdf](https://arxiv.org/pdf/2603.19235v1) · [abs](https://arxiv.org/abs/2603.19235v1) |
+| 2 | **[Matryoshka Gaussian Splatting](https://arxiv.org/pdf/2603.19234v1)**<br><sub>Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Jeffrey Hu, Nursena Koprucu Aslan, Wenzhao Li, Canberk Baykal, Albert Miao, Josef Bengtson, Chenliang Zhou, Weihao Xia, Cristina Nader Vasconcelos. Cengiz Oztireli</sub> | cs.CV | 2026-03-19 | [pdf](https://arxiv.org/pdf/2603.19234v1) · [abs](https://arxiv.org/abs/2603.19234v1) |
+| 3 | **[Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/pdf/2603.19232v1)**<br><sub>Yuqing Wang, Chuofan Ma, Zhijie Lin, Yao Teng, Lijun Yu, Shuai Wang, Jiaming Han, Jiashi Feng, Yi Jiang, Xihui Liu</sub> | cs.CV | 2026-03-19 | [pdf](https://arxiv.org/pdf/2603.19232v1) · [abs](https://arxiv.org/abs/2603.19232v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
