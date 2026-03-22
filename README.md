@@ -125,14 +125,10 @@ Bash         55 mins               ██░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-21 06:58 UTC_
+_Last updated: 2026-03-22 07:02 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/pdf/2603.19235v1)**<br><sub>Xianjin Wu, Dingkang Liang, Tianrui Feng, Kui Xia, Yumeng Zhang, Xiaofan Li, Xiao Tan, Xiang Bai</sub> | cs.CV | 2026-03-19 | [pdf](https://arxiv.org/pdf/2603.19235v1) · [abs](https://arxiv.org/abs/2603.19235v1) |
-| 2 | **[Matryoshka Gaussian Splatting](https://arxiv.org/pdf/2603.19234v1)**<br><sub>Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Jeffrey Hu, Nursena Koprucu Aslan, Wenzhao Li, Canberk Baykal, Albert Miao, Josef Bengtson, Chenliang Zhou, Weihao Xia, Cristina Nader Vasconcelos. Cengiz Oztireli</sub> | cs.CV | 2026-03-19 | [pdf](https://arxiv.org/pdf/2603.19234v1) · [abs](https://arxiv.org/abs/2603.19234v1) |
-| 3 | **[Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/pdf/2603.19232v1)**<br><sub>Yuqing Wang, Chuofan Ma, Zhijie Lin, Yao Teng, Lijun Yu, Shuai Wang, Jiaming Han, Jiashi Feng, Yi Jiang, Xihui Liu</sub> | cs.CV | 2026-03-19 | [pdf](https://arxiv.org/pdf/2603.19232v1) · [abs](https://arxiv.org/abs/2603.19232v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
