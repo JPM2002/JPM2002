@@ -125,10 +125,14 @@ Bash         35 mins               █▒░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-23 07:25 UTC_
+_Last updated: 2026-03-24 07:17 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/pdf/2603.22286v1)**<br><sub>Umair Nawaz, Ahmed Heakl, Ufaq Khan, Abdelrahman Shaker, Salman Khan, Fahad Shahbaz Khan</sub> | cs.CV | 2026-03-23 | [pdf](https://arxiv.org/pdf/2603.22286v1) · [abs](https://arxiv.org/abs/2603.22286v1) |
+| 2 | **[VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding](https://arxiv.org/pdf/2603.22285v1)**<br><sub>Ruoliu Yang, Chu Wu, Caifeng Shan, Ran He, Chaoyou Fu</sub> | cs.CV | 2026-03-23 | [pdf](https://arxiv.org/pdf/2603.22285v1) · [abs](https://arxiv.org/abs/2603.22285v1) |
+| 3 | **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/pdf/2603.22283v1)**<br><sub>Shivam Duggal, Xingjian Bai, Zongze Wu, Richard Zhang, Eli Shechtman, Antonio Torralba, Phillip Isola, William T. Freeman</sub> | cs.CV | 2026-03-23 | [pdf](https://arxiv.org/pdf/2603.22283v1) · [abs](https://arxiv.org/abs/2603.22283v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
