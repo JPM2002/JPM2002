@@ -125,14 +125,14 @@ Git Config   31 mins               █▓░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-24 07:17 UTC_
+_Last updated: 2026-03-25 07:15 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/pdf/2603.22286v1)**<br><sub>Umair Nawaz, Ahmed Heakl, Ufaq Khan, Abdelrahman Shaker, Salman Khan, Fahad Shahbaz Khan</sub> | cs.CV | 2026-03-23 | [pdf](https://arxiv.org/pdf/2603.22286v1) · [abs](https://arxiv.org/abs/2603.22286v1) |
-| 2 | **[VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding](https://arxiv.org/pdf/2603.22285v1)**<br><sub>Ruoliu Yang, Chu Wu, Caifeng Shan, Ran He, Chaoyou Fu</sub> | cs.CV | 2026-03-23 | [pdf](https://arxiv.org/pdf/2603.22285v1) · [abs](https://arxiv.org/abs/2603.22285v1) |
-| 3 | **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/pdf/2603.22283v1)**<br><sub>Shivam Duggal, Xingjian Bai, Zongze Wu, Richard Zhang, Eli Shechtman, Antonio Torralba, Phillip Isola, William T. Freeman</sub> | cs.CV | 2026-03-23 | [pdf](https://arxiv.org/pdf/2603.22283v1) · [abs](https://arxiv.org/abs/2603.22283v1) |
+| 1 | **[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](https://arxiv.org/pdf/2603.23501v1)**<br><sub>Ufaq Khan, Umair Nawaz, L D M S S Teja, Numaan Saeed, Muhammad Bilal, Yutong Xie, Mohammad Yaqub, Muhammad Haris Khan</sub> | cs.CV | 2026-03-24 | [pdf](https://arxiv.org/pdf/2603.23501v1) · [abs](https://arxiv.org/abs/2603.23501v1) |
+| 2 | **[UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://arxiv.org/pdf/2603.23500v1)**<br><sub>Jie Liu, Zilyu Ye, Linxiao Yuan, Shenhan Zhu, Yu Gao, Jie Wu, Kunchang Li, Xionghui Wang, Xiaonan Nie, Weilin Huang, Wanli Ouyang</sub> | cs.CV | 2026-03-24 | [pdf](https://arxiv.org/pdf/2603.23500v1) · [abs](https://arxiv.org/abs/2603.23500v1) |
+| 3 | **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/pdf/2603.23499v1)**<br><sub>Jaewon Min, Jaeeun Lee, Yeji Choi, Paul Hyunbin Cho, Jin Hyeon Kim, Tae-Young Lee, Jongsik Ahn, Hwayeong Lee, Seonghyun Park, Seungryong Kim</sub> | cs.CV | 2026-03-24 | [pdf](https://arxiv.org/pdf/2603.23499v1) · [abs](https://arxiv.org/abs/2603.23499v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
