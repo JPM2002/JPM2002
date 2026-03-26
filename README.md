@@ -125,14 +125,14 @@ Git Config   31 mins               █▓░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-25 07:15 UTC_
+_Last updated: 2026-03-26 07:22 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](https://arxiv.org/pdf/2603.23501v1)**<br><sub>Ufaq Khan, Umair Nawaz, L D M S S Teja, Numaan Saeed, Muhammad Bilal, Yutong Xie, Mohammad Yaqub, Muhammad Haris Khan</sub> | cs.CV | 2026-03-24 | [pdf](https://arxiv.org/pdf/2603.23501v1) · [abs](https://arxiv.org/abs/2603.23501v1) |
-| 2 | **[UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://arxiv.org/pdf/2603.23500v1)**<br><sub>Jie Liu, Zilyu Ye, Linxiao Yuan, Shenhan Zhu, Yu Gao, Jie Wu, Kunchang Li, Xionghui Wang, Xiaonan Nie, Weilin Huang, Wanli Ouyang</sub> | cs.CV | 2026-03-24 | [pdf](https://arxiv.org/pdf/2603.23500v1) · [abs](https://arxiv.org/abs/2603.23500v1) |
-| 3 | **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/pdf/2603.23499v1)**<br><sub>Jaewon Min, Jaeeun Lee, Yeji Choi, Paul Hyunbin Cho, Jin Hyeon Kim, Tae-Young Lee, Jongsik Ahn, Hwayeong Lee, Seonghyun Park, Seungryong Kim</sub> | cs.CV | 2026-03-24 | [pdf](https://arxiv.org/pdf/2603.23499v1) · [abs](https://arxiv.org/abs/2603.23499v1) |
+| 1 | **[TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models](https://arxiv.org/pdf/2603.24584v1)**<br><sub>Jiaying Zhou, Zhihao Zhan, Ruifeng Zhai, Qinhan Lyu, Hao Liu, Keze Wang, Liang Lin, Guangrun Wang</sub> | cs.CV | 2026-03-25 | [pdf](https://arxiv.org/pdf/2603.24584v1) · [abs](https://arxiv.org/abs/2603.24584v1) |
+| 2 | **[Vision-Language Models vs Human: Perceptual Image Quality Assessment](https://arxiv.org/pdf/2603.24578v1)**<br><sub>Imran Mehmood, Imad Ali Shah, Ming Ronnier Luo, Brian Deegan</sub> | cs.CV | 2026-03-25 | [pdf](https://arxiv.org/pdf/2603.24578v1) · [abs](https://arxiv.org/abs/2603.24578v1) |
+| 3 | **[EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction](https://arxiv.org/pdf/2603.24577v1)**<br><sub>Falong Fan, Yi Xie, Arnis Lektauers, Bo Liu, Jerzy Rozenblit</sub> | cs.CV | 2026-03-25 | [pdf](https://arxiv.org/pdf/2603.24577v1) · [abs](https://arxiv.org/abs/2603.24577v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
