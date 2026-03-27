@@ -125,14 +125,14 @@ Git Config   25 mins               █▓░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-26 07:22 UTC_
+_Last updated: 2026-03-27 07:21 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models](https://arxiv.org/pdf/2603.24584v1)**<br><sub>Jiaying Zhou, Zhihao Zhan, Ruifeng Zhai, Qinhan Lyu, Hao Liu, Keze Wang, Liang Lin, Guangrun Wang</sub> | cs.CV | 2026-03-25 | [pdf](https://arxiv.org/pdf/2603.24584v1) · [abs](https://arxiv.org/abs/2603.24584v1) |
-| 2 | **[Vision-Language Models vs Human: Perceptual Image Quality Assessment](https://arxiv.org/pdf/2603.24578v1)**<br><sub>Imran Mehmood, Imad Ali Shah, Ming Ronnier Luo, Brian Deegan</sub> | cs.CV | 2026-03-25 | [pdf](https://arxiv.org/pdf/2603.24578v1) · [abs](https://arxiv.org/abs/2603.24578v1) |
-| 3 | **[EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction](https://arxiv.org/pdf/2603.24577v1)**<br><sub>Falong Fan, Yi Xie, Arnis Lektauers, Bo Liu, Jerzy Rozenblit</sub> | cs.CV | 2026-03-25 | [pdf](https://arxiv.org/pdf/2603.24577v1) · [abs](https://arxiv.org/abs/2603.24577v1) |
+| 1 | **[RefAlign: Representation Alignment for Reference-to-Video Generation](https://arxiv.org/pdf/2603.25743v1)**<br><sub>Lei Wang, YuXin Song, Ge Wu, Haocheng Feng, Hang Zhou, Jingdong Wang, Yaxing Wang, jian Yang</sub> | cs.CV | 2026-03-26 | [pdf](https://arxiv.org/pdf/2603.25743v1) · [abs](https://arxiv.org/abs/2603.25743v1) |
+| 2 | **[Vega: Learning to Drive with Natural Language Instructions](https://arxiv.org/pdf/2603.25741v1)**<br><sub>Sicheng Zuo, Yuxuan Li, Wenzhao Zheng, Zheng Zhu, Jie Zhou, Jiwen Lu</sub> | cs.CV | 2026-03-26 | [pdf](https://arxiv.org/pdf/2603.25741v1) · [abs](https://arxiv.org/abs/2603.25741v1) |
+| 3 | **[Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving](https://arxiv.org/pdf/2603.25740v1)**<br><sub>Zehao Wang, Huaide Jiang, Shuaiwu Dong, Yuping Wang, Hang Qiu, Jiachen Li</sub> | cs.RO | 2026-03-26 | [pdf](https://arxiv.org/pdf/2603.25740v1) · [abs](https://arxiv.org/abs/2603.25740v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
