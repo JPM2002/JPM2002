@@ -125,14 +125,10 @@ Other        0 secs                ░░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-28 07:10 UTC_
+_Last updated: 2026-03-29 07:16 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[RefAlign: Representation Alignment for Reference-to-Video Generation](https://arxiv.org/pdf/2603.25743v1)**<br><sub>Lei Wang, YuXin Song, Ge Wu, Haocheng Feng, Hang Zhou, Jingdong Wang, Yaxing Wang, jian Yang</sub> | cs.CV | 2026-03-26 | [pdf](https://arxiv.org/pdf/2603.25743v1) · [abs](https://arxiv.org/abs/2603.25743v1) |
-| 2 | **[Vega: Learning to Drive with Natural Language Instructions](https://arxiv.org/pdf/2603.25741v1)**<br><sub>Sicheng Zuo, Yuxuan Li, Wenzhao Zheng, Zheng Zhu, Jie Zhou, Jiwen Lu</sub> | cs.CV | 2026-03-26 | [pdf](https://arxiv.org/pdf/2603.25741v1) · [abs](https://arxiv.org/abs/2603.25741v1) |
-| 3 | **[Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving](https://arxiv.org/pdf/2603.25740v1)**<br><sub>Zehao Wang, Huaide Jiang, Shuaiwu Dong, Yuping Wang, Hang Qiu, Jiachen Li</sub> | cs.RO | 2026-03-26 | [pdf](https://arxiv.org/pdf/2603.25740v1) · [abs](https://arxiv.org/abs/2603.25740v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
