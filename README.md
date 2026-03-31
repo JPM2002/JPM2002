@@ -121,10 +121,14 @@ Python   3 mins                ████████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-03-30 07:56 UTC_
+_Last updated: 2026-03-31 07:41 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://arxiv.org/pdf/2603.28767v1)**<br><sub>Kaituo Feng, Manyuan Zhang, Shuang Chen, Yunlong Lin, Kaixuan Fan, Yilei Jiang, Hongyu Li, Dian Zheng, Chenyang Wang, Xiangyu Yue</sub> | cs.CV | 2026-03-30 | [pdf](https://arxiv.org/pdf/2603.28767v1) · [abs](https://arxiv.org/abs/2603.28767v1) |
+| 2 | **[HandX: Scaling Bimanual Motion and Interaction Generation](https://arxiv.org/pdf/2603.28766v1)**<br><sub>Zimu Zhang, Yucheng Zhang, Xiyan Xu, Ziyin Wang, Sirui Xu, Kai Zhou, Bing Zhou, Chuan Guo, Jian Wang, Yu-Xiong Wang, Liang-Yan Gui</sub> | cs.CV | 2026-03-30 | [pdf](https://arxiv.org/pdf/2603.28766v1) · [abs](https://arxiv.org/abs/2603.28766v1) |
+| 3 | **[PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models](https://arxiv.org/pdf/2603.28763v1)**<br><sub>Lorenza Prospero, Orest Kupyn, Ostap Viniavskyi, João F. Henriques, Christian Rupprecht</sub> | cs.CV | 2026-03-30 | [pdf](https://arxiv.org/pdf/2603.28763v1) · [abs](https://arxiv.org/abs/2603.28763v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
