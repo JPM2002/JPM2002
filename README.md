@@ -121,14 +121,14 @@ Python   3 mins                ████████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-02 07:38 UTC_
+_Last updated: 2026-04-03 07:23 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[HippoCamp: Benchmarking Contextual Agents on Personal Computers](https://arxiv.org/pdf/2604.01221v1)**<br><sub>Zhe Yang, Shulin Tian, Kairui Hu, Shuai Liu, Hoang-Nhat Nguyen, Yichi Zhang, Zujin Guo, Mengying Yu, Zinan Zhang, Jingkang Yang, Chen Change Loy, Ziwei Liu</sub> | cs.AI | 2026-04-01 | [pdf](https://arxiv.org/pdf/2604.01221v1) · [abs](https://arxiv.org/abs/2604.01221v1) |
-| 2 | **[LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)](https://arxiv.org/pdf/2604.01216v1)**<br><sub>Yuxuan Bao, Xingyue Zhang, J. Nathan Kutz</sub> | cs.LG | 2026-04-01 | [pdf](https://arxiv.org/pdf/2604.01216v1) · [abs](https://arxiv.org/abs/2604.01216v1) |
-| 3 | **[TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking](https://arxiv.org/pdf/2604.01207v1)**<br><sub>Jiyuan Hu, Zechuan Zhang, Zongxin Yang, Yi Yang</sub> | cs.CV | 2026-04-01 | [pdf](https://arxiv.org/pdf/2604.01207v1) · [abs](https://arxiv.org/abs/2604.01207v1) |
+| 1 | **[ActionParty: Multi-Subject Action Binding in Generative Video Games](https://arxiv.org/pdf/2604.02330v1)**<br><sub>Alexander Pondaven, Ziyi Wu, Igor Gilitschenski, Philip Torr, Sergey Tulyakov, Fabio Pizzati, Aliaksandr Siarohin</sub> | cs.CV | 2026-04-02 | [pdf](https://arxiv.org/pdf/2604.02330v1) · [abs](https://arxiv.org/abs/2604.02330v1) |
+| 2 | **[Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection](https://arxiv.org/pdf/2604.02328v1)**<br><sub>Alex Costanzino, Pierluigi Zama Ramirez, Giuseppe Lisanti, Luigi Di Stefano</sub> | cs.CV | 2026-04-02 | [pdf](https://arxiv.org/pdf/2604.02328v1) · [abs](https://arxiv.org/abs/2604.02328v1) |
+| 3 | **[Steerable Visual Representations](https://arxiv.org/pdf/2604.02327v1)**<br><sub>Jona Ruthardt, Manu Gaur, Deva Ramanan, Makarand Tapaswi, Yuki M. Asano</sub> | cs.CV | 2026-04-02 | [pdf](https://arxiv.org/pdf/2604.02327v1) · [abs](https://arxiv.org/abs/2604.02327v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
