@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-04 07:13 UTC_
+_Last updated: 2026-04-05 07:19 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[ActionParty: Multi-Subject Action Binding in Generative Video Games](https://arxiv.org/pdf/2604.02330v1)**<br><sub>Alexander Pondaven, Ziyi Wu, Igor Gilitschenski, Philip Torr, Sergey Tulyakov, Fabio Pizzati, Aliaksandr Siarohin</sub> | cs.CV | 2026-04-02 | [pdf](https://arxiv.org/pdf/2604.02330v1) · [abs](https://arxiv.org/abs/2604.02330v1) |
-| 2 | **[Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection](https://arxiv.org/pdf/2604.02328v1)**<br><sub>Alex Costanzino, Pierluigi Zama Ramirez, Giuseppe Lisanti, Luigi Di Stefano</sub> | cs.CV | 2026-04-02 | [pdf](https://arxiv.org/pdf/2604.02328v1) · [abs](https://arxiv.org/abs/2604.02328v1) |
-| 3 | **[Steerable Visual Representations](https://arxiv.org/pdf/2604.02327v1)**<br><sub>Jona Ruthardt, Manu Gaur, Deva Ramanan, Makarand Tapaswi, Yuki M. Asano</sub> | cs.CV | 2026-04-02 | [pdf](https://arxiv.org/pdf/2604.02327v1) · [abs](https://arxiv.org/abs/2604.02327v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
