@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-06 07:57 UTC_
+_Last updated: 2026-04-07 07:45 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://arxiv.org/pdf/2604.04934v1)**<br><sub>Hyunsoo Cha, Wonjung Woo, Byungjun Kim, Hanbyul Joo</sub> | cs.CV | 2026-04-06 | [pdf](https://arxiv.org/pdf/2604.04934v1) · [abs](https://arxiv.org/abs/2604.04934v1) |
+| 2 | **[Rethinking Model Efficiency: Multi-Agent Inference with Large Models](https://arxiv.org/pdf/2604.04929v1)**<br><sub>Sixun Dong, Juhua Hu, Steven Li, Wei Wen, Qi Qian</sub> | cs.CV | 2026-04-06 | [pdf](https://arxiv.org/pdf/2604.04929v1) · [abs](https://arxiv.org/abs/2604.04929v1) |
+| 3 | **[Your Pre-trained Diffusion Model Secretly Knows Restoration](https://arxiv.org/pdf/2604.04924v1)**<br><sub>Sudarshan Rajagopalan, Vishal M. Patel</sub> | cs.CV | 2026-04-06 | [pdf](https://arxiv.org/pdf/2604.04924v1) · [abs](https://arxiv.org/abs/2604.04924v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
