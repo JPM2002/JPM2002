@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-07 07:45 UTC_
+_Last updated: 2026-04-08 07:49 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://arxiv.org/pdf/2604.04934v1)**<br><sub>Hyunsoo Cha, Wonjung Woo, Byungjun Kim, Hanbyul Joo</sub> | cs.CV | 2026-04-06 | [pdf](https://arxiv.org/pdf/2604.04934v1) · [abs](https://arxiv.org/abs/2604.04934v1) |
-| 2 | **[Rethinking Model Efficiency: Multi-Agent Inference with Large Models](https://arxiv.org/pdf/2604.04929v1)**<br><sub>Sixun Dong, Juhua Hu, Steven Li, Wei Wen, Qi Qian</sub> | cs.CV | 2026-04-06 | [pdf](https://arxiv.org/pdf/2604.04929v1) · [abs](https://arxiv.org/abs/2604.04929v1) |
-| 3 | **[Your Pre-trained Diffusion Model Secretly Knows Restoration](https://arxiv.org/pdf/2604.04924v1)**<br><sub>Sudarshan Rajagopalan, Vishal M. Patel</sub> | cs.CV | 2026-04-06 | [pdf](https://arxiv.org/pdf/2604.04924v1) · [abs](https://arxiv.org/abs/2604.04924v1) |
+| 1 | **[Action Images: End-to-End Policy Learning via Multiview Video Generation](https://arxiv.org/pdf/2604.06168v1)**<br><sub>Haoyu Zhen, Zixian Gao, Qiao Sun, Yilin Zhao, Yuncong Yang, Yilun Du, Tsun-Hsuan Wang, Yi-Ling Qiao, Chuang Gan</sub> | cs.CV | 2026-04-07 | [pdf](https://arxiv.org/pdf/2604.06168v1) · [abs](https://arxiv.org/abs/2604.06168v1) |
+| 2 | **[HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](https://arxiv.org/pdf/2604.06165v1)**<br><sub>Reihaneh Zohrabi, Hosein Hasani, Akshita Gupta, Mahdieh Soleymani Baghshah, Anna Rohrbach, Marcus Rohrbach</sub> | cs.CV | 2026-04-07 | [pdf](https://arxiv.org/pdf/2604.06165v1) · [abs](https://arxiv.org/abs/2604.06165v1) |
+| 3 | **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/pdf/2604.06161v1)**<br><sub>Zhengming Yu, Li Ma, Mingming He, Leo Isikdogan, Yuancheng Xu, Dmitriy Smirnov, Pablo Salamanca, Dao Mi, Pablo Delgado, Ning Yu, Julien Philip, Xin Li, Wenping Wang, Paul Debevec</sub> | cs.CV | 2026-04-07 | [pdf](https://arxiv.org/pdf/2604.06161v1) · [abs](https://arxiv.org/abs/2604.06161v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
