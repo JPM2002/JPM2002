@@ -121,14 +121,10 @@ Python   4 mins                ████████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-08 07:49 UTC_
+_Last updated: 2026-04-09 07:52 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Action Images: End-to-End Policy Learning via Multiview Video Generation](https://arxiv.org/pdf/2604.06168v1)**<br><sub>Haoyu Zhen, Zixian Gao, Qiao Sun, Yilin Zhao, Yuncong Yang, Yilun Du, Tsun-Hsuan Wang, Yi-Ling Qiao, Chuang Gan</sub> | cs.CV | 2026-04-07 | [pdf](https://arxiv.org/pdf/2604.06168v1) · [abs](https://arxiv.org/abs/2604.06168v1) |
-| 2 | **[HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](https://arxiv.org/pdf/2604.06165v1)**<br><sub>Reihaneh Zohrabi, Hosein Hasani, Akshita Gupta, Mahdieh Soleymani Baghshah, Anna Rohrbach, Marcus Rohrbach</sub> | cs.CV | 2026-04-07 | [pdf](https://arxiv.org/pdf/2604.06165v1) · [abs](https://arxiv.org/abs/2604.06165v1) |
-| 3 | **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/pdf/2604.06161v1)**<br><sub>Zhengming Yu, Li Ma, Mingming He, Leo Isikdogan, Yuancheng Xu, Dmitriy Smirnov, Pablo Salamanca, Dao Mi, Pablo Delgado, Ning Yu, Julien Philip, Xin Li, Wenping Wang, Paul Debevec</sub> | cs.CV | 2026-04-07 | [pdf](https://arxiv.org/pdf/2604.06161v1) · [abs](https://arxiv.org/abs/2604.06161v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
