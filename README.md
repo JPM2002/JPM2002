@@ -121,14 +121,10 @@ Python   4 mins                ████████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-11 07:14 UTC_
+_Last updated: 2026-04-12 07:39 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics](https://arxiv.org/pdf/2604.08547v1)**<br><sub>Jiaxin Wang, Dongxin Lyu, Zeyu Cai, Zhiyang Dou, Cheng Lin, Anpei Chen, Yuliang Xiu</sub> | cs.CV | 2026-04-09 | [pdf](https://arxiv.org/pdf/2604.08547v1) · [abs](https://arxiv.org/abs/2604.08547v1) |
-| 2 | **[When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](https://arxiv.org/pdf/2604.08546v1)**<br><sub>Zhengyang Sun, Yu Chen, Xin Zhou, Xiaofan Li, Xiwu Chen, Dingkang Liang, Xiang Bai</sub> | cs.CV | 2026-04-09 | [pdf](https://arxiv.org/pdf/2604.08546v1) · [abs](https://arxiv.org/abs/2604.08546v1) |
-| 3 | **[Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models](https://arxiv.org/pdf/2604.08545v1)**<br><sub>Shilin Yan, Jintao Tong, Hongwei Xue, Xiaojun Tang, Yangyang Wang, Kunyu Shi, Guannan Zhang, Ruixuan Li, Yixiong Zou</sub> | cs.CV | 2026-04-09 | [pdf](https://arxiv.org/pdf/2604.08545v1) · [abs](https://arxiv.org/abs/2604.08545v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
