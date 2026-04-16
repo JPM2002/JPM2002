@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-15 08:01 UTC_
+_Last updated: 2026-04-16 08:00 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis](https://arxiv.org/pdf/2604.13035v1)**<br><sub>Kathakoli Sengupta, Kai Ao, Paola Cascante-Bonilla</sub> | cs.CV | 2026-04-14 | [pdf](https://arxiv.org/pdf/2604.13035v1) · [abs](https://arxiv.org/abs/2604.13035v1) |
-| 2 | **[Generative Refinement Networks for Visual Synthesis](https://arxiv.org/pdf/2604.13030v1)**<br><sub>Jian Han, Jinlai Liu, Jiahuan Wang, Bingyue Peng, Zehuan Yuan</sub> | cs.CV | 2026-04-14 | [pdf](https://arxiv.org/pdf/2604.13030v1) · [abs](https://arxiv.org/abs/2604.13030v1) |
-| 3 | **[Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns](https://arxiv.org/pdf/2604.13028v1)**<br><sub>Baris Sarper Tezcan, Hrishikesh Viswanath, Rubab Saher, Daniel Aliaga</sub> | cs.CV | 2026-04-14 | [pdf](https://arxiv.org/pdf/2604.13028v1) · [abs](https://arxiv.org/abs/2604.13028v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
