@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-21 08:06 UTC_
+_Last updated: 2026-04-22 08:02 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[ReCap: Lightweight Referential Grounding for Coherent Story Visualization](https://arxiv.org/pdf/2604.18575v1)**<br><sub>Aditya Arora, Akshita Gupta, Pau Rodriguez, Marcus Rohrbach</sub> | cs.CV | 2026-04-20 | [pdf](https://arxiv.org/pdf/2604.18575v1) · [abs](https://arxiv.org/abs/2604.18575v1) |
-| 2 | **[T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability](https://arxiv.org/pdf/2604.18573v1)**<br><sub>Savya Khosla, Sethuraman T, Aryan Chadha, Alex Schwing, Derek Hoiem</sub> | cs.CV | 2026-04-20 | [pdf](https://arxiv.org/pdf/2604.18573v1) · [abs](https://arxiv.org/abs/2604.18573v1) |
-| 3 | **[Back into Plato's Cave: Examining Cross-modal Representational Convergence at Scale](https://arxiv.org/pdf/2604.18572v1)**<br><sub>A. Sophia Koepke, Daniil Zverev, Shiry Ginosar, Alexei A. Efros</sub> | cs.CV | 2026-04-20 | [pdf](https://arxiv.org/pdf/2604.18572v1) · [abs](https://arxiv.org/abs/2604.18572v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
