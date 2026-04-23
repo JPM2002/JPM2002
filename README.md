@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-22 08:02 UTC_
+_Last updated: 2026-04-23 08:07 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels](https://arxiv.org/pdf/2604.20825v1)**<br><sub>Sina Gholami, Abdulmoneam Ali, Tania Haghighi, Ahmed Arafa, Minhaj Nur Alam</sub> | cs.LG | 2026-04-22 | [pdf](https://arxiv.org/pdf/2604.20825v1) · [abs](https://arxiv.org/abs/2604.20825v1) |
+| 2 | **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/pdf/2604.20822v1)**<br><sub>Thorsten Hoeser, Felix Bachofer, Claudia Kuenzer</sub> | cs.CV | 2026-04-22 | [pdf](https://arxiv.org/pdf/2604.20822v1) · [abs](https://arxiv.org/abs/2604.20822v1) |
+| 3 | **[ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control](https://arxiv.org/pdf/2604.20816v1)**<br><sub>Shelly Golan, Michael Finkelson, Ariel Bereslavsky, Yotam Nitzan, Or Patashnik</sub> | cs.LG | 2026-04-22 | [pdf](https://arxiv.org/pdf/2604.20816v1) · [abs](https://arxiv.org/abs/2604.20816v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
