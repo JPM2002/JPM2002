@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-23 08:07 UTC_
+_Last updated: 2026-04-24 08:18 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels](https://arxiv.org/pdf/2604.20825v1)**<br><sub>Sina Gholami, Abdulmoneam Ali, Tania Haghighi, Ahmed Arafa, Minhaj Nur Alam</sub> | cs.LG | 2026-04-22 | [pdf](https://arxiv.org/pdf/2604.20825v1) · [abs](https://arxiv.org/abs/2604.20825v1) |
-| 2 | **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/pdf/2604.20822v1)**<br><sub>Thorsten Hoeser, Felix Bachofer, Claudia Kuenzer</sub> | cs.CV | 2026-04-22 | [pdf](https://arxiv.org/pdf/2604.20822v1) · [abs](https://arxiv.org/abs/2604.20822v1) |
-| 3 | **[ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control](https://arxiv.org/pdf/2604.20816v1)**<br><sub>Shelly Golan, Michael Finkelson, Ariel Bereslavsky, Yotam Nitzan, Or Patashnik</sub> | cs.LG | 2026-04-22 | [pdf](https://arxiv.org/pdf/2604.20816v1) · [abs](https://arxiv.org/abs/2604.20816v1) |
+| 1 | **[Seeing Fast and Slow: Learning the Flow of Time in Videos](https://arxiv.org/pdf/2604.21931v1)**<br><sub>Yen-Siang Wu, Rundong Luo, Jingsen Zhu, Tao Tu, Ali Farhadi, Matthew Wallingford, Yu-Chiang Frank Wang, Steve Marschner, Wei-Chiu Ma</sub> | cs.CV | 2026-04-23 | [pdf](https://arxiv.org/pdf/2604.21931v1) · [abs](https://arxiv.org/abs/2604.21931v1) |
+| 2 | **[Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/pdf/2604.21926v1)**<br><sub>Hao-Yu Hsu, Tianhang Cheng, Jing Wen, Alexander G. Schwing, Shenlong Wang</sub> | cs.CV | 2026-04-23 | [pdf](https://arxiv.org/pdf/2604.21926v1) · [abs](https://arxiv.org/abs/2604.21926v1) |
+| 3 | **[When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](https://arxiv.org/pdf/2604.21911v1)**<br><sub>Pegah Khayatan, Jayneel Parekh, Arnaud Dapogny, Mustafa Shukor, Alasdair Newson, Matthieu Cord</sub> | cs.CV | 2026-04-23 | [pdf](https://arxiv.org/pdf/2604.21911v1) · [abs](https://arxiv.org/abs/2604.21911v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
