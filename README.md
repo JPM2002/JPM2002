@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-25 07:41 UTC_
+_Last updated: 2026-04-26 07:50 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Seeing Fast and Slow: Learning the Flow of Time in Videos](https://arxiv.org/pdf/2604.21931v1)**<br><sub>Yen-Siang Wu, Rundong Luo, Jingsen Zhu, Tao Tu, Ali Farhadi, Matthew Wallingford, Yu-Chiang Frank Wang, Steve Marschner, Wei-Chiu Ma</sub> | cs.CV | 2026-04-23 | [pdf](https://arxiv.org/pdf/2604.21931v1) · [abs](https://arxiv.org/abs/2604.21931v1) |
-| 2 | **[Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/pdf/2604.21926v1)**<br><sub>Hao-Yu Hsu, Tianhang Cheng, Jing Wen, Alexander G. Schwing, Shenlong Wang</sub> | cs.CV | 2026-04-23 | [pdf](https://arxiv.org/pdf/2604.21926v1) · [abs](https://arxiv.org/abs/2604.21926v1) |
-| 3 | **[When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](https://arxiv.org/pdf/2604.21911v1)**<br><sub>Pegah Khayatan, Jayneel Parekh, Arnaud Dapogny, Mustafa Shukor, Alasdair Newson, Matthieu Cord</sub> | cs.CV | 2026-04-23 | [pdf](https://arxiv.org/pdf/2604.21911v1) · [abs](https://arxiv.org/abs/2604.21911v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
