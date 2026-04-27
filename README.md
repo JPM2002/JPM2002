@@ -108,11 +108,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2026 - To: 25 April 2026
+From: 19 April 2026 - To: 26 April 2026
 
-Total Time: 0 secs
+Total Time: 5 hrs 46 mins
 
-No activity tracked
+Bash         2 hrs 23 mins         █████████▓░░░░░░░░░░░░░░░   38.21 %
+Markdown     1 hr 4 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+Python       1 hr                  ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+TypeScript   59 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+Other        30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
 ```
 
 <!--END_SECTION:waka-->
