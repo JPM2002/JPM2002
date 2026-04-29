@@ -125,14 +125,10 @@ Other        30 mins               █▒░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-28 08:37 UTC_
+_Last updated: 2026-04-29 08:30 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://arxiv.org/pdf/2604.24764v1)**<br><sub>Weijie Wang, Xiaoxuan He, Youping Gu, Yifan Yang, Zeyu Zhang, Yefei He, Yanbo Ding, Xirui Hu, Donny Y. Chen, Zhiyuan He, Yuqing Yang, Bohan Zhuang</sub> | cs.CV | 2026-04-27 | [pdf](https://arxiv.org/pdf/2604.24764v1) · [abs](https://arxiv.org/abs/2604.24764v1) |
-| 2 | **[Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](https://arxiv.org/pdf/2604.24763v1)**<br><sub>Zhiheng Liu, Weiming Ren, Xiaoke Huang, Shoufa Chen, Tianhong Li, Mengzhao Chen, Yatai Ji, Sen He, Jonas Schult, Belinda Zeng, Tao Xiang, Wenhu Chen, Ping Luo, Luke Zettlemoyer, Yuren Cong</sub> | cs.CV | 2026-04-27 | [pdf](https://arxiv.org/pdf/2604.24763v1) · [abs](https://arxiv.org/abs/2604.24763v1) |
-| 3 | **[DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation](https://arxiv.org/pdf/2604.24719v1)**<br><sub>Tal Grossman, Noa Cahan, Lev Ayzenberg, Hayit Greenspan</sub> | cs.CV | 2026-04-27 | [pdf](https://arxiv.org/pdf/2604.24719v1) · [abs](https://arxiv.org/abs/2604.24719v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
