@@ -125,10 +125,14 @@ Other        30 mins               █▒░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-29 08:30 UTC_
+_Last updated: 2026-04-30 08:33 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/pdf/2604.26946v1)**<br><sub>Wanrong Zheng, Yunhao Ge, Laurent Itti</sub> | cs.CV | 2026-04-29 | [pdf](https://arxiv.org/pdf/2604.26946v1) · [abs](https://arxiv.org/abs/2604.26946v1) |
+| 2 | **[World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning](https://arxiv.org/pdf/2604.26934v1)**<br><sub>Wanyue Zhang, Wenxiang Wu, Wang Xu, Jiaxin Luo, Helu Zhi, Yibin Huang, Shuo Ren, Zitao Liu, Jiajun Zhang</sub> | cs.CV | 2026-04-29 | [pdf](https://arxiv.org/pdf/2604.26934v1) · [abs](https://arxiv.org/abs/2604.26934v1) |
+| 3 | **[SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset](https://arxiv.org/pdf/2604.26883v1)**<br><sub>Changhyun Roh, Yonghyun Jeong, Jonghyun Lee, Chanho Eom, Jihyong Oh</sub> | cs.CV | 2026-04-29 | [pdf](https://arxiv.org/pdf/2604.26883v1) · [abs](https://arxiv.org/abs/2604.26883v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
