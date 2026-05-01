@@ -125,14 +125,14 @@ Other        40 mins               █▒░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-04-30 08:33 UTC_
+_Last updated: 2026-05-01 08:23 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/pdf/2604.26946v1)**<br><sub>Wanrong Zheng, Yunhao Ge, Laurent Itti</sub> | cs.CV | 2026-04-29 | [pdf](https://arxiv.org/pdf/2604.26946v1) · [abs](https://arxiv.org/abs/2604.26946v1) |
-| 2 | **[World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning](https://arxiv.org/pdf/2604.26934v1)**<br><sub>Wanyue Zhang, Wenxiang Wu, Wang Xu, Jiaxin Luo, Helu Zhi, Yibin Huang, Shuo Ren, Zitao Liu, Jiajun Zhang</sub> | cs.CV | 2026-04-29 | [pdf](https://arxiv.org/pdf/2604.26934v1) · [abs](https://arxiv.org/abs/2604.26934v1) |
-| 3 | **[SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset](https://arxiv.org/pdf/2604.26883v1)**<br><sub>Changhyun Roh, Yonghyun Jeong, Jonghyun Lee, Chanho Eom, Jihyong Oh</sub> | cs.CV | 2026-04-29 | [pdf](https://arxiv.org/pdf/2604.26883v1) · [abs](https://arxiv.org/abs/2604.26883v1) |
+| 1 | **[HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation](https://arxiv.org/pdf/2604.28196v1)**<br><sub>Xin Zhou, Dingkang Liang, Xiwu Chen, Feiyang Tan, Dingyuan Zhang, Hengshuang Zhao, Xiang Bai</sub> | cs.CV | 2026-04-30 | [pdf](https://arxiv.org/pdf/2604.28196v1) · [abs](https://arxiv.org/abs/2604.28196v1) |
+| 2 | **[Generalizable Sparse-View 3D Reconstruction from Unconstrained Images](https://arxiv.org/pdf/2604.28193v1)**<br><sub>Vinayak Gupta, Chih-Hao Lin, Shenlong Wang, Anand Bhattad, Jia-Bin Huang</sub> | cs.CV | 2026-04-30 | [pdf](https://arxiv.org/pdf/2604.28193v1) · [abs](https://arxiv.org/abs/2604.28193v1) |
+| 3 | **[LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models](https://arxiv.org/pdf/2604.28192v1)**<br><sub>Hao Chen, Jiaming Liu, Zhonghao Yan, Nuowei Han, Renrui Zhang, Chenyang Gu, Jialin Gao, Ziyu Guo, Siyuan Qian, Yinxi Wang, Peng Jia, Chi-Wing Fu, Shanghang Zhang, Pheng-Ann Heng</sub> | cs.RO | 2026-04-30 | [pdf](https://arxiv.org/pdf/2604.28192v1) · [abs](https://arxiv.org/abs/2604.28192v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
