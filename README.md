@@ -125,14 +125,10 @@ Markdown     3 hrs 11 mins         ███░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-02 07:56 UTC_
+_Last updated: 2026-05-03 08:10 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation](https://arxiv.org/pdf/2604.28196v1)**<br><sub>Xin Zhou, Dingkang Liang, Xiwu Chen, Feiyang Tan, Dingyuan Zhang, Hengshuang Zhao, Xiang Bai</sub> | cs.CV | 2026-04-30 | [pdf](https://arxiv.org/pdf/2604.28196v1) · [abs](https://arxiv.org/abs/2604.28196v1) |
-| 2 | **[Generalizable Sparse-View 3D Reconstruction from Unconstrained Images](https://arxiv.org/pdf/2604.28193v1)**<br><sub>Vinayak Gupta, Chih-Hao Lin, Shenlong Wang, Anand Bhattad, Jia-Bin Huang</sub> | cs.CV | 2026-04-30 | [pdf](https://arxiv.org/pdf/2604.28193v1) · [abs](https://arxiv.org/abs/2604.28193v1) |
-| 3 | **[LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models](https://arxiv.org/pdf/2604.28192v1)**<br><sub>Hao Chen, Jiaming Liu, Zhonghao Yan, Nuowei Han, Renrui Zhang, Chenyang Gu, Jialin Gao, Ziyu Guo, Siyuan Qian, Yinxi Wang, Peng Jia, Chi-Wing Fu, Shanghang Zhang, Pheng-Ann Heng</sub> | cs.RO | 2026-04-30 | [pdf](https://arxiv.org/pdf/2604.28192v1) · [abs](https://arxiv.org/abs/2604.28192v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
