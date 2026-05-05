@@ -125,10 +125,14 @@ Markdown     1 hr 32 mins          ██░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-04 08:40 UTC_
+_Last updated: 2026-05-05 08:23 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion](https://arxiv.org/pdf/2605.02892v1)**<br><sub>Yu-Ju Tsai, Brian Price, Qing Liu, Luis Figueroa, Daniil Pakhomov, Zhihong Ding, Scott Cohen, Ming-Hsuan Yang</sub> | cs.CV | 2026-05-04 | [pdf](https://arxiv.org/pdf/2605.02892v1) · [abs](https://arxiv.org/abs/2605.02892v1) |
+| 2 | **[Pixel Perfect: Relational Image Quality Assessment with Spatially-Aware Distortions](https://arxiv.org/pdf/2605.02863v1)**<br><sub>Fadeel Sher Khan, Long N. Le, Abhinau K. Venkataramanan, Seok-Jun Lee, Hamid R. Sheikh</sub> | cs.CV | 2026-05-04 | [pdf](https://arxiv.org/pdf/2605.02863v1) · [abs](https://arxiv.org/abs/2605.02863v1) |
+| 3 | **[Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion](https://arxiv.org/pdf/2605.02849v1)**<br><sub>Amirhosein Javadi, Shirin Saeedi Bidokhti, Tara Javidi</sub> | cs.CV | 2026-05-04 | [pdf](https://arxiv.org/pdf/2605.02849v1) · [abs](https://arxiv.org/abs/2605.02849v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
