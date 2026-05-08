@@ -125,14 +125,14 @@ TypeScript   1 hr 56 mins          ██▓░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-07 08:45 UTC_
+_Last updated: 2026-05-08 07:53 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Taming Outlier Tokens in Diffusion Transformers](https://arxiv.org/pdf/2605.05206v1)**<br><sub>Xiaoyu Wu, Yifei Wang, Tsu-Jui Fu, Liang-Chieh Chen, Zhe Gan, Chen Wei</sub> | cs.CV | 2026-05-06 | [pdf](https://arxiv.org/pdf/2605.05206v1) · [abs](https://arxiv.org/abs/2605.05206v1) |
-| 2 | **[D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models](https://arxiv.org/pdf/2605.05204v1)**<br><sub>Dengyang Jiang, Xin Jin, Dongyang Liu, Zanyi Wang, Mingzhe Zheng, Ruoyi Du, Xiangpeng Yang, Qilong Wu, Zhen Li, Peng Gao, Harry Yang, Steven Hoi</sub> | cs.CV | 2026-05-06 | [pdf](https://arxiv.org/pdf/2605.05204v1) · [abs](https://arxiv.org/abs/2605.05204v1) |
-| 3 | **[OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://arxiv.org/pdf/2605.05185v1)**<br><sub>Shuang Chen, Kaituo Feng, Hangting Chen, Wenxuan Huang, Dasen Dai, Quanxin Shou, Yunlong Lin, Xiangyu Yue, Shenghua Gao, Tianyu Pang</sub> | cs.CV | 2026-05-06 | [pdf](https://arxiv.org/pdf/2605.05185v1) · [abs](https://arxiv.org/abs/2605.05185v1) |
+| 1 | **[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](https://arxiv.org/pdf/2605.06667v1)**<br><sub>Omar El Khalifi, Thomas Rossi, Oscar Fossey, Thibault Fouque, Ulysse Mizrahi, Philip Torr, Ivan Laptev, Fabio Pizzati, Baptiste Bellot-Gurlet</sub> | cs.CV | 2026-05-07 | [pdf](https://arxiv.org/pdf/2605.06667v1) · [abs](https://arxiv.org/abs/2605.06667v1) |
+| 2 | **[Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://arxiv.org/pdf/2605.06658v1)**<br><sub>Weiqing Xiao, Hong Li, Xiuyu Yang, Houyuan Chen, Wenyi Li, Tianqi Liu, Shaocong Xu, Chongjie Ye, Hao Zhao, Beibei Wang</sub> | cs.CV | 2026-05-07 | [pdf](https://arxiv.org/pdf/2605.06658v1) · [abs](https://arxiv.org/abs/2605.06658v1) |
+| 3 | **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/pdf/2605.06643v1)**<br><sub>Hao Dong, Hongzhao Li, Shupan Li, Muhammad Haris Khan, Eleni Chatzi, Olga Fink</sub> | cs.CV | 2026-05-07 | [pdf](https://arxiv.org/pdf/2605.06643v1) · [abs](https://arxiv.org/abs/2605.06643v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
