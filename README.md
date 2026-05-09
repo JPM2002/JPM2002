@@ -125,14 +125,10 @@ Python       48 mins               █▓░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-08 07:53 UTC_
+_Last updated: 2026-05-09 08:06 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](https://arxiv.org/pdf/2605.06667v1)**<br><sub>Omar El Khalifi, Thomas Rossi, Oscar Fossey, Thibault Fouque, Ulysse Mizrahi, Philip Torr, Ivan Laptev, Fabio Pizzati, Baptiste Bellot-Gurlet</sub> | cs.CV | 2026-05-07 | [pdf](https://arxiv.org/pdf/2605.06667v1) · [abs](https://arxiv.org/abs/2605.06667v1) |
-| 2 | **[Relit-LiVE: Relight Video by Jointly Learning Environment Video](https://arxiv.org/pdf/2605.06658v1)**<br><sub>Weiqing Xiao, Hong Li, Xiuyu Yang, Houyuan Chen, Wenyi Li, Tianqi Liu, Shaocong Xu, Chongjie Ye, Hao Zhao, Beibei Wang</sub> | cs.CV | 2026-05-07 | [pdf](https://arxiv.org/pdf/2605.06658v1) · [abs](https://arxiv.org/abs/2605.06658v1) |
-| 3 | **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/pdf/2605.06643v1)**<br><sub>Hao Dong, Hongzhao Li, Shupan Li, Muhammad Haris Khan, Eleni Chatzi, Olga Fink</sub> | cs.CV | 2026-05-07 | [pdf](https://arxiv.org/pdf/2605.06643v1) · [abs](https://arxiv.org/abs/2605.06643v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
