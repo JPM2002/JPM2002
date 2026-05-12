@@ -125,10 +125,14 @@ JSON         1 min                 ▒░░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-11 09:57 UTC_
+_Last updated: 2026-05-12 08:51 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Power Reinforcement Post-Training of Text-to-Image Models with Super-Linear Advantage Shaping](https://arxiv.org/pdf/2605.10937v1)**<br><sub>Haoyuan Sun, Jing Wang, Yuxin Song, Yu Lu, Bo Fang, Yifu Luo, Jun Yin, Pengyu Zeng, Miao Zhang, Tiantian Zhang, Xueqian Wang, Shijian Lu</sub> | cs.CV | 2026-05-11 | [pdf](https://arxiv.org/pdf/2605.10937v1) · [abs](https://arxiv.org/abs/2605.10937v1) |
+| 2 | **[Personal Visual Context Learning in Large Multimodal Models](https://arxiv.org/pdf/2605.10936v1)**<br><sub>Zihui Xue, Ami Baid, Sangho Kim, Mi Luo, Kristen Grauman</sub> | cs.CV | 2026-05-11 | [pdf](https://arxiv.org/pdf/2605.10936v1) · [abs](https://arxiv.org/abs/2605.10936v1) |
+| 3 | **[Variational Inference for Lévy Process-Driven SDEs via Neural Tilting](https://arxiv.org/pdf/2605.10934v1)**<br><sub>Yaman Kindap, Manfred Opper, Benjamin Dupuis, Umut Simsekli, Tolga Birdal</sub> | cs.LG | 2026-05-11 | [pdf](https://arxiv.org/pdf/2605.10934v1) · [abs](https://arxiv.org/abs/2605.10934v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
