@@ -125,10 +125,14 @@ HTML         1 hr 52 mins          ██▓░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-14 08:48 UTC_
+_Last updated: 2026-05-15 09:21 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[RefDecoder: Enhancing Visual Generation with Conditional Video Decoding](https://arxiv.org/pdf/2605.15196v1)**<br><sub>Xiang Fan, Yuheng Wang, Bohan Fang, Zhongzheng Ren, Ranjay Krishna</sub> | cs.CV | 2026-05-14 | [pdf](https://arxiv.org/pdf/2605.15196v1) · [abs](https://arxiv.org/abs/2605.15196v1) |
+| 2 | **[VGGT-$Ω$](https://arxiv.org/pdf/2605.15195v1)**<br><sub>Jianyuan Wang, Minghao Chen, Shangzhan Zhang, Nikita Karaev, Johannes Schönberger, Patrick Labatut, Piotr Bojanowski, David Novotny, Andrea Vedaldi, Christian Rupprecht</sub> | cs.CV | 2026-05-14 | [pdf](https://arxiv.org/pdf/2605.15195v1) · [abs](https://arxiv.org/abs/2605.15195v1) |
+| 3 | **[Aligning Latent Geometry for Spherical Flow Matching in Image Generation](https://arxiv.org/pdf/2605.15193v1)**<br><sub>Tuna Han Salih Meral, Kaan Oktay, Hidir Yesiltepe, Adil Kaan Akan, Pinar Yanardag</sub> | cs.CV | 2026-05-14 | [pdf](https://arxiv.org/pdf/2605.15193v1) · [abs](https://arxiv.org/abs/2605.15193v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
