@@ -125,14 +125,10 @@ HTML         2 hrs 58 mins         ██░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-19 10:01 UTC_
+_Last updated: 2026-05-20 09:50 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Can These Views Be One Scene? Evaluating Multiview 3D Consistency when 3D Foundation Models Hallucinate](https://arxiv.org/pdf/2605.18754v1)**<br><sub>Soumava Paul, Prakhar Kaushik, Alan Yuille</sub> | cs.CV | 2026-05-18 | [pdf](https://arxiv.org/pdf/2605.18754v1) · [abs](https://arxiv.org/abs/2605.18754v1) |
-| 2 | **[WavFlow: Audio Generation in Waveform Space](https://arxiv.org/pdf/2605.18749v1)**<br><sub>Feiyan Zhou, Luyuan Wang, Shoufa Chen, Zhe Wang, Zhiheng Liu, Yuren Cong, Xiaohui Zhang, Fanny Yang, Belinda Zeng</sub> | cs.SD | 2026-05-18 | [pdf](https://arxiv.org/pdf/2605.18749v1) · [abs](https://arxiv.org/abs/2605.18749v1) |
-| 3 | **[Aurora: Unified Video Editing with a Tool-Using Agent](https://arxiv.org/pdf/2605.18748v1)**<br><sub>Yongsheng Yu, Ziyun Zeng, Zhiyuan Xiao, Zhenghong Zhou, Hang Hua, Wei Xiong, Jiebo Luo</sub> | cs.CV | 2026-05-18 | [pdf](https://arxiv.org/pdf/2605.18748v1) · [abs](https://arxiv.org/abs/2605.18748v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
