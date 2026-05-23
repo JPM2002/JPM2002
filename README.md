@@ -125,10 +125,14 @@ Markdown     3 hrs 39 mins         ███▒░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-22 09:45 UTC_
+_Last updated: 2026-05-23 08:29 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs](https://arxiv.org/pdf/2605.22823v1)**<br><sub>Jongseo Lee, Hyuntak Lee, Sunghun Kim, Sooa Kim, Jihoon Chung, Jinwoo Choi</sub> | cs.CV | 2026-05-21 | [pdf](https://arxiv.org/pdf/2605.22823v1) · [abs](https://arxiv.org/abs/2605.22823v1) |
+| 2 | **[MotiMotion: Motion-Controlled Video Generation with Visual Reasoning](https://arxiv.org/pdf/2605.22818v1)**<br><sub>Lee Hsin-Ying, Hanwen Jiang, Yiqun Mei, Jing Shi, Ming-Hsuan Yang, Zhixin Shu</sub> | cs.CV | 2026-05-21 | [pdf](https://arxiv.org/pdf/2605.22818v1) · [abs](https://arxiv.org/abs/2605.22818v1) |
+| 3 | **[AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/pdf/2605.22816v1)**<br><sub>Wenxuan Guo, Xiuwei Xu, Yichen Liu, Xiangyu Li, Hang Yin, Huangxing Chen, Wenzhao Zheng, Jianjiang Feng, Jie Zhou, Jiwen Lu</sub> | cs.RO | 2026-05-21 | [pdf](https://arxiv.org/pdf/2605.22816v1) · [abs](https://arxiv.org/abs/2605.22816v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
