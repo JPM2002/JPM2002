@@ -125,10 +125,14 @@ TypeScript   45 mins               █▓░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-26 10:14 UTC_
+_Last updated: 2026-05-27 10:14 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://arxiv.org/pdf/2605.27367v1)**<br><sub>Haosong Peng, Hao Li, Jiaqi Chen, Yuhao Pan, Runmao Yao, Yalun Dai, Fushuo Huo, Fangzhou Hong, Zhaoxi Chen, Haozhao Wang, Dingwen Zhang, Ziwei Liu, Wenchao Xu</sub> | cs.CV | 2026-05-26 | [pdf](https://arxiv.org/pdf/2605.27367v1) · [abs](https://arxiv.org/abs/2605.27367v1) |
+| 2 | **[LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://arxiv.org/pdf/2605.27365v1)**<br><sub>Shihao Wang, Shilong Liu, Yuanguo Kuang, Xinyu Wei, Yangzhou Liu, Zhiqi Li, Yunze Man, Guo Chen, Andrew Tao, Guilin Liu, Jan Kautz, Lei Zhang, Zhiding Yu</sub> | cs.CV | 2026-05-26 | [pdf](https://arxiv.org/pdf/2605.27365v1) · [abs](https://arxiv.org/abs/2605.27365v1) |
+| 3 | **[Feedforward 3D Editing Learns from Semantic-Part Transformation](https://arxiv.org/pdf/2605.27351v1)**<br><sub>Jiawei Weng, Saining Zhang, Zhenxin Diao, Peishuo Li, Henghaofan Zhang, Junhao Chen, Hao Zhao</sub> | cs.CV | 2026-05-26 | [pdf](https://arxiv.org/pdf/2605.27351v1) · [abs](https://arxiv.org/abs/2605.27351v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
