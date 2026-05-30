@@ -125,10 +125,14 @@ JavaScript   35 mins               █▓░░░░░░░░░░░░░
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-05-29 10:11 UTC_
+_Last updated: 2026-05-30 08:38 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](https://arxiv.org/pdf/2605.30351v1)**<br><sub>Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral, Adil Kaan Akan, Kaan Oktay, Hoda Eldardiry, Pinar Yanardag</sub> | cs.CV | 2026-05-28 | [pdf](https://arxiv.org/pdf/2605.30351v1) · [abs](https://arxiv.org/abs/2605.30351v1) |
+| 2 | **[AdaState: Self-Evolving Anchors for Streaming Video Generation](https://arxiv.org/pdf/2605.30349v1)**<br><sub>Yusuf Dalva, Pinar Yanardag</sub> | cs.CV | 2026-05-28 | [pdf](https://arxiv.org/pdf/2605.30349v1) · [abs](https://arxiv.org/abs/2605.30349v1) |
+| 3 | **[NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/pdf/2605.30347v1)**<br><sub>Chen Geng, Guangzhao He, Yue Gao, Yunzhi Zhang, Shangzhe Wu, Jiajun Wu</sub> | cs.CV | 2026-05-28 | [pdf](https://arxiv.org/pdf/2605.30347v1) · [abs](https://arxiv.org/abs/2605.30347v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
