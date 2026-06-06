@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-05 10:08 UTC_
+_Last updated: 2026-06-06 08:44 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding](https://arxiv.org/pdf/2606.06485v1)**<br><sub>Shaohui Dai, Yansong Qu, You Shen, Shengchuan Zhang, Liujuan Cao</sub> | cs.CV | 2026-06-04 | [pdf](https://arxiv.org/pdf/2606.06485v1) · [abs](https://arxiv.org/abs/2606.06485v1) |
+| 2 | **[Complexity-Balanced Diffusion Splitting](https://arxiv.org/pdf/2606.06477v1)**<br><sub>Noam Issachar, Dani Lischinski, Raanan Fattal</sub> | cs.CV | 2026-06-04 | [pdf](https://arxiv.org/pdf/2606.06477v1) · [abs](https://arxiv.org/abs/2606.06477v1) |
+| 3 | **[Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](https://arxiv.org/pdf/2606.06476v1)**<br><sub>Chenming Zhu, Jingli Lin, Yilin Long, Peizhou Cao, Tai Wang, Jiangmiao Pang, Xihui Liu</sub> | cs.CV | 2026-06-04 | [pdf](https://arxiv.org/pdf/2606.06476v1) · [abs](https://arxiv.org/abs/2606.06476v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
