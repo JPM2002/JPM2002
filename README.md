@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-08 11:16 UTC_
+_Last updated: 2026-06-09 09:59 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Latent Spatial Memory for Video World Models](https://arxiv.org/pdf/2606.09828v1)**<br><sub>Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang</sub> | cs.CV | 2026-06-08 | [pdf](https://arxiv.org/pdf/2606.09828v1) · [abs](https://arxiv.org/abs/2606.09828v1) |
+| 2 | **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/pdf/2606.09827v1)**<br><sub>Hao Shi, Weiye Li, Bin Xie, Yulin Wang, Renping Zhou, Tiancai Wang, Xiangyu Zhang, Ping Luo, Gao Huang</sub> | cs.RO | 2026-06-08 | [pdf](https://arxiv.org/pdf/2606.09827v1) · [abs](https://arxiv.org/abs/2606.09827v1) |
+| 3 | **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/pdf/2606.09826v1)**<br><sub>Mingxian Lin, Shengju Qian, Yuqi Liu, Yi-Hua Huang, Yiyu Wang, Wei Huang, Yitang Li, Fan Zhang, Zeyu Hu, Lingting Zhu, Xin Wang, Xiaojuan Qi</sub> | cs.CV | 2026-06-08 | [pdf](https://arxiv.org/pdf/2606.09826v1) · [abs](https://arxiv.org/abs/2606.09826v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
