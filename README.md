@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-09 09:59 UTC_
+_Last updated: 2026-06-10 10:18 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Latent Spatial Memory for Video World Models](https://arxiv.org/pdf/2606.09828v1)**<br><sub>Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang</sub> | cs.CV | 2026-06-08 | [pdf](https://arxiv.org/pdf/2606.09828v1) · [abs](https://arxiv.org/abs/2606.09828v1) |
-| 2 | **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/pdf/2606.09827v1)**<br><sub>Hao Shi, Weiye Li, Bin Xie, Yulin Wang, Renping Zhou, Tiancai Wang, Xiangyu Zhang, Ping Luo, Gao Huang</sub> | cs.RO | 2026-06-08 | [pdf](https://arxiv.org/pdf/2606.09827v1) · [abs](https://arxiv.org/abs/2606.09827v1) |
-| 3 | **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/pdf/2606.09826v1)**<br><sub>Mingxian Lin, Shengju Qian, Yuqi Liu, Yi-Hua Huang, Yiyu Wang, Wei Huang, Yitang Li, Fan Zhang, Zeyu Hu, Lingting Zhu, Xin Wang, Xiaojuan Qi</sub> | cs.CV | 2026-06-08 | [pdf](https://arxiv.org/pdf/2606.09826v1) · [abs](https://arxiv.org/abs/2606.09826v1) |
+| 1 | **[ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations](https://arxiv.org/pdf/2606.11188v1)**<br><sub>Junke Wang, Xiao Wang, Jiacheng Pan, Xuefeng Hu, Feng Li, Jingxiang Sun, Chaorui Deng, Zilong Chen, Yunpeng Chen, Kaibin Tian, Matthew Gwilliam, Hao Chen, Danhui Guan, Kun Xu, Weilin Huang, Zuxuan Wu, Haoqi Fan, Yu-Gang Jiang, Zhenheng Yang</sub> | cs.CV | 2026-06-09 | [pdf](https://arxiv.org/pdf/2606.11188v1) · [abs](https://arxiv.org/abs/2606.11188v1) |
+| 2 | **[Next Forcing: Causal World Modeling with Multi-Chunk Prediction](https://arxiv.org/pdf/2606.11187v1)**<br><sub>Gangwei Xu, Qihang Zhang, Jiaming Zhou, Xing Zhu, Yujun Shen, Xin Yang, Yinghao Xu</sub> | cs.CV | 2026-06-09 | [pdf](https://arxiv.org/pdf/2606.11187v1) · [abs](https://arxiv.org/abs/2606.11187v1) |
+| 3 | **[AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference](https://arxiv.org/pdf/2606.11186v1)**<br><sub>Hangfeng Liang, Yutao Hu, Yanhan Hu, Xiaohan Wu, Wenqi Shao, Ying Fu</sub> | cs.CV | 2026-06-09 | [pdf](https://arxiv.org/pdf/2606.11186v1) · [abs](https://arxiv.org/abs/2606.11186v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
