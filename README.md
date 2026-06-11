@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-10 10:18 UTC_
+_Last updated: 2026-06-11 10:54 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations](https://arxiv.org/pdf/2606.11188v1)**<br><sub>Junke Wang, Xiao Wang, Jiacheng Pan, Xuefeng Hu, Feng Li, Jingxiang Sun, Chaorui Deng, Zilong Chen, Yunpeng Chen, Kaibin Tian, Matthew Gwilliam, Hao Chen, Danhui Guan, Kun Xu, Weilin Huang, Zuxuan Wu, Haoqi Fan, Yu-Gang Jiang, Zhenheng Yang</sub> | cs.CV | 2026-06-09 | [pdf](https://arxiv.org/pdf/2606.11188v1) · [abs](https://arxiv.org/abs/2606.11188v1) |
-| 2 | **[Next Forcing: Causal World Modeling with Multi-Chunk Prediction](https://arxiv.org/pdf/2606.11187v1)**<br><sub>Gangwei Xu, Qihang Zhang, Jiaming Zhou, Xing Zhu, Yujun Shen, Xin Yang, Yinghao Xu</sub> | cs.CV | 2026-06-09 | [pdf](https://arxiv.org/pdf/2606.11187v1) · [abs](https://arxiv.org/abs/2606.11187v1) |
-| 3 | **[AnyMod-LLVE: Low-Light Video Enhancement with Modality-Agnostic Inference](https://arxiv.org/pdf/2606.11186v1)**<br><sub>Hangfeng Liang, Yutao Hu, Yanhan Hu, Xiaohan Wu, Wenqi Shao, Ying Fu</sub> | cs.CV | 2026-06-09 | [pdf](https://arxiv.org/pdf/2606.11186v1) · [abs](https://arxiv.org/abs/2606.11186v1) |
+| 1 | **[Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](https://arxiv.org/pdf/2606.12412v1)**<br><sub>Cheng-Yu Yang, Shao-Yuan Lo, Yu-Lun Liu</sub> | cs.CV | 2026-06-10 | [pdf](https://arxiv.org/pdf/2606.12412v1) · [abs](https://arxiv.org/abs/2606.12412v1) |
+| 2 | **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/pdf/2606.12407v1)**<br><sub>Kian R. Weihrauch, Thomas A. Buckley, William Lotter, Arjun K. Manrai</sub> | cs.CV | 2026-06-10 | [pdf](https://arxiv.org/pdf/2606.12407v1) · [abs](https://arxiv.org/abs/2606.12407v1) |
+| 3 | **[DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](https://arxiv.org/pdf/2606.12402v1)**<br><sub>Jadelynn Dao, Milan Ganai, Yasmina Abukhadra, Ajay Sridhar, Mozhgan Nasr Azadani, Katie Luo, Clark Barrett, Jiajun Wu, Chelsea Finn, Marco Pavone</sub> | cs.RO | 2026-06-10 | [pdf](https://arxiv.org/pdf/2606.12402v1) · [abs](https://arxiv.org/abs/2606.12402v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
