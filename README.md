@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-11 10:54 UTC_
+_Last updated: 2026-06-12 10:37 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](https://arxiv.org/pdf/2606.12412v1)**<br><sub>Cheng-Yu Yang, Shao-Yuan Lo, Yu-Lun Liu</sub> | cs.CV | 2026-06-10 | [pdf](https://arxiv.org/pdf/2606.12412v1) · [abs](https://arxiv.org/abs/2606.12412v1) |
-| 2 | **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/pdf/2606.12407v1)**<br><sub>Kian R. Weihrauch, Thomas A. Buckley, William Lotter, Arjun K. Manrai</sub> | cs.CV | 2026-06-10 | [pdf](https://arxiv.org/pdf/2606.12407v1) · [abs](https://arxiv.org/abs/2606.12407v1) |
-| 3 | **[DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](https://arxiv.org/pdf/2606.12402v1)**<br><sub>Jadelynn Dao, Milan Ganai, Yasmina Abukhadra, Ajay Sridhar, Mozhgan Nasr Azadani, Katie Luo, Clark Barrett, Jiajun Wu, Chelsea Finn, Marco Pavone</sub> | cs.RO | 2026-06-10 | [pdf](https://arxiv.org/pdf/2606.12402v1) · [abs](https://arxiv.org/abs/2606.12402v1) |
+| 1 | **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/pdf/2606.13679v1)**<br><sub>Dian Zheng, Harry Lee, Manyuan Zhang, Kaituo Feng, Zoey Guo, Ray Zhang, Hongsheng Li</sub> | cs.CV | 2026-06-11 | [pdf](https://arxiv.org/pdf/2606.13679v1) · [abs](https://arxiv.org/abs/2606.13679v1) |
+| 2 | **[Mana: Dexterous Manipulation of Articulated Tools](https://arxiv.org/pdf/2606.13677v1)**<br><sub>Zhao-Heng Yin, Guanya Shi, Pieter Abbeel, C. Karen Liu</sub> | cs.RO | 2026-06-11 | [pdf](https://arxiv.org/pdf/2606.13677v1) · [abs](https://arxiv.org/abs/2606.13677v1) |
+| 3 | **[RepWAM: World Action Modeling with Representation Visual-Action Tokenizers](https://arxiv.org/pdf/2606.13674v1)**<br><sub>Junke Wang, Qihang Zhang, Shuai Yang, Yiming Luo, Yujun Shen, Zuxuan Wu, Yu-Gang Jiang, Yinghao Xu</sub> | cs.CV | 2026-06-11 | [pdf](https://arxiv.org/pdf/2606.13674v1) · [abs](https://arxiv.org/abs/2606.13674v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
