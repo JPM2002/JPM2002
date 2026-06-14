@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-13 09:30 UTC_
+_Last updated: 2026-06-14 09:52 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[InterleaveThinker: Reinforcing Agentic Interleaved Generation](https://arxiv.org/pdf/2606.13679v1)**<br><sub>Dian Zheng, Harry Lee, Manyuan Zhang, Kaituo Feng, Zoey Guo, Ray Zhang, Hongsheng Li</sub> | cs.CV | 2026-06-11 | [pdf](https://arxiv.org/pdf/2606.13679v1) · [abs](https://arxiv.org/abs/2606.13679v1) |
-| 2 | **[Mana: Dexterous Manipulation of Articulated Tools](https://arxiv.org/pdf/2606.13677v1)**<br><sub>Zhao-Heng Yin, Guanya Shi, Pieter Abbeel, C. Karen Liu</sub> | cs.RO | 2026-06-11 | [pdf](https://arxiv.org/pdf/2606.13677v1) · [abs](https://arxiv.org/abs/2606.13677v1) |
-| 3 | **[RepWAM: World Action Modeling with Representation Visual-Action Tokenizers](https://arxiv.org/pdf/2606.13674v1)**<br><sub>Junke Wang, Qihang Zhang, Shuai Yang, Yiming Luo, Yujun Shen, Zuxuan Wu, Yu-Gang Jiang, Yinghao Xu</sub> | cs.CV | 2026-06-11 | [pdf](https://arxiv.org/pdf/2606.13674v1) · [abs](https://arxiv.org/abs/2606.13674v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
