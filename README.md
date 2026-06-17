@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-16 11:29 UTC_
+_Last updated: 2026-06-17 11:13 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/pdf/2606.17053v1)**<br><sub>Peiyang Xu, Bangzheng Li, Sijia Liu, Karthik R. Narasimhan, Pramod Viswanath, Prateek Mittal, Xingyu Fu</sub> | cs.CL | 2026-06-15 | [pdf](https://arxiv.org/pdf/2606.17053v1) · [abs](https://arxiv.org/abs/2606.17053v1) |
-| 2 | **[Exact Posterior Score Estimation for Solving Linear Inverse Problems](https://arxiv.org/pdf/2606.17048v1)**<br><sub>Abbas Mammadov, Ozgur Kara, Kaan Oktay, Iskander Azangulov, Adil Kaan Akan, Hyungjin Chung, James Matthew Rehg, Yee Whye Teh</sub> | cs.LG | 2026-06-15 | [pdf](https://arxiv.org/pdf/2606.17048v1) · [abs](https://arxiv.org/abs/2606.17048v1) |
-| 3 | **[Geometric Action Model for Robot Policy Learning](https://arxiv.org/pdf/2606.17046v1)**<br><sub>Jisang Han, Seonghu Jeon, Jaewoo Jung, René Zurbrügg, Honggyu An, Tifanny Portela, Marco Hutter, Marc Pollefeys, Seungryong Kim, Sunghwan Hong</sub> | cs.RO | 2026-06-15 | [pdf](https://arxiv.org/pdf/2606.17046v1) · [abs](https://arxiv.org/abs/2606.17046v1) |
+| 1 | **[Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification](https://arxiv.org/pdf/2606.18249v1)**<br><sub>Wujian Peng, Lingchen Meng, Yuxuan Cai, Xianwei Zhuang, Yuhuan Yang, Rongyao Fang, Chenfei Wu, Junyang Lin, Zuxuan Wu, Shuai Bai</sub> | cs.CV | 2026-06-16 | [pdf](https://arxiv.org/pdf/2606.18249v1) · [abs](https://arxiv.org/abs/2606.18249v1) |
+| 2 | **[MOCHI: Motion Enhancement of Collaborative Human-object Interactions](https://arxiv.org/pdf/2606.18243v1)**<br><sub>Jiye Lee, Yonghun Choi, Jungdam Won</sub> | cs.CV | 2026-06-16 | [pdf](https://arxiv.org/pdf/2606.18243v1) · [abs](https://arxiv.org/abs/2606.18243v1) |
+| 3 | **[EventDrive: Event Cameras for Vision-Language Driving Intelligence](https://arxiv.org/pdf/2606.18242v1)**<br><sub>Dongyue Lu, Rong Li, Ao Liang, Lingdong Kong, Wei Yin, Lai Xing Ng, Benoit R. Cottereau, Camille Simon Chane, Wei Tsang Ooi</sub> | cs.CV | 2026-06-16 | [pdf](https://arxiv.org/pdf/2606.18242v1) · [abs](https://arxiv.org/abs/2606.18242v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
