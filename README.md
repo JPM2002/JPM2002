@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-17 11:13 UTC_
+_Last updated: 2026-06-18 10:43 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification](https://arxiv.org/pdf/2606.18249v1)**<br><sub>Wujian Peng, Lingchen Meng, Yuxuan Cai, Xianwei Zhuang, Yuhuan Yang, Rongyao Fang, Chenfei Wu, Junyang Lin, Zuxuan Wu, Shuai Bai</sub> | cs.CV | 2026-06-16 | [pdf](https://arxiv.org/pdf/2606.18249v1) · [abs](https://arxiv.org/abs/2606.18249v1) |
-| 2 | **[MOCHI: Motion Enhancement of Collaborative Human-object Interactions](https://arxiv.org/pdf/2606.18243v1)**<br><sub>Jiye Lee, Yonghun Choi, Jungdam Won</sub> | cs.CV | 2026-06-16 | [pdf](https://arxiv.org/pdf/2606.18243v1) · [abs](https://arxiv.org/abs/2606.18243v1) |
-| 3 | **[EventDrive: Event Cameras for Vision-Language Driving Intelligence](https://arxiv.org/pdf/2606.18242v1)**<br><sub>Dongyue Lu, Rong Li, Ao Liang, Lingdong Kong, Wei Yin, Lai Xing Ng, Benoit R. Cottereau, Camille Simon Chane, Wei Tsang Ooi</sub> | cs.CV | 2026-06-16 | [pdf](https://arxiv.org/pdf/2606.18242v1) · [abs](https://arxiv.org/abs/2606.18242v1) |
+| 1 | **[Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/pdf/2606.19341v1)**<br><sub>Zhenghao Xing, Ruiyang Xu, Yuxuan Wang, Jinzheng He, Ziyang Ma, Qize Yang, Yunfei Chu, Jin Xu, Junyang Lin, Chi-Wing Fu, Pheng-Ann Heng</sub> | cs.CV | 2026-06-17 | [pdf](https://arxiv.org/pdf/2606.19341v1) · [abs](https://arxiv.org/abs/2606.19341v1) |
+| 2 | **[Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games](https://arxiv.org/pdf/2606.19338v1)**<br><sub>Shengyuan Ding, Xilin Wei, Xinyu Fang, Haodong Duan, Dahua Lin, Jiaqi Wang, Yuhang Zang</sub> | cs.CV | 2026-06-17 | [pdf](https://arxiv.org/pdf/2606.19338v1) · [abs](https://arxiv.org/abs/2606.19338v1) |
+| 3 | **[Do as I Do: Dexterous Manipulation Data from Everyday Human Videos](https://arxiv.org/pdf/2606.19333v1)**<br><sub>Bhawna Paliwal, Haritheja Etukuru, William Liang, Pieter Abbeel, Nur Muhammad Mahi Shafiullah, Jitendra Malik</sub> | cs.RO | 2026-06-17 | [pdf](https://arxiv.org/pdf/2606.19333v1) · [abs](https://arxiv.org/abs/2606.19333v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
