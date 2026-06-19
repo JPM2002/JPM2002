@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-18 10:43 UTC_
+_Last updated: 2026-06-19 10:53 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/pdf/2606.19341v1)**<br><sub>Zhenghao Xing, Ruiyang Xu, Yuxuan Wang, Jinzheng He, Ziyang Ma, Qize Yang, Yunfei Chu, Jin Xu, Junyang Lin, Chi-Wing Fu, Pheng-Ann Heng</sub> | cs.CV | 2026-06-17 | [pdf](https://arxiv.org/pdf/2606.19341v1) · [abs](https://arxiv.org/abs/2606.19341v1) |
-| 2 | **[Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games](https://arxiv.org/pdf/2606.19338v1)**<br><sub>Shengyuan Ding, Xilin Wei, Xinyu Fang, Haodong Duan, Dahua Lin, Jiaqi Wang, Yuhang Zang</sub> | cs.CV | 2026-06-17 | [pdf](https://arxiv.org/pdf/2606.19338v1) · [abs](https://arxiv.org/abs/2606.19338v1) |
-| 3 | **[Do as I Do: Dexterous Manipulation Data from Everyday Human Videos](https://arxiv.org/pdf/2606.19333v1)**<br><sub>Bhawna Paliwal, Haritheja Etukuru, William Liang, Pieter Abbeel, Nur Muhammad Mahi Shafiullah, Jitendra Malik</sub> | cs.RO | 2026-06-17 | [pdf](https://arxiv.org/pdf/2606.19333v1) · [abs](https://arxiv.org/abs/2606.19333v1) |
+| 1 | **[JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising](https://arxiv.org/pdf/2606.20563v1)**<br><sub>Siang-Ling Zhang, Huai-Hsun Cheng, Tsung-Ju Yang, Yu-Lun Liu</sub> | cs.CV | 2026-06-18 | [pdf](https://arxiv.org/pdf/2606.20563v1) · [abs](https://arxiv.org/abs/2606.20563v1) |
+| 2 | **[TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living](https://arxiv.org/pdf/2606.20561v1)**<br><sub>Arkaprava Sinha, Dominick Reilly, Siddharth Krishnan, Hieu Le, Srijan Das</sub> | cs.CV | 2026-06-18 | [pdf](https://arxiv.org/pdf/2606.20561v1) · [abs](https://arxiv.org/abs/2606.20561v1) |
+| 3 | **[UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/pdf/2606.20559v1)**<br><sub>Wenhao Chi, Arkaprava Sinha, Dominick Reilly, Hieu Le, Srijan Das</sub> | cs.CV | 2026-06-18 | [pdf](https://arxiv.org/pdf/2606.20559v1) · [abs](https://arxiv.org/abs/2606.20559v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
