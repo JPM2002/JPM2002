@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-22 12:21 UTC_
+_Last updated: 2026-06-23 09:58 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://arxiv.org/pdf/2606.23688v1)**<br><sub>Yehonathan Litman, Xiaoxuan Ma, Manan Shah, Nicolas Ugrinovic, Kris Kitani, Fernando De la Torre, Shubham Tulsiani</sub> | cs.CV | 2026-06-22 | [pdf](https://arxiv.org/pdf/2606.23688v1) · [abs](https://arxiv.org/abs/2606.23688v1) |
+| 2 | **[Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping](https://arxiv.org/pdf/2606.23682v1)**<br><sub>Rishubh Parihar, Ayush Raina, R. Venkatesh Babu, Or Patashnik</sub> | cs.CV | 2026-06-22 | [pdf](https://arxiv.org/pdf/2606.23682v1) · [abs](https://arxiv.org/abs/2606.23682v1) |
+| 3 | **[Semantic Browsing: Controllable Diversity for Image Generation](https://arxiv.org/pdf/2606.23679v1)**<br><sub>Sara Dorfman, Maya Vishnevsky, Omer Dahary, Or Patashnik, Daniel Cohen-Or</sub> | cs.CV | 2026-06-22 | [pdf](https://arxiv.org/pdf/2606.23679v1) · [abs](https://arxiv.org/abs/2606.23679v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
