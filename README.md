@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-24 09:47 UTC_
+_Last updated: 2026-06-25 09:37 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[DiffusionBench: On Holistic Evaluation of Diffusion Transformers](https://arxiv.org/pdf/2606.24888v1)**<br><sub>Xingjian Leng, Jaskirat Singh, Zhanhao Liang, Ethan Smith, Martin Bell, Aninda Saha, Yuhui Yuan, Liang Zheng</sub> | cs.CV | 2026-06-23 | [pdf](https://arxiv.org/pdf/2606.24888v1) · [abs](https://arxiv.org/abs/2606.24888v1) |
-| 2 | **[BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases](https://arxiv.org/pdf/2606.24883v1)**<br><sub>Qi Chen, Wenxuan Li, Pedro R. A. S. Bassi, Xinze Zhou, Jakob Wasserthal, Ibrahim Ethem Hamamci, Sezgin Er, Ashwin Kumar, Yiwen Ye, Yuhan Wang, Yuyin Zhou, Akshay S. Chaudhari, Curtis Langlotz, Kang Wang, Yang Yang, Alan L. Yuille, Zongwei Zhou</sub> | cs.CV | 2026-06-23 | [pdf](https://arxiv.org/pdf/2606.24883v1) · [abs](https://arxiv.org/abs/2606.24883v1) |
-| 3 | **[FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation](https://arxiv.org/pdf/2606.24876v1)**<br><sub>Orest Kupyn, Goutam Bhat, Philipp Henzler, Fabian Manhardt, Christian Rupprecht, Federico Tombari</sub> | cs.CV | 2026-06-23 | [pdf](https://arxiv.org/pdf/2606.24876v1) · [abs](https://arxiv.org/abs/2606.24876v1) |
+| 1 | **[Learning Action Priors for Cross-embodiment Robot Manipulation](https://arxiv.org/pdf/2606.26095v1)**<br><sub>Dong Jing, Tianqi Zhang, Jiaqi Liu, Jinman Zhao, Zelong Sun, Li Erran Li, Zhiwu Lu, Mingyu Ding</sub> | cs.RO | 2026-06-24 | [pdf](https://arxiv.org/pdf/2606.26095v1) · [abs](https://arxiv.org/abs/2606.26095v1) |
+| 2 | **[MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation](https://arxiv.org/pdf/2606.26087v1)**<br><sub>JoungBin Lee, Jaewoo Jung, Jongmin Lee, Tongmin Kim, Hyunsung Kim, Takuya Narihira, Kazumi Fukuda, Jahyeok Koo, Jisang Han, Yuki Mitsufuji, Seungryong Kim</sub> | cs.CV | 2026-06-24 | [pdf](https://arxiv.org/pdf/2606.26087v1) · [abs](https://arxiv.org/abs/2606.26087v1) |
+| 3 | **[Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models](https://arxiv.org/pdf/2606.26079v1)**<br><sub>Akshay Paruchuri, Sanmi Koyejo, Ehsan Adeli</sub> | cs.CL | 2026-06-24 | [pdf](https://arxiv.org/pdf/2606.26079v1) · [abs](https://arxiv.org/abs/2606.26079v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
