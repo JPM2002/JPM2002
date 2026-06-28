@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-27 08:47 UTC_
+_Last updated: 2026-06-28 09:26 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[DanceOPD: On-Policy Generative Field Distillation](https://arxiv.org/pdf/2606.27377v1)**<br><sub>Wei Zhou, Xiongwei Zhu, Zelin Xu, Bo Dong, Lixue Gong, Yongyuan Liang, Meng Chu, Leigang Qu, Lingdong Kong, Wei Liu, Tat-Seng Chua</sub> | cs.CV | 2026-06-25 | [pdf](https://arxiv.org/pdf/2606.27377v1) · [abs](https://arxiv.org/abs/2606.27377v1) |
-| 2 | **[Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards](https://arxiv.org/pdf/2606.27376v1)**<br><sub>Ritesh Thawkar, Shravan Venkatraman, Omkar Thawakar, Abdelrahman Shaker, Fahad Khan, Hisham Cholakkal, Salman Khan, Rao Muhammad Anwer</sub> | cs.CV | 2026-06-25 | [pdf](https://arxiv.org/pdf/2606.27376v1) · [abs](https://arxiv.org/abs/2606.27376v1) |
-| 3 | **[World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays](https://arxiv.org/pdf/2606.27374v1)**<br><sub>Manish Kumar Govind, Dominick Reilly, Smit Patel, Hieu Le, Srijan Das</sub> | cs.RO | 2026-06-25 | [pdf](https://arxiv.org/pdf/2606.27374v1) · [abs](https://arxiv.org/abs/2606.27374v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
