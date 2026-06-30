@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-06-29 11:20 UTC_
+_Last updated: 2026-06-30 09:56 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors](https://arxiv.org/pdf/2606.30638v1)**<br><sub>Jameel Hassan, Yasiru Ranasinghe, Vishal Patel</sub> | cs.CV | 2026-06-29 | [pdf](https://arxiv.org/pdf/2606.30638v1) · [abs](https://arxiv.org/abs/2606.30638v1) |
+| 2 | **[GROW$^2$: Grounding Which and Where for Robot Tool Use](https://arxiv.org/pdf/2606.30632v1)**<br><sub>Yuhong Deng, Yuyao Liu, David Hsu</sub> | cs.RO | 2026-06-29 | [pdf](https://arxiv.org/pdf/2606.30632v1) · [abs](https://arxiv.org/abs/2606.30632v1) |
+| 3 | **[UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image](https://arxiv.org/pdf/2606.30608v1)**<br><sub>Mohamed el amine boudjoghra, Ivan Laptev, Angela Dai</sub> | cs.CV | 2026-06-29 | [pdf](https://arxiv.org/pdf/2606.30608v1) · [abs](https://arxiv.org/abs/2606.30608v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
