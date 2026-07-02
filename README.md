@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-01 10:06 UTC_
+_Last updated: 2026-07-02 09:28 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://arxiv.org/pdf/2606.32039v1)**<br><sub>Bin Lin, Zheyuan Liu, Chenguo Lin, Sixiang Chen, Yunyang Ge, Yunlong Lin, Jianwei Zhang, Miles Yang, Zhao Zhong, Liefeng Bo, Li Yuan</sub> | cs.CV | 2026-06-30 | [pdf](https://arxiv.org/pdf/2606.32039v1) · [abs](https://arxiv.org/abs/2606.32039v1) |
-| 2 | **[PointSplat: Compact Gaussian Splatting via Human-Centric Prediction](https://arxiv.org/pdf/2606.32036v1)**<br><sub>Yujie Guo, Yudong Jin, Lingteng Qiu, Zehong Shen, Zhen Xu, Jing Zhang, Xianchao Shen, Hujun Bao, Sida Peng, Xiaowei Zhou</sub> | cs.CV | 2026-06-30 | [pdf](https://arxiv.org/pdf/2606.32036v1) · [abs](https://arxiv.org/abs/2606.32036v1) |
-| 3 | **[SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE](https://arxiv.org/pdf/2606.32033v1)**<br><sub>Or Hirschorn, Aaron Olender, Eli Alshan, Ianir Ideses, Lior Fritz, Sagie Benaim</sub> | cs.CV | 2026-06-30 | [pdf](https://arxiv.org/pdf/2606.32033v1) · [abs](https://arxiv.org/abs/2606.32033v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
