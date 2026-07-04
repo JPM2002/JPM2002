@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-03 09:31 UTC_
+_Last updated: 2026-07-04 08:48 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Alignment Is All You Need For X-to-4D Generation](https://arxiv.org/pdf/2607.02516v1)**<br><sub>Qiaowei Miao, Kehan Li, Yawei Luo, Yi Yang</sub> | cs.CV | 2026-07-02 | [pdf](https://arxiv.org/pdf/2607.02516v1) · [abs](https://arxiv.org/abs/2607.02516v1) |
+| 2 | **[PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation](https://arxiv.org/pdf/2607.02515v1)**<br><sub>Haofei Xu, Rundi Wu, Philipp Henzler, Nikolai Kalischek, Michael Oechsle, Fabian Manhardt, Marc Pollefeys, Andreas Geiger, Federico Tombari, Michael Niemeyer</sub> | cs.CV | 2026-07-02 | [pdf](https://arxiv.org/pdf/2607.02515v1) · [abs](https://arxiv.org/abs/2607.02515v1) |
+| 3 | **[From SRA to Self-Flow: Data Augmentation or Self-Supervision?](https://arxiv.org/pdf/2607.02508v1)**<br><sub>Dengyang Jiang, Mengmeng Wang, Harry Yang, Jingdong Wang</sub> | cs.CV | 2026-07-02 | [pdf](https://arxiv.org/pdf/2607.02508v1) · [abs](https://arxiv.org/abs/2607.02508v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
