@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-07 09:57 UTC_
+_Last updated: 2026-07-08 08:41 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model](https://arxiv.org/pdf/2607.05396v1)**<br><sub>Wenhao Li, Xueying Jiang, Quanhao Qian, Deli Zhao, Shijian Lu, Gongjie Zhang, Ran Xu</sub> | cs.CV | 2026-07-06 | [pdf](https://arxiv.org/pdf/2607.05396v1) · [abs](https://arxiv.org/abs/2607.05396v1) |
-| 2 | **[SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion](https://arxiv.org/pdf/2607.05392v1)**<br><sub>Paul Engstler, Iro Laina, Christian Rupprecht, Andrea Vedaldi</sub> | cs.CV | 2026-07-06 | [pdf](https://arxiv.org/pdf/2607.05392v1) · [abs](https://arxiv.org/abs/2607.05392v1) |
-| 3 | **[Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models](https://arxiv.org/pdf/2607.05390v1)**<br><sub>Hongyu Li, Wanjia Fu, Xiaoyan Cong, Zekun Li, Binghao Huang, Hanxiao Jiang, Xintong He, Yiqing Liang, Rao Fu, Tao Lu, Srinath Sridhar, Kevin A. Smith, George Konidaris, Yunzhu Li</sub> | cs.RO | 2026-07-06 | [pdf](https://arxiv.org/pdf/2607.05390v1) · [abs](https://arxiv.org/abs/2607.05390v1) |
+| 1 | **[ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation](https://arxiv.org/pdf/2607.06565v1)**<br><sub>Tianjiao Yu, Xinzhuo Li, Yifan Shen, Onkar Susladkar, Yuanzhe Liu, Xiaona Zhou, Ismini Lourentzou</sub> | cs.CV | 2026-07-07 | [pdf](https://arxiv.org/pdf/2607.06565v1) · [abs](https://arxiv.org/abs/2607.06565v1) |
+| 2 | **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/pdf/2607.06564v1)**<br><sub>Jiaming Liu, Qingpo Wuwu, Nuowei Han, Hao Chen, Zhuoyang Liu, Fan Fei, Yueru Jia, Chenyang Gu, Yandong Guo, Boxin Shi, Shanghang Zhang</sub> | cs.RO | 2026-07-07 | [pdf](https://arxiv.org/pdf/2607.06564v1) · [abs](https://arxiv.org/abs/2607.06564v1) |
+| 3 | **[ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](https://arxiv.org/pdf/2607.06555v1)**<br><sub>Ruihang Zhang, Felix Taubner, Pooja Ravi, Kiriakos N. Kutulakos, David B. Lindell</sub> | cs.CV | 2026-07-07 | [pdf](https://arxiv.org/pdf/2607.06555v1) · [abs](https://arxiv.org/abs/2607.06555v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
