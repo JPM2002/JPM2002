@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-08 08:41 UTC_
+_Last updated: 2026-07-09 09:54 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation](https://arxiv.org/pdf/2607.06565v1)**<br><sub>Tianjiao Yu, Xinzhuo Li, Yifan Shen, Onkar Susladkar, Yuanzhe Liu, Xiaona Zhou, Ismini Lourentzou</sub> | cs.CV | 2026-07-07 | [pdf](https://arxiv.org/pdf/2607.06565v1) · [abs](https://arxiv.org/abs/2607.06565v1) |
-| 2 | **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/pdf/2607.06564v1)**<br><sub>Jiaming Liu, Qingpo Wuwu, Nuowei Han, Hao Chen, Zhuoyang Liu, Fan Fei, Yueru Jia, Chenyang Gu, Yandong Guo, Boxin Shi, Shanghang Zhang</sub> | cs.RO | 2026-07-07 | [pdf](https://arxiv.org/pdf/2607.06564v1) · [abs](https://arxiv.org/abs/2607.06564v1) |
-| 3 | **[ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](https://arxiv.org/pdf/2607.06555v1)**<br><sub>Ruihang Zhang, Felix Taubner, Pooja Ravi, Kiriakos N. Kutulakos, David B. Lindell</sub> | cs.CV | 2026-07-07 | [pdf](https://arxiv.org/pdf/2607.06555v1) · [abs](https://arxiv.org/abs/2607.06555v1) |
+| 1 | **[Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF](https://arxiv.org/pdf/2607.07693v1)**<br><sub>Eric Zhu, Abhinav Shrivastava, Soumik Mukhopadhyay</sub> | cs.LG | 2026-07-08 | [pdf](https://arxiv.org/pdf/2607.07693v1) · [abs](https://arxiv.org/abs/2607.07693v1) |
+| 2 | **[MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models](https://arxiv.org/pdf/2607.07673v1)**<br><sub>Hyunjae Kim, Dain Kim, Pan Xiao, Serina S. Applebaum, Younjoon Chung, Xuguang Ai, Yu Yin, Roy Jiang, Yuexi Du, Yawen Wei, Yiming Kong, Tuo Guo, Zhiyuan Cao, Mengmeng Du, Yuelei Fu, Yan Hu, Rui Shi, Gui Yang, Kevin W. Jin, Yuntian Liu, Yuxuan Tian, Jonathan Marquez, Zhen Chen, Sheng Zhang, Hoifung Poon, Hua Xu, Jaewoo Kang, Qingyu Chen</sub> | cs.CV | 2026-07-08 | [pdf](https://arxiv.org/pdf/2607.07673v1) · [abs](https://arxiv.org/abs/2607.07673v1) |
+| 3 | **[Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/pdf/2607.07608v1)**<br><sub>Hongyu Qu, Jianzhe Gao, Xiaobin Hu, Shaohuan Yang, Xinlei Yu, Rui Yan, Wenguan Wang, Xiangbo Shu, Shuicheng Yan</sub> | cs.RO | 2026-07-08 | [pdf](https://arxiv.org/pdf/2607.07608v1) · [abs](https://arxiv.org/abs/2607.07608v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
