@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-09 09:54 UTC_
+_Last updated: 2026-07-10 09:49 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF](https://arxiv.org/pdf/2607.07693v1)**<br><sub>Eric Zhu, Abhinav Shrivastava, Soumik Mukhopadhyay</sub> | cs.LG | 2026-07-08 | [pdf](https://arxiv.org/pdf/2607.07693v1) · [abs](https://arxiv.org/abs/2607.07693v1) |
-| 2 | **[MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models](https://arxiv.org/pdf/2607.07673v1)**<br><sub>Hyunjae Kim, Dain Kim, Pan Xiao, Serina S. Applebaum, Younjoon Chung, Xuguang Ai, Yu Yin, Roy Jiang, Yuexi Du, Yawen Wei, Yiming Kong, Tuo Guo, Zhiyuan Cao, Mengmeng Du, Yuelei Fu, Yan Hu, Rui Shi, Gui Yang, Kevin W. Jin, Yuntian Liu, Yuxuan Tian, Jonathan Marquez, Zhen Chen, Sheng Zhang, Hoifung Poon, Hua Xu, Jaewoo Kang, Qingyu Chen</sub> | cs.CV | 2026-07-08 | [pdf](https://arxiv.org/pdf/2607.07673v1) · [abs](https://arxiv.org/abs/2607.07673v1) |
-| 3 | **[Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/pdf/2607.07608v1)**<br><sub>Hongyu Qu, Jianzhe Gao, Xiaobin Hu, Shaohuan Yang, Xinlei Yu, Rui Yan, Wenguan Wang, Xiangbo Shu, Shuicheng Yan</sub> | cs.RO | 2026-07-08 | [pdf](https://arxiv.org/pdf/2607.07608v1) · [abs](https://arxiv.org/abs/2607.07608v1) |
+| 1 | **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/pdf/2607.08772v1)**<br><sub>Jiangwei Ren, Xingyu Jiang, Zijie Song, Wei Xu, Hongkai Lin, Dingkang Liang, Xiang Bai</sub> | cs.CV | 2026-07-09 | [pdf](https://arxiv.org/pdf/2607.08772v1) · [abs](https://arxiv.org/abs/2607.08772v1) |
+| 2 | **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/pdf/2607.08770v1)**<br><sub>Cheng-De Fan, Chun-Wei Tuan Mu, Chen-Wei Chang, Chin-Yang Lin, Kun-Ru Wu, Yu-Chee Tseng, Yu-Lun Liu</sub> | cs.CV | 2026-07-09 | [pdf](https://arxiv.org/pdf/2607.08770v1) · [abs](https://arxiv.org/abs/2607.08770v1) |
+| 3 | **[OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/pdf/2607.08766v1)**<br><sub>Hongyu Liu, Chun Wang, Feng Gao, Xuanhua He, Yue Ma, Ziyu Wan, Yong Zhang, Xiaoming Wei, Qifeng Chen</sub> | cs.CV | 2026-07-09 | [pdf](https://arxiv.org/pdf/2607.08766v1) · [abs](https://arxiv.org/abs/2607.08766v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
