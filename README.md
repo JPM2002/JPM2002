@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-11 08:08 UTC_
+_Last updated: 2026-07-12 08:28 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/pdf/2607.08772v1)**<br><sub>Jiangwei Ren, Xingyu Jiang, Zijie Song, Wei Xu, Hongkai Lin, Dingkang Liang, Xiang Bai</sub> | cs.CV | 2026-07-09 | [pdf](https://arxiv.org/pdf/2607.08772v1) · [abs](https://arxiv.org/abs/2607.08772v1) |
-| 2 | **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/pdf/2607.08770v1)**<br><sub>Cheng-De Fan, Chun-Wei Tuan Mu, Chen-Wei Chang, Chin-Yang Lin, Kun-Ru Wu, Yu-Chee Tseng, Yu-Lun Liu</sub> | cs.CV | 2026-07-09 | [pdf](https://arxiv.org/pdf/2607.08770v1) · [abs](https://arxiv.org/abs/2607.08770v1) |
-| 3 | **[OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/pdf/2607.08766v1)**<br><sub>Hongyu Liu, Chun Wang, Feng Gao, Xuanhua He, Yue Ma, Ziyu Wan, Yong Zhang, Xiaoming Wei, Qifeng Chen</sub> | cs.CV | 2026-07-09 | [pdf](https://arxiv.org/pdf/2607.08766v1) · [abs](https://arxiv.org/abs/2607.08766v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
