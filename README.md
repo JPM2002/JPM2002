@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-13 09:43 UTC_
+_Last updated: 2026-07-14 08:23 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://arxiv.org/pdf/2607.11886v1)**<br><sub>Runhui Huang, Qihui Zhang, Zhe Liu, Yu Gao, Jie Wu, Hengshuang Zhao</sub> | cs.CV | 2026-07-13 | [pdf](https://arxiv.org/pdf/2607.11886v1) · [abs](https://arxiv.org/abs/2607.11886v1) |
+| 2 | **[Evidence-Backed Video Question Answering](https://arxiv.org/pdf/2607.11862v1)**<br><sub>Shijie Wang, Honglu Zhou, Ziyang Wang, Ran Xu, Caiming Xiong, Silvio Savarese, Chen Sun, Juan Carlos Niebles</sub> | cs.CV | 2026-07-13 | [pdf](https://arxiv.org/pdf/2607.11862v1) · [abs](https://arxiv.org/abs/2607.11862v1) |
+| 3 | **[Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding](https://arxiv.org/pdf/2607.11844v1)**<br><sub>Kerui Chen, Jinglu Wang, Xiaoyi Zhang, Yan Lu</sub> | cs.CV | 2026-07-13 | [pdf](https://arxiv.org/pdf/2607.11844v1) · [abs](https://arxiv.org/abs/2607.11844v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
