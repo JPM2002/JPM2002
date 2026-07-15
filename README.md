@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-14 08:23 UTC_
+_Last updated: 2026-07-15 08:30 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://arxiv.org/pdf/2607.11886v1)**<br><sub>Runhui Huang, Qihui Zhang, Zhe Liu, Yu Gao, Jie Wu, Hengshuang Zhao</sub> | cs.CV | 2026-07-13 | [pdf](https://arxiv.org/pdf/2607.11886v1) · [abs](https://arxiv.org/abs/2607.11886v1) |
-| 2 | **[Evidence-Backed Video Question Answering](https://arxiv.org/pdf/2607.11862v1)**<br><sub>Shijie Wang, Honglu Zhou, Ziyang Wang, Ran Xu, Caiming Xiong, Silvio Savarese, Chen Sun, Juan Carlos Niebles</sub> | cs.CV | 2026-07-13 | [pdf](https://arxiv.org/pdf/2607.11862v1) · [abs](https://arxiv.org/abs/2607.11862v1) |
-| 3 | **[Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding](https://arxiv.org/pdf/2607.11844v1)**<br><sub>Kerui Chen, Jinglu Wang, Xiaoyi Zhang, Yan Lu</sub> | cs.CV | 2026-07-13 | [pdf](https://arxiv.org/pdf/2607.11844v1) · [abs](https://arxiv.org/abs/2607.11844v1) |
+| 1 | **[The Seriality Gap in Video Diffusion Models](https://arxiv.org/pdf/2607.13031v1)**<br><sub>Jorge Diaz Chao, Konpat Preechakul, Yuxi Liu, Yutong Bai</sub> | cs.LG | 2026-07-14 | [pdf](https://arxiv.org/pdf/2607.13031v1) · [abs](https://arxiv.org/abs/2607.13031v1) |
+| 2 | **[FlowWAM: Optical Flow as a Unified Action Representation for World Action Models](https://arxiv.org/pdf/2607.13017v1)**<br><sub>Yixiang Chen, Peiyan Li, Yuan Xu, Qisen Ma, Jiabing Yang, Kai Wang, Jianhua Yang, Dong An, He Guan, Gaoteng Liu, Jianlou Si, Jun Huang, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang</sub> | cs.RO | 2026-07-14 | [pdf](https://arxiv.org/pdf/2607.13017v1) · [abs](https://arxiv.org/abs/2607.13017v1) |
+| 3 | **[X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras](https://arxiv.org/pdf/2607.12993v1)**<br><sub>Heng Zhou, Shuhong Liu, Yonghao He, Bohao Zhang, Fa Fu, Chenhui Hou, Xianbao Hou, Lijun Han, Wei Sui</sub> | cs.CV | 2026-07-14 | [pdf](https://arxiv.org/pdf/2607.12993v1) · [abs](https://arxiv.org/abs/2607.12993v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
