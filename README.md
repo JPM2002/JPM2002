@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-16 08:27 UTC_
+_Last updated: 2026-07-17 08:23 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders](https://arxiv.org/pdf/2607.14088v1)**<br><sub>Zhihao Xie, Junfeng Wu, Xinting Hu, Junchao Huang, Li Jiang</sub> | cs.CV | 2026-07-15 | [pdf](https://arxiv.org/pdf/2607.14088v1) · [abs](https://arxiv.org/abs/2607.14088v1) |
-| 2 | **[Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study](https://arxiv.org/pdf/2607.14041v1)**<br><sub>Zhan Chen, Jiqiao Ma, Chih-wen Kuo</sub> | cs.CV | 2026-07-15 | [pdf](https://arxiv.org/pdf/2607.14041v1) · [abs](https://arxiv.org/abs/2607.14041v1) |
-| 3 | **[Task-Specific Feature Fusion Method for Multi-Task Affective Behavior Analysis](https://arxiv.org/pdf/2607.13986v1)**<br><sub>Jiajun Sun, Zhe Gao</sub> | cs.CV | 2026-07-15 | [pdf](https://arxiv.org/pdf/2607.13986v1) · [abs](https://arxiv.org/abs/2607.13986v1) |
+| 1 | **[Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/pdf/2607.15278v1)**<br><sub>Zezhong Qian, Xiaowei Chi, Chak-Wing Mak, Tianze Zhou, Ruibin Yuan, Yuhan Rui, Hengzhe Sun, Zhuoqun Wu, Yuming Li, Siyuan Qian, Sirui Han, Shanghang Zhang</sub> | cs.CV | 2026-07-16 | [pdf](https://arxiv.org/pdf/2607.15278v1) · [abs](https://arxiv.org/abs/2607.15278v1) |
+| 2 | **[MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](https://arxiv.org/pdf/2607.15273v1)**<br><sub>Yushi Huang, Xiangxin Zhou, Jun Zhang, Liefeng Bo, Tianyu Pang</sub> | cs.CV | 2026-07-16 | [pdf](https://arxiv.org/pdf/2607.15273v1) · [abs](https://arxiv.org/abs/2607.15273v1) |
+| 3 | **[Online Neural Space Time Memory for Dynamic Novel View Synthesis](https://arxiv.org/pdf/2607.15271v1)**<br><sub>Baback Elmieh, Lynn Tsai, Zeman Li, Srinivas Kaza, Tiancheng Sun, Gabor Csapo, Ali Behrouz, Yuan Deng, Stephen Lombardi, Steven M. Seitz, Xuan Luo</sub> | cs.CV | 2026-07-16 | [pdf](https://arxiv.org/pdf/2607.15271v1) · [abs](https://arxiv.org/abs/2607.15271v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
