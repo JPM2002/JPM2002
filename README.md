@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-18 08:04 UTC_
+_Last updated: 2026-07-19 08:30 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/pdf/2607.15278v1)**<br><sub>Zezhong Qian, Xiaowei Chi, Chak-Wing Mak, Tianze Zhou, Ruibin Yuan, Yuhan Rui, Hengzhe Sun, Zhuoqun Wu, Yuming Li, Siyuan Qian, Sirui Han, Shanghang Zhang</sub> | cs.CV | 2026-07-16 | [pdf](https://arxiv.org/pdf/2607.15278v1) · [abs](https://arxiv.org/abs/2607.15278v1) |
-| 2 | **[MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](https://arxiv.org/pdf/2607.15273v1)**<br><sub>Yushi Huang, Xiangxin Zhou, Jun Zhang, Liefeng Bo, Tianyu Pang</sub> | cs.CV | 2026-07-16 | [pdf](https://arxiv.org/pdf/2607.15273v1) · [abs](https://arxiv.org/abs/2607.15273v1) |
-| 3 | **[Online Neural Space Time Memory for Dynamic Novel View Synthesis](https://arxiv.org/pdf/2607.15271v1)**<br><sub>Baback Elmieh, Lynn Tsai, Zeman Li, Srinivas Kaza, Tiancheng Sun, Gabor Csapo, Ali Behrouz, Yuan Deng, Stephen Lombardi, Steven M. Seitz, Xuan Luo</sub> | cs.CV | 2026-07-16 | [pdf](https://arxiv.org/pdf/2607.15271v1) · [abs](https://arxiv.org/abs/2607.15271v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
