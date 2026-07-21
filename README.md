@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-20 09:30 UTC_
+_Last updated: 2026-07-21 08:40 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](https://arxiv.org/pdf/2607.18237v1)**<br><sub>Sheng-Yu Wang, Yotam Nitzan, Aaron Hertzmann, Jun-Yan Zhu, Eli Shechtman, Alexei A. Efros, Richard Zhang</sub> | cs.CV | 2026-07-20 | [pdf](https://arxiv.org/pdf/2607.18237v1) · [abs](https://arxiv.org/abs/2607.18237v1) |
+| 2 | **[Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs](https://arxiv.org/pdf/2607.18230v1)**<br><sub>Yi Tang, Xinyi Shang, Jiacheng Cui, Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao, Tran Dinh Tien, Ahmed Elhagry, Salwa K. Al Khatib, Tianjun Yao, Yonina C. Eldar, Jing-Hao Xue, Hao Li, Salman Khan, Zhiqiang Shen</sub> | cs.CV | 2026-07-20 | [pdf](https://arxiv.org/pdf/2607.18230v1) · [abs](https://arxiv.org/abs/2607.18230v1) |
+| 3 | **[FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry](https://arxiv.org/pdf/2607.18227v1)**<br><sub>Dingyun Zhang, Lixue Gong, Wei Liu</sub> | cs.CV | 2026-07-20 | [pdf](https://arxiv.org/pdf/2607.18227v1) · [abs](https://arxiv.org/abs/2607.18227v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
