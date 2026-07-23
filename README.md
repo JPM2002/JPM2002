@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-22 08:40 UTC_
+_Last updated: 2026-07-23 08:42 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Appearance Pointers -- Multimodal Region Control of Diffusion Transformers](https://arxiv.org/pdf/2607.19344v1)**<br><sub>Rahul Sajnani, Yulia Gryaditskaya, Radomír Měch, Srinath Sridhar, Matheus Gadelha</sub> | cs.CV | 2026-07-21 | [pdf](https://arxiv.org/pdf/2607.19344v1) · [abs](https://arxiv.org/abs/2607.19344v1) |
-| 2 | **[Masked Visual Actions for Unified World Modeling](https://arxiv.org/pdf/2607.19343v1)**<br><sub>Hadi Alzayer, Wenlong Huang, Haonan Chen, Christopher Luey, Lvmin Zhang, Maneesh Agrawala, Gordon Wetzstein, Li Fei-Fei, Yilun Du, Jiajun Wu, Jia-Bin Huang</sub> | cs.CV | 2026-07-21 | [pdf](https://arxiv.org/pdf/2607.19343v1) · [abs](https://arxiv.org/abs/2607.19343v1) |
-| 3 | **[OmniReasoner: Thinking with Long Audio-Video via Native Tool Use](https://arxiv.org/pdf/2607.19339v1)**<br><sub>Yu Chen, Caorui Li, Ziyu Xiong, Yidong Wang, Mingqi Gao, Shuman Liu, Biao Liu, Chunfeng Yang, Anxiang Zeng, Haibo Zhang, Chaofan Chen</sub> | cs.CV | 2026-07-21 | [pdf](https://arxiv.org/pdf/2607.19339v1) · [abs](https://arxiv.org/abs/2607.19339v1) |
+| 1 | **[PercepCap: Video Captioner with Structured Spatio-Temporal Perception](https://arxiv.org/pdf/2607.20389v1)**<br><sub>Yifan Xu, Zihao Wang, Zhixiao Wang, Jiaming Zhang, Yichun Yang, Desen Meng, Yuanxing Zhang, Pengfei Wan, Limin Wang</sub> | cs.CV | 2026-07-22 | [pdf](https://arxiv.org/pdf/2607.20389v1) · [abs](https://arxiv.org/abs/2607.20389v1) |
+| 2 | **[Self Gradient Forcing: Native Long Video Extrapolation](https://arxiv.org/pdf/2607.20368v1)**<br><sub>Junhao Zhuang, Shiyi Zhang, Yuxuan Bian, Yaowei Li, Yawen Luo, Yijun Liu, Weiyang Jin, Songchun Zhang, Xianglong He, Xuying Zhang, Haoran Li, Haoyang Huang, Zeyue Xue, Nan Duan</sub> | cs.CV | 2026-07-22 | [pdf](https://arxiv.org/pdf/2607.20368v1) · [abs](https://arxiv.org/abs/2607.20368v1) |
+| 3 | **[Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs](https://arxiv.org/pdf/2607.20357v1)**<br><sub>Pengcheng Wang, Zhiquan Wang, Jayoung Lee, Zhuoyan Xu, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji</sub> | cs.CV | 2026-07-22 | [pdf](https://arxiv.org/pdf/2607.20357v1) · [abs](https://arxiv.org/abs/2607.20357v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
