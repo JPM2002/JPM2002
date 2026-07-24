@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-23 08:42 UTC_
+_Last updated: 2026-07-24 08:38 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[PercepCap: Video Captioner with Structured Spatio-Temporal Perception](https://arxiv.org/pdf/2607.20389v1)**<br><sub>Yifan Xu, Zihao Wang, Zhixiao Wang, Jiaming Zhang, Yichun Yang, Desen Meng, Yuanxing Zhang, Pengfei Wan, Limin Wang</sub> | cs.CV | 2026-07-22 | [pdf](https://arxiv.org/pdf/2607.20389v1) · [abs](https://arxiv.org/abs/2607.20389v1) |
-| 2 | **[Self Gradient Forcing: Native Long Video Extrapolation](https://arxiv.org/pdf/2607.20368v1)**<br><sub>Junhao Zhuang, Shiyi Zhang, Yuxuan Bian, Yaowei Li, Yawen Luo, Yijun Liu, Weiyang Jin, Songchun Zhang, Xianglong He, Xuying Zhang, Haoran Li, Haoyang Huang, Zeyue Xue, Nan Duan</sub> | cs.CV | 2026-07-22 | [pdf](https://arxiv.org/pdf/2607.20368v1) · [abs](https://arxiv.org/abs/2607.20368v1) |
-| 3 | **[Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs](https://arxiv.org/pdf/2607.20357v1)**<br><sub>Pengcheng Wang, Zhiquan Wang, Jayoung Lee, Zhuoyan Xu, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji</sub> | cs.CV | 2026-07-22 | [pdf](https://arxiv.org/pdf/2607.20357v1) · [abs](https://arxiv.org/abs/2607.20357v1) |
+| 1 | **[3D-Aware VLMs with Implicit and Explicit Geometries](https://arxiv.org/pdf/2607.21595v1)**<br><sub>Wenhao Li, Xueying Jiang, Quanhao Qian, Deli Zhao, Ran Xu, Shijian Lu, Gongjie Zhang</sub> | cs.CV | 2026-07-23 | [pdf](https://arxiv.org/pdf/2607.21595v1) · [abs](https://arxiv.org/abs/2607.21595v1) |
+| 2 | **[Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers](https://arxiv.org/pdf/2607.21594v1)**<br><sub>Sicheng Mo, Yuheng Li, Ziyang Leng, Krishna Kumar Singh, Bolei Zhou</sub> | cs.CV | 2026-07-23 | [pdf](https://arxiv.org/pdf/2607.21594v1) · [abs](https://arxiv.org/abs/2607.21594v1) |
+| 3 | **[Unified Video Dense Prediction from Disjoint Data](https://arxiv.org/pdf/2607.21592v1)**<br><sub>Yihong Sun, Seoung Wug Oh, Jiahui Huang, Bharath Hariharan, Joon-Young Lee</sub> | cs.CV | 2026-07-23 | [pdf](https://arxiv.org/pdf/2607.21592v1) · [abs](https://arxiv.org/abs/2607.21592v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
