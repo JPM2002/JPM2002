@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-25 08:19 UTC_
+_Last updated: 2026-07-26 08:36 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[3D-Aware VLMs with Implicit and Explicit Geometries](https://arxiv.org/pdf/2607.21595v1)**<br><sub>Wenhao Li, Xueying Jiang, Quanhao Qian, Deli Zhao, Ran Xu, Shijian Lu, Gongjie Zhang</sub> | cs.CV | 2026-07-23 | [pdf](https://arxiv.org/pdf/2607.21595v1) · [abs](https://arxiv.org/abs/2607.21595v1) |
-| 2 | **[Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers](https://arxiv.org/pdf/2607.21594v1)**<br><sub>Sicheng Mo, Yuheng Li, Ziyang Leng, Krishna Kumar Singh, Bolei Zhou</sub> | cs.CV | 2026-07-23 | [pdf](https://arxiv.org/pdf/2607.21594v1) · [abs](https://arxiv.org/abs/2607.21594v1) |
-| 3 | **[Unified Video Dense Prediction from Disjoint Data](https://arxiv.org/pdf/2607.21592v1)**<br><sub>Yihong Sun, Seoung Wug Oh, Jiahui Huang, Bharath Hariharan, Joon-Young Lee</sub> | cs.CV | 2026-07-23 | [pdf](https://arxiv.org/pdf/2607.21592v1) · [abs](https://arxiv.org/abs/2607.21592v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
