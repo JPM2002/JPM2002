@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-28 08:47 UTC_
+_Last updated: 2026-07-29 08:52 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Data Pyramid for Embodied Manipulation](https://arxiv.org/pdf/2607.24744v1)**<br><sub>Yifan Ye, Yankai Fu, Yaoxu Lv, Bohan Hou, Jun Cen, Lingdong Kong, Duo Zheng, Tianxing Chen, Jiaming Liu, Ziang Cao, Yunfan Lou, Wei Chow, Xian Sun, Yingshuo Wang, Kuangzhi Ge, Xiaowei Chi, Xidong Zhang, Zhibo Pang, Yiwu Zhong, Sirui Han, Zhihe Lu, Weihao Yuan, Qifeng Chen, Michael Yu Wang, Yao Mu, Ziwei Liu, Jianfei Yang, Ping Luo, Shanghang Zhang</sub> | cs.RO | 2026-07-27 | [pdf](https://arxiv.org/pdf/2607.24744v1) · [abs](https://arxiv.org/abs/2607.24744v1) |
-| 2 | **[ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](https://arxiv.org/pdf/2607.24743v1)**<br><sub>Hangjie Yuan, Yichen Qian, Zhiwei Tang, Xianzhe Xu, Lirong Wu, Sicheng Yang, Jinwang Wang, Pengju Wang, Zhitao Zeng, Yizeng Han, Yan Xing, Shengxuan Luo, Tao Feng, Qing Xie, Weigen Yao, Yi Yang, Zuozhu Liu, Jiasheng Tang, Shaocheng Wang, Jitao Wang, Jiahong Dong, Weihua Chen, Feng Xu, Fan Wang</sub> | cs.CV | 2026-07-27 | [pdf](https://arxiv.org/pdf/2607.24743v1) · [abs](https://arxiv.org/abs/2607.24743v1) |
-| 3 | **[Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation](https://arxiv.org/pdf/2607.24731v1)**<br><sub>Bingnan Li, Haozhe Wang, Haozhong Xiong, Fangtai Wu, Jinpeng Yu, Yang Shi, Jiaming Liu, Ruihua Huang</sub> | cs.CV | 2026-07-27 | [pdf](https://arxiv.org/pdf/2607.24731v1) · [abs](https://arxiv.org/abs/2607.24731v1) |
+| 1 | **[VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening](https://arxiv.org/pdf/2607.26042v1)**<br><sub>Syed Mhamudul Hasan, Anas AlSobeh, Hussein Zangoti, Abdur R. Shahid</sub> | cs.CV | 2026-07-28 | [pdf](https://arxiv.org/pdf/2607.26042v1) · [abs](https://arxiv.org/abs/2607.26042v1) |
+| 2 | **[Parallel Decoding Distillation for Fast Image and Video Generation](https://arxiv.org/pdf/2607.26004v1)**<br><sub>Neta Shaul, Chao Liu, Arash Vahdat, Julius Berner</sub> | cs.CV | 2026-07-28 | [pdf](https://arxiv.org/pdf/2607.26004v1) · [abs](https://arxiv.org/abs/2607.26004v1) |
+| 3 | **[Beyond Zooming: Learning Multi-Tool Visual Reasoning for Ultra-High-Resolution Remote Sensing](https://arxiv.org/pdf/2607.25993v1)**<br><sub>Fengxiang Wang, Jiangnan Huang, Mingshuo Chen, Yueying Li, Yang Shi, Junwei Luo, Haoyu Wang, Yansheng Li, Jing Zhang, Haiyan Zhao, Wenjing Yang</sub> | cs.CV | 2026-07-28 | [pdf](https://arxiv.org/pdf/2607.25993v1) · [abs](https://arxiv.org/abs/2607.25993v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
