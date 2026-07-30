@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-29 08:52 UTC_
+_Last updated: 2026-07-30 08:42 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening](https://arxiv.org/pdf/2607.26042v1)**<br><sub>Syed Mhamudul Hasan, Anas AlSobeh, Hussein Zangoti, Abdur R. Shahid</sub> | cs.CV | 2026-07-28 | [pdf](https://arxiv.org/pdf/2607.26042v1) · [abs](https://arxiv.org/abs/2607.26042v1) |
-| 2 | **[Parallel Decoding Distillation for Fast Image and Video Generation](https://arxiv.org/pdf/2607.26004v1)**<br><sub>Neta Shaul, Chao Liu, Arash Vahdat, Julius Berner</sub> | cs.CV | 2026-07-28 | [pdf](https://arxiv.org/pdf/2607.26004v1) · [abs](https://arxiv.org/abs/2607.26004v1) |
-| 3 | **[Beyond Zooming: Learning Multi-Tool Visual Reasoning for Ultra-High-Resolution Remote Sensing](https://arxiv.org/pdf/2607.25993v1)**<br><sub>Fengxiang Wang, Jiangnan Huang, Mingshuo Chen, Yueying Li, Yang Shi, Junwei Luo, Haoyu Wang, Yansheng Li, Jing Zhang, Haiyan Zhao, Wenjing Yang</sub> | cs.CV | 2026-07-28 | [pdf](https://arxiv.org/pdf/2607.25993v1) · [abs](https://arxiv.org/abs/2607.25993v1) |
+| 1 | **[TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM](https://arxiv.org/pdf/2607.27205v1)**<br><sub>Hengyi Xie, Chenfei Yao, Xianjin Wu, Xuanyang Xi, Yiping Tang, Di Xu, Yingying Zhu, Dingkang Liang, Xiang Bai, Han Ding</sub> | cs.CV | 2026-07-29 | [pdf](https://arxiv.org/pdf/2607.27205v1) · [abs](https://arxiv.org/abs/2607.27205v1) |
+| 2 | **[VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion](https://arxiv.org/pdf/2607.27194v1)**<br><sub>Zador Pataki, Paul-Edouard Sarlin, Marc Pollefeys</sub> | cs.CV | 2026-07-29 | [pdf](https://arxiv.org/pdf/2607.27194v1) · [abs](https://arxiv.org/abs/2607.27194v1) |
+| 3 | **[HumanCLAW: Can Vision-Language Models Act Through a Body?](https://arxiv.org/pdf/2607.27180v1)**<br><sub>Siyao Li, Jiawei Gu, Shuai Liu, Kairui Hu, Zekun Li, Linjie Li, Chengcheng Tang, Po-Chen Wu, Ivan Shugurov, Lingni Ma, Michael Zollhoefer, Sizhe An, Abhay Mittal, Amy Zhao, Ranjay Krishna, Manling Li, Ziwei Liu, Chuan Guo</sub> | cs.CV | 2026-07-29 | [pdf](https://arxiv.org/pdf/2607.27180v1) · [abs](https://arxiv.org/abs/2607.27180v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
