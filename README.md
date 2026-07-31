@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-07-30 08:42 UTC_
+_Last updated: 2026-07-31 09:13 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM](https://arxiv.org/pdf/2607.27205v1)**<br><sub>Hengyi Xie, Chenfei Yao, Xianjin Wu, Xuanyang Xi, Yiping Tang, Di Xu, Yingying Zhu, Dingkang Liang, Xiang Bai, Han Ding</sub> | cs.CV | 2026-07-29 | [pdf](https://arxiv.org/pdf/2607.27205v1) · [abs](https://arxiv.org/abs/2607.27205v1) |
-| 2 | **[VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion](https://arxiv.org/pdf/2607.27194v1)**<br><sub>Zador Pataki, Paul-Edouard Sarlin, Marc Pollefeys</sub> | cs.CV | 2026-07-29 | [pdf](https://arxiv.org/pdf/2607.27194v1) · [abs](https://arxiv.org/abs/2607.27194v1) |
-| 3 | **[HumanCLAW: Can Vision-Language Models Act Through a Body?](https://arxiv.org/pdf/2607.27180v1)**<br><sub>Siyao Li, Jiawei Gu, Shuai Liu, Kairui Hu, Zekun Li, Linjie Li, Chengcheng Tang, Po-Chen Wu, Ivan Shugurov, Lingni Ma, Michael Zollhoefer, Sizhe An, Abhay Mittal, Amy Zhao, Ranjay Krishna, Manling Li, Ziwei Liu, Chuan Guo</sub> | cs.CV | 2026-07-29 | [pdf](https://arxiv.org/pdf/2607.27180v1) · [abs](https://arxiv.org/abs/2607.27180v1) |
+| 1 | **[ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](https://arxiv.org/pdf/2607.28627v1)**<br><sub>Yao Xiao, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao, Derek Hoiem</sub> | cs.CV | 2026-07-30 | [pdf](https://arxiv.org/pdf/2607.28627v1) · [abs](https://arxiv.org/abs/2607.28627v1) |
+| 2 | **[ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine](https://arxiv.org/pdf/2607.28625v1)**<br><sub>Yukang Cao, Haozhe Xie, Beichen Wen, Runmao Yao, Yinghao Liu, Yue Huang, Zhichao Liao, Yunxiang Wang, Haiheng Liu, Xingshun Tian, Dawei Su, Long Zhuo, Dacheng Tao, Xiaogang Wang, Liang Pan, Ziwei Liu</sub> | cs.CV | 2026-07-30 | [pdf](https://arxiv.org/pdf/2607.28625v1) · [abs](https://arxiv.org/abs/2607.28625v1) |
+| 3 | **[PhiZero: A World Model Built Around Physical Language](https://arxiv.org/pdf/2607.28624v1)**<br><sub>Shuyao Shang, Yuqi Wang, Ruopeng Gao, Xu Chen, Tieniu Tan, Lue Fan, Zhaoxiang Zhang</sub> | cs.CV | 2026-07-30 | [pdf](https://arxiv.org/pdf/2607.28624v1) · [abs](https://arxiv.org/abs/2607.28624v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
