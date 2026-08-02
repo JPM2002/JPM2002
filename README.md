@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-01 08:31 UTC_
+_Last updated: 2026-08-02 08:34 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](https://arxiv.org/pdf/2607.28627v1)**<br><sub>Yao Xiao, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao, Derek Hoiem</sub> | cs.CV | 2026-07-30 | [pdf](https://arxiv.org/pdf/2607.28627v1) · [abs](https://arxiv.org/abs/2607.28627v1) |
-| 2 | **[ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine](https://arxiv.org/pdf/2607.28625v1)**<br><sub>Yukang Cao, Haozhe Xie, Beichen Wen, Runmao Yao, Yinghao Liu, Yue Huang, Zhichao Liao, Yunxiang Wang, Haiheng Liu, Xingshun Tian, Dawei Su, Long Zhuo, Dacheng Tao, Xiaogang Wang, Liang Pan, Ziwei Liu</sub> | cs.CV | 2026-07-30 | [pdf](https://arxiv.org/pdf/2607.28625v1) · [abs](https://arxiv.org/abs/2607.28625v1) |
-| 3 | **[PhiZero: A World Model Built Around Physical Language](https://arxiv.org/pdf/2607.28624v1)**<br><sub>Shuyao Shang, Yuqi Wang, Ruopeng Gao, Xu Chen, Tieniu Tan, Lue Fan, Zhaoxiang Zhang</sub> | cs.CV | 2026-07-30 | [pdf](https://arxiv.org/pdf/2607.28624v1) · [abs](https://arxiv.org/abs/2607.28624v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
