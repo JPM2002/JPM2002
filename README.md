@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-03 10:01 UTC_
+_Last updated: 2026-08-04 08:50 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification](https://arxiv.org/pdf/2608.02598v1)**<br><sub>Chao Ji, Shiyu Xuan, Zechao Li</sub> | cs.CV | 2026-08-03 | [pdf](https://arxiv.org/pdf/2608.02598v1) · [abs](https://arxiv.org/abs/2608.02598v1) |
+| 2 | **[UEmbed: Unified Sparse and Dense Multimodal Embeddings](https://arxiv.org/pdf/2608.02583v1)**<br><sub>Tingyu Song, Mingxin Li, Yanzhao Zhang, Dingkun Long, Pengjun Xie, Zhijie Nie, Yilun Zhao, Shu Wu</sub> | cs.CV | 2026-08-03 | [pdf](https://arxiv.org/pdf/2608.02583v1) · [abs](https://arxiv.org/abs/2608.02583v1) |
+| 3 | **[ReMiX-MAE: Learning Missing-Channel Cross-Modal Representations from RGB-Only Clinical Facial Videos for Sympathetic-Mediated Pain Assessment](https://arxiv.org/pdf/2608.02561v1)**<br><sub>Nan Bi, Taoyue Wang, Lijun Yin, Vandana Sharma</sub> | cs.CV | 2026-08-03 | [pdf](https://arxiv.org/pdf/2608.02561v1) · [abs](https://arxiv.org/abs/2608.02561v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
