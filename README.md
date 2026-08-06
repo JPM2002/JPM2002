@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-05 08:47 UTC_
+_Last updated: 2026-08-06 08:49 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs](https://arxiv.org/pdf/2608.04010v1)**<br><sub>Yang Yang, Qinyu Zhao, Mouxiang Chen, Xiaohui Li, Lixin Gu, Wenhai Wang, Hongjie Zhang, Wenwei Zhang</sub> | cs.CV | 2026-08-04 | [pdf](https://arxiv.org/pdf/2608.04010v1) · [abs](https://arxiv.org/abs/2608.04010v1) |
-| 2 | **[Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2608.03991v1)**<br><sub>Wanli Ma, Jiangwen Lu, Qinmu Peng, Xinge You</sub> | cs.CV | 2026-08-04 | [pdf](https://arxiv.org/pdf/2608.03991v1) · [abs](https://arxiv.org/abs/2608.03991v1) |
-| 3 | **[Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent](https://arxiv.org/pdf/2608.03979v1)**<br><sub>Zhen Fang, Yu Zeng, Wenxuan Huang, Yiming Zhao, Shiting Huang, Tianfei Ren, Qi Lu, Qingnan Ren, Qisheng Su, Lionel Z. Wang, Qingyu Yin, Shuang Chen, Zehui Chen, Lin Chen, Zhenfei Yin, Yao Hu, Shaohui Lin, Wanli Ouyang, Shaosheng Cao, Feng Zhao</sub> | cs.CV | 2026-08-04 | [pdf](https://arxiv.org/pdf/2608.03979v1) · [abs](https://arxiv.org/abs/2608.03979v1) |
+| 1 | **[SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding](https://arxiv.org/pdf/2608.05137v1)**<br><sub>Yue Zhang, Yingzhao Jian, Yunqiu Xu, Xiaoxiao Sun, Hehe Fan</sub> | cs.CV | 2026-08-05 | [pdf](https://arxiv.org/pdf/2608.05137v1) · [abs](https://arxiv.org/abs/2608.05137v1) |
+| 2 | **[Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings](https://arxiv.org/pdf/2608.05132v1)**<br><sub>Hao Ding, Daniel Semchin, Paul M. Thompson, Boris Gutman</sub> | cs.CV | 2026-08-05 | [pdf](https://arxiv.org/pdf/2608.05132v1) · [abs](https://arxiv.org/abs/2608.05132v1) |
+| 3 | **[OPD-V: Visual On-Policy Self-Distillation with Modality Balance](https://arxiv.org/pdf/2608.05131v1)**<br><sub>Aniri, Jinhe Bi, Peng Liao, Zengjie Jin, Volker Tresp, Fei Shen, Yunpu Ma, Tat-Seng Chua</sub> | cs.CV | 2026-08-05 | [pdf](https://arxiv.org/pdf/2608.05131v1) · [abs](https://arxiv.org/abs/2608.05131v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
