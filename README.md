@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-06 08:49 UTC_
+_Last updated: 2026-08-07 07:36 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding](https://arxiv.org/pdf/2608.05137v1)**<br><sub>Yue Zhang, Yingzhao Jian, Yunqiu Xu, Xiaoxiao Sun, Hehe Fan</sub> | cs.CV | 2026-08-05 | [pdf](https://arxiv.org/pdf/2608.05137v1) · [abs](https://arxiv.org/abs/2608.05137v1) |
-| 2 | **[Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings](https://arxiv.org/pdf/2608.05132v1)**<br><sub>Hao Ding, Daniel Semchin, Paul M. Thompson, Boris Gutman</sub> | cs.CV | 2026-08-05 | [pdf](https://arxiv.org/pdf/2608.05132v1) · [abs](https://arxiv.org/abs/2608.05132v1) |
-| 3 | **[OPD-V: Visual On-Policy Self-Distillation with Modality Balance](https://arxiv.org/pdf/2608.05131v1)**<br><sub>Aniri, Jinhe Bi, Peng Liao, Zengjie Jin, Volker Tresp, Fei Shen, Yunpu Ma, Tat-Seng Chua</sub> | cs.CV | 2026-08-05 | [pdf](https://arxiv.org/pdf/2608.05131v1) · [abs](https://arxiv.org/abs/2608.05131v1) |
+| 1 | **[OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations](https://arxiv.org/pdf/2608.06264v1)**<br><sub>Robin Trombetta, Carole Lartizien</sub> | cs.CV | 2026-08-06 | [pdf](https://arxiv.org/pdf/2608.06264v1) · [abs](https://arxiv.org/abs/2608.06264v1) |
+| 2 | **[MASS: Multiplayer World Models with Authoritative Shared State](https://arxiv.org/pdf/2608.06257v1)**<br><sub>Ziqi Cai, Siqi Yang, Yimu Wang, Zixian Gao, Yunheng Liu, Shuchen Weng, Erwin Wu, Kaipeng Zhang, Boxin Shi</sub> | cs.CV | 2026-08-06 | [pdf](https://arxiv.org/pdf/2608.06257v1) · [abs](https://arxiv.org/abs/2608.06257v1) |
+| 3 | **[PRISM: Distribution-Gated Flow Matching for Controllable Unpaired Image Translation](https://arxiv.org/pdf/2608.06240v1)**<br><sub>Elad Yoshai, Natan T. Shaked</sub> | cs.CV | 2026-08-06 | [pdf](https://arxiv.org/pdf/2608.06240v1) · [abs](https://arxiv.org/abs/2608.06240v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
