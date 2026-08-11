@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-10 07:58 UTC_
+_Last updated: 2026-08-11 07:21 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots](https://arxiv.org/pdf/2608.09931v1)**<br><sub>Shravan Venkatraman, Omkar Thawakar, Ritesh Thawkar, Abdelrahman Shaker, Rao Muhammad Anwer</sub> | cs.CV | 2026-08-10 | [pdf](https://arxiv.org/pdf/2608.09931v1) · [abs](https://arxiv.org/abs/2608.09931v1) |
+| 2 | **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/pdf/2608.09928v1)**<br><sub>Hunar Batra, Lachin Naghashyar, Ashkan Khakzar, Philip Torr, Christian Schroeder de Witt, Constantin Venhoff, Ronald Clark</sub> | cs.CV | 2026-08-10 | [pdf](https://arxiv.org/pdf/2608.09928v1) · [abs](https://arxiv.org/abs/2608.09928v1) |
+| 3 | **[Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning](https://arxiv.org/pdf/2608.09926v1)**<br><sub>Haodong Li, Shaoteng Liu, Tianyu Wang, Chongjian Ge, Sihui Ji, Jiahan Zhang, Xin Lin, Haolin Lu, Zhe Lin, Manmohan Chandraker</sub> | cs.CV | 2026-08-10 | [pdf](https://arxiv.org/pdf/2608.09926v1) · [abs](https://arxiv.org/abs/2608.09926v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
