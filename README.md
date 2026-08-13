@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-12 07:44 UTC_
+_Last updated: 2026-08-13 07:46 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss](https://arxiv.org/pdf/2608.11205v1)**<br><sub>Mingju Gao, Jingkai Zhou, Kun Gai, Changqian Yu, Hao Tang</sub> | cs.CV | 2026-08-11 | [pdf](https://arxiv.org/pdf/2608.11205v1) · [abs](https://arxiv.org/abs/2608.11205v1) |
-| 2 | **[Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning](https://arxiv.org/pdf/2608.11204v1)**<br><sub>Wenrui Bao, Tianyun Jiang, Zhiben Chen, Ser-Nam Lim, Peter D. Peng, Yuzhang Shang</sub> | cs.RO | 2026-08-11 | [pdf](https://arxiv.org/pdf/2608.11204v1) · [abs](https://arxiv.org/abs/2608.11204v1) |
-| 3 | **[Capturing Uncertainty in Human Motion for Representation Learning in Soccer](https://arxiv.org/pdf/2608.11203v1)**<br><sub>Yizhou Xu, Lars Bretzner, Tiesheng Wang, Atsuto Maki</sub> | cs.CV | 2026-08-11 | [pdf](https://arxiv.org/pdf/2608.11203v1) · [abs](https://arxiv.org/abs/2608.11203v1) |
+| 1 | **[AVA-Encoder: Towards Agent-Native Video Representation Learning](https://arxiv.org/pdf/2608.12313v1)**<br><sub>Chuyue Li, Jinpeng Yu, Haozhe Wang, Tian Xueyun, Zhijing Zhang, Bingnan Li, Shuqi Gu, Kan Ren, Jiaming Liu, Ruihua Hua</sub> | cs.CV | 2026-08-12 | [pdf](https://arxiv.org/pdf/2608.12313v1) · [abs](https://arxiv.org/abs/2608.12313v1) |
+| 2 | **[DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](https://arxiv.org/pdf/2608.12308v1)**<br><sub>Yan Deng, Fei Xu</sub> | cs.CV | 2026-08-12 | [pdf](https://arxiv.org/pdf/2608.12308v1) · [abs](https://arxiv.org/abs/2608.12308v1) |
+| 3 | **[Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence](https://arxiv.org/pdf/2608.12290v1)**<br><sub>Aman Tyagi, Hemanth Boinpally, Jonathan Chen, Douglas Gebert, Steven Hickson</sub> | cs.CV | 2026-08-12 | [pdf](https://arxiv.org/pdf/2608.12290v1) · [abs](https://arxiv.org/abs/2608.12290v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
