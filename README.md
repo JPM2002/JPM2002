@@ -121,14 +121,14 @@ Markdown   3 mins                ███████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-13 07:46 UTC_
+_Last updated: 2026-08-14 07:44 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[AVA-Encoder: Towards Agent-Native Video Representation Learning](https://arxiv.org/pdf/2608.12313v1)**<br><sub>Chuyue Li, Jinpeng Yu, Haozhe Wang, Tian Xueyun, Zhijing Zhang, Bingnan Li, Shuqi Gu, Kan Ren, Jiaming Liu, Ruihua Hua</sub> | cs.CV | 2026-08-12 | [pdf](https://arxiv.org/pdf/2608.12313v1) · [abs](https://arxiv.org/abs/2608.12313v1) |
-| 2 | **[DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](https://arxiv.org/pdf/2608.12308v1)**<br><sub>Yan Deng, Fei Xu</sub> | cs.CV | 2026-08-12 | [pdf](https://arxiv.org/pdf/2608.12308v1) · [abs](https://arxiv.org/abs/2608.12308v1) |
-| 3 | **[Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence](https://arxiv.org/pdf/2608.12290v1)**<br><sub>Aman Tyagi, Hemanth Boinpally, Jonathan Chen, Douglas Gebert, Steven Hickson</sub> | cs.CV | 2026-08-12 | [pdf](https://arxiv.org/pdf/2608.12290v1) · [abs](https://arxiv.org/abs/2608.12290v1) |
+| 1 | **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/pdf/2608.13560v1)**<br><sub>Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan, Haodong Li, Zhengrong Yue, Jing Li, Xiaofu Chen, Xiaohan Zhao, Jiacheng Liu, Jiacheng Cui, Zhiqiang Shen, Xiaotong Li</sub> | cs.CV | 2026-08-13 | [pdf](https://arxiv.org/pdf/2608.13560v1) · [abs](https://arxiv.org/abs/2608.13560v1) |
+| 2 | **[Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology](https://arxiv.org/pdf/2608.13518v1)**<br><sub>Yunsung Chung, Yingshuo Liu, Abboud F. Hassan, Han Feng, Mary M. Maleckar, Nassir Marrouche, Jihun Hamm</sub> | cs.LG | 2026-08-13 | [pdf](https://arxiv.org/pdf/2608.13518v1) · [abs](https://arxiv.org/abs/2608.13518v1) |
+| 3 | **[TabSOM: A tabular-to-image encoding method based on self-organizing maps](https://arxiv.org/pdf/2608.13513v1)**<br><sub>David Chushig-Muzo, María Ángeles Rodríguez de Cara, Eva Milara, Francisco J. Lara-Abelenda, Luis Zhinin-Vera, Diego H. Peluffo-Ordóñez</sub> | cs.CV | 2026-08-13 | [pdf](https://arxiv.org/pdf/2608.13513v1) · [abs](https://arxiv.org/abs/2608.13513v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
