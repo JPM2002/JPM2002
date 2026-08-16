@@ -121,14 +121,10 @@ Markdown   3 mins                ███████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-15 06:52 UTC_
+_Last updated: 2026-08-16 06:53 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/pdf/2608.13560v1)**<br><sub>Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan, Haodong Li, Zhengrong Yue, Jing Li, Xiaofu Chen, Xiaohan Zhao, Jiacheng Liu, Jiacheng Cui, Zhiqiang Shen, Xiaotong Li</sub> | cs.CV | 2026-08-13 | [pdf](https://arxiv.org/pdf/2608.13560v1) · [abs](https://arxiv.org/abs/2608.13560v1) |
-| 2 | **[Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology](https://arxiv.org/pdf/2608.13518v1)**<br><sub>Yunsung Chung, Yingshuo Liu, Abboud F. Hassan, Han Feng, Mary M. Maleckar, Nassir Marrouche, Jihun Hamm</sub> | cs.LG | 2026-08-13 | [pdf](https://arxiv.org/pdf/2608.13518v1) · [abs](https://arxiv.org/abs/2608.13518v1) |
-| 3 | **[TabSOM: A tabular-to-image encoding method based on self-organizing maps](https://arxiv.org/pdf/2608.13513v1)**<br><sub>David Chushig-Muzo, María Ángeles Rodríguez de Cara, Eva Milara, Francisco J. Lara-Abelenda, Luis Zhinin-Vera, Diego H. Peluffo-Ordóñez</sub> | cs.CV | 2026-08-13 | [pdf](https://arxiv.org/pdf/2608.13513v1) · [abs](https://arxiv.org/abs/2608.13513v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
