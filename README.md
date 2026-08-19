@@ -121,14 +121,14 @@ Markdown   3 mins                ███████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-18 06:58 UTC_
+_Last updated: 2026-08-19 06:58 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](https://arxiv.org/pdf/2608.16889v1)**<br><sub>Bingxin Xu, Yuzhang Shang, Emilio Ferrara</sub> | cs.RO | 2026-08-17 | [pdf](https://arxiv.org/pdf/2608.16889v1) · [abs](https://arxiv.org/abs/2608.16889v1) |
-| 2 | **[An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models](https://arxiv.org/pdf/2608.16887v1)**<br><sub>Dengyang Jiang, Ruoyi Du, Zhennan Chen, Dongyang Liu, Zanyi Wang, Mingzhe Zheng, Xiangpeng Yang, Huanqia Cai, Aiming Hao, Yuming Jiang, Peng Gao, Harry Yang, Steven Hoi</sub> | cs.CV | 2026-08-17 | [pdf](https://arxiv.org/pdf/2608.16887v1) · [abs](https://arxiv.org/abs/2608.16887v1) |
-| 3 | **[SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis](https://arxiv.org/pdf/2608.16863v1)**<br><sub>Yejun Zhang, Zihan Wang, Xu Ji, Yihao Wang, Yuxin Hou, Junyuan Fang, Juho-Matti Kilpeläinen, Arno Solin, Hamed Rezazadegan Tavakoli, Esa Rahtu, Juho Kannala</sub> | cs.CV | 2026-08-17 | [pdf](https://arxiv.org/pdf/2608.16863v1) · [abs](https://arxiv.org/abs/2608.16863v1) |
+| 1 | **[From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation](https://arxiv.org/pdf/2608.18076v1)**<br><sub>Xingjian Wang, Zhao Wang, Taihang Hu, Jun Zheng, Qing Jin, Qinye Zhou, Zhengtao Wu, Yongchao Du, Zuan Gao, Chao Lin, Yefeng Shen, Xiaoli Xu, Zhengze Xu, Hao Yan, Yuhang Yu, Mingzhou Zhang, Mengting Chen</sub> | cs.CV | 2026-08-18 | [pdf](https://arxiv.org/pdf/2608.18076v1) · [abs](https://arxiv.org/abs/2608.18076v1) |
+| 2 | **[EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing](https://arxiv.org/pdf/2608.18063v1)**<br><sub>Jiayi Song, Shijie Huang, Fangtai Wu, Yubo Huang, Zhenxiong Tan, Songhua Liu, Jiaming Liu, Ruihua Huang</sub> | cs.CV | 2026-08-18 | [pdf](https://arxiv.org/pdf/2608.18063v1) · [abs](https://arxiv.org/abs/2608.18063v1) |
+| 3 | **[Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction](https://arxiv.org/pdf/2608.18055v1)**<br><sub>Veronika Spieker, Wenqi Huang, Cemre Ariyurek, Liam Timms, Daniel Rueckert, Onur Afacan, Julia A. Schnabel, Sila Kurugol</sub> | eess.IV | 2026-08-18 | [pdf](https://arxiv.org/pdf/2608.18055v1) · [abs](https://arxiv.org/abs/2608.18055v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
