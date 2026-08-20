@@ -121,14 +121,14 @@ Markdown   3 mins                ███████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-19 06:58 UTC_
+_Last updated: 2026-08-20 06:59 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation](https://arxiv.org/pdf/2608.18076v1)**<br><sub>Xingjian Wang, Zhao Wang, Taihang Hu, Jun Zheng, Qing Jin, Qinye Zhou, Zhengtao Wu, Yongchao Du, Zuan Gao, Chao Lin, Yefeng Shen, Xiaoli Xu, Zhengze Xu, Hao Yan, Yuhang Yu, Mingzhou Zhang, Mengting Chen</sub> | cs.CV | 2026-08-18 | [pdf](https://arxiv.org/pdf/2608.18076v1) · [abs](https://arxiv.org/abs/2608.18076v1) |
-| 2 | **[EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing](https://arxiv.org/pdf/2608.18063v1)**<br><sub>Jiayi Song, Shijie Huang, Fangtai Wu, Yubo Huang, Zhenxiong Tan, Songhua Liu, Jiaming Liu, Ruihua Huang</sub> | cs.CV | 2026-08-18 | [pdf](https://arxiv.org/pdf/2608.18063v1) · [abs](https://arxiv.org/abs/2608.18063v1) |
-| 3 | **[Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction](https://arxiv.org/pdf/2608.18055v1)**<br><sub>Veronika Spieker, Wenqi Huang, Cemre Ariyurek, Liam Timms, Daniel Rueckert, Onur Afacan, Julia A. Schnabel, Sila Kurugol</sub> | eess.IV | 2026-08-18 | [pdf](https://arxiv.org/pdf/2608.18055v1) · [abs](https://arxiv.org/abs/2608.18055v1) |
+| 1 | **[Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture](https://arxiv.org/pdf/2608.19177v1)**<br><sub>Yuandong Pan, Linjun Lu, Mudan Wang, Florian Noichl, Fan Xue, Brian Sheil, Lavindra de Silva, André Borrmann, Ioannis Brilakis</sub> | cs.CV | 2026-08-19 | [pdf](https://arxiv.org/pdf/2608.19177v1) · [abs](https://arxiv.org/abs/2608.19177v1) |
+| 2 | **[SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection](https://arxiv.org/pdf/2608.19080v1)**<br><sub>Changshun Wu, Weicheng He, Xiaowei Huang, Saddek Bensalem</sub> | cs.CV | 2026-08-19 | [pdf](https://arxiv.org/pdf/2608.19080v1) · [abs](https://arxiv.org/abs/2608.19080v1) |
+| 3 | **[ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2608.19075v1)**<br><sub>Jihae Jeong, Junha Choi, Hwanjo Yu</sub> | cs.CV | 2026-08-19 | [pdf](https://arxiv.org/pdf/2608.19075v1) · [abs](https://arxiv.org/abs/2608.19075v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
