@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-20 06:59 UTC_
+_Last updated: 2026-08-21 07:01 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture](https://arxiv.org/pdf/2608.19177v1)**<br><sub>Yuandong Pan, Linjun Lu, Mudan Wang, Florian Noichl, Fan Xue, Brian Sheil, Lavindra de Silva, André Borrmann, Ioannis Brilakis</sub> | cs.CV | 2026-08-19 | [pdf](https://arxiv.org/pdf/2608.19177v1) · [abs](https://arxiv.org/abs/2608.19177v1) |
-| 2 | **[SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection](https://arxiv.org/pdf/2608.19080v1)**<br><sub>Changshun Wu, Weicheng He, Xiaowei Huang, Saddek Bensalem</sub> | cs.CV | 2026-08-19 | [pdf](https://arxiv.org/pdf/2608.19080v1) · [abs](https://arxiv.org/abs/2608.19080v1) |
-| 3 | **[ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models](https://arxiv.org/pdf/2608.19075v1)**<br><sub>Jihae Jeong, Junha Choi, Hwanjo Yu</sub> | cs.CV | 2026-08-19 | [pdf](https://arxiv.org/pdf/2608.19075v1) · [abs](https://arxiv.org/abs/2608.19075v1) |
+| 1 | **[4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/pdf/2608.20335v1)**<br><sub>Yudong Jin, Tao Xie, Qihang Zhang, Zehong Shen, Zhen Xu, Yujun Shen, Hujun Bao, Xiaowei Zhou, Yinghao Xu</sub> | cs.CV | 2026-08-20 | [pdf](https://arxiv.org/pdf/2608.20335v1) · [abs](https://arxiv.org/abs/2608.20335v1) |
+| 2 | **[Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/pdf/2608.20334v1)**<br><sub>Taihang Hu, Zhao Wang, Zuan Gao, Tao Liu, Hao Yan, Zhengze Xu, Yuhang Yu, Yongchao Du, Xingjian Wang, Jun Zheng, Qinye Zhou, Zhengrui Chen, Chao Lin, Yefeng Shen, Zhengtao Wu, Ge Wu, Xiaoli Xu, Denghui Yang, Huayu Zhang, Mingzhou Zhang, Mengting Chen</sub> | cs.CV | 2026-08-20 | [pdf](https://arxiv.org/pdf/2608.20334v1) · [abs](https://arxiv.org/abs/2608.20334v1) |
+| 3 | **[G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation](https://arxiv.org/pdf/2608.20331v1)**<br><sub>Shiao Xie, Siyu Chen, Jianwei Lv, Bo Yuan, Yujin Wang, Xiandong Li</sub> | cs.CL | 2026-08-20 | [pdf](https://arxiv.org/pdf/2608.20331v1) · [abs](https://arxiv.org/abs/2608.20331v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
