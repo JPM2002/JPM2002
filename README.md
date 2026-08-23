@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-22 06:53 UTC_
+_Last updated: 2026-08-23 06:55 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/pdf/2608.20335v1)**<br><sub>Yudong Jin, Tao Xie, Qihang Zhang, Zehong Shen, Zhen Xu, Yujun Shen, Hujun Bao, Xiaowei Zhou, Yinghao Xu</sub> | cs.CV | 2026-08-20 | [pdf](https://arxiv.org/pdf/2608.20335v1) · [abs](https://arxiv.org/abs/2608.20335v1) |
-| 2 | **[Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/pdf/2608.20334v1)**<br><sub>Taihang Hu, Zhao Wang, Zuan Gao, Tao Liu, Hao Yan, Zhengze Xu, Yuhang Yu, Yongchao Du, Xingjian Wang, Jun Zheng, Qinye Zhou, Zhengrui Chen, Chao Lin, Yefeng Shen, Zhengtao Wu, Ge Wu, Xiaoli Xu, Denghui Yang, Huayu Zhang, Mingzhou Zhang, Mengting Chen</sub> | cs.CV | 2026-08-20 | [pdf](https://arxiv.org/pdf/2608.20334v1) · [abs](https://arxiv.org/abs/2608.20334v1) |
-| 3 | **[G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation](https://arxiv.org/pdf/2608.20331v1)**<br><sub>Shiao Xie, Siyu Chen, Jianwei Lv, Bo Yuan, Yujin Wang, Xiandong Li</sub> | cs.CL | 2026-08-20 | [pdf](https://arxiv.org/pdf/2608.20331v1) · [abs](https://arxiv.org/abs/2608.20331v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
