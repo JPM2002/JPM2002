@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-27 17:34 UTC_
+_Last updated: 2026-08-28 18:33 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](https://arxiv.org/pdf/2608.26105v1)**<br><sub>Junxiang Xu, Ruisi Wang, Fanyi Pu, Maijunxian Wang, Ran Ji, Tongxi Zhou, Chenyang Gu, Jing Zuo, Hongcan Xiao, Yimeng Geng, Wanqi Yin, Wei Chen, Oscar Qian, Zhengan Yan, Ziqi Huang, Haiwen Diao, Liang Pan, Bo Li, Xiangyu Fan, Dezhi Luo, Fengyuan Yu, Zehong Zhao, Qingying Gao, Tinghui Zhu, Yilan Zhang, Jingqi Tong, Pinyuan Feng, Zhengze Jiang, Letian Wang, Ziyu Guo, Renrui Zhang, Jieneng Chen, Sonia Joseph, Constantin Venhoff, Saman Motamed, Mengyue Yang, Chandra Sripada, Alan Yuille, Philip Torr, Lvmin Zhang, Vikash Kumar, Daniel Khashabi, Nikolaus Kriegeskorte, Raphaël Millière, Vincent C. Müller, Anyi Rao, Quan Wang, Ziwei Liu, Dahua Lin, Lei Yang, Hokin Deng, Zhongang Cai</sub> | cs.CV | 2026-08-26 | [pdf](https://arxiv.org/pdf/2608.26105v1) · [abs](https://arxiv.org/abs/2608.26105v1) |
-| 2 | **[Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization](https://arxiv.org/pdf/2608.26103v1)**<br><sub>Jiaming Zhou, Qihang Zhang, Gangwei Xu, Cunxin Fan, Yujie Zhao, Ruilin Wang, Yiming Luo, Shuai Yang, Xing Zhu, Yujun Shen, Junwei Liang, Yinghao Xu</sub> | cs.RO | 2026-08-26 | [pdf](https://arxiv.org/pdf/2608.26103v1) · [abs](https://arxiv.org/abs/2608.26103v1) |
-| 3 | **[RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing](https://arxiv.org/pdf/2608.26101v1)**<br><sub>Bojia Zi, Xiaoyan Yang, Yu Zhou, Ruijie Sun, Lihan Zhang, Bin Liang, Kam-Fai Wong, Haibin Huang, Chi Zhang, Xuelong Li</sub> | cs.CV | 2026-08-26 | [pdf](https://arxiv.org/pdf/2608.26101v1) · [abs](https://arxiv.org/abs/2608.26101v1) |
+| 1 | **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/pdf/2608.27456v1)**<br><sub>Tianjie Ju, Zheng Wu, Yueqing Sun, Yuhan Cui, Bobo Li, Shengqiong Wu, Pengzhou Cheng, Haodong Zhao, Zongru Wu, Xinbei Ma, Doris Zhang, Kunling Li, Mong-Li Lee, Wynne Hsu, Hao Fei, Qi Gu, Gongshen Liu, Zhuosheng Zhang</sub> | cs.CV | 2026-08-27 | [pdf](https://arxiv.org/pdf/2608.27456v1) · [abs](https://arxiv.org/abs/2608.27456v1) |
+| 2 | **[Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information](https://arxiv.org/pdf/2608.27417v1)**<br><sub>Chanho Park, Daehyeon Choi, Jihyun Lee, Minhyuk Sung</sub> | cs.CV | 2026-08-27 | [pdf](https://arxiv.org/pdf/2608.27417v1) · [abs](https://arxiv.org/abs/2608.27417v1) |
+| 3 | **[CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators](https://arxiv.org/pdf/2608.27406v1)**<br><sub>Kechen Liu, Ola Shorinwa</sub> | cs.RO | 2026-08-27 | [pdf](https://arxiv.org/pdf/2608.27406v1) · [abs](https://arxiv.org/abs/2608.27406v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
