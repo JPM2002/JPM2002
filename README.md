@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-29 12:38 UTC_
+_Last updated: 2026-08-30 11:48 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/pdf/2608.27456v1)**<br><sub>Tianjie Ju, Zheng Wu, Yueqing Sun, Yuhan Cui, Bobo Li, Shengqiong Wu, Pengzhou Cheng, Haodong Zhao, Zongru Wu, Xinbei Ma, Doris Zhang, Kunling Li, Mong-Li Lee, Wynne Hsu, Hao Fei, Qi Gu, Gongshen Liu, Zhuosheng Zhang</sub> | cs.CV | 2026-08-27 | [pdf](https://arxiv.org/pdf/2608.27456v1) · [abs](https://arxiv.org/abs/2608.27456v1) |
-| 2 | **[Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information](https://arxiv.org/pdf/2608.27417v1)**<br><sub>Chanho Park, Daehyeon Choi, Jihyun Lee, Minhyuk Sung</sub> | cs.CV | 2026-08-27 | [pdf](https://arxiv.org/pdf/2608.27417v1) · [abs](https://arxiv.org/abs/2608.27417v1) |
-| 3 | **[CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators](https://arxiv.org/pdf/2608.27406v1)**<br><sub>Kechen Liu, Ola Shorinwa</sub> | cs.RO | 2026-08-27 | [pdf](https://arxiv.org/pdf/2608.27406v1) · [abs](https://arxiv.org/abs/2608.27406v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
