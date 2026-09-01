@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-08-31 13:32 UTC_
+_Last updated: 2026-09-01 11:32 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[BLARM: Animating 3D Objects from Video via Blending Latent Rigid Motion Primitives](https://arxiv.org/pdf/2608.31113v1)**<br><sub>Pradyumn Goyal, Yizhak Ben-Shabat, Hsueh-Ti Derek Liu, Haomiao Jiang, Snehasish Mukherjee, Kyle Spence, Mark Stauber, Evangelos Kalogerakis, Yunze Zeng</sub> | cs.CV | 2026-08-31 | [pdf](https://arxiv.org/pdf/2608.31113v1) · [abs](https://arxiv.org/abs/2608.31113v1) |
+| 2 | **[VeriCam: A Verification Baseline for the Classification of Unknown Data](https://arxiv.org/pdf/2608.31107v1)**<br><sub>Lucas Wojcik, Gabriel E. Lima, Sergio M. Silva, Eduil Nascimento, David Menotti</sub> | cs.CV | 2026-08-31 | [pdf](https://arxiv.org/pdf/2608.31107v1) · [abs](https://arxiv.org/abs/2608.31107v1) |
+| 3 | **[DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://arxiv.org/pdf/2608.31106v1)**<br><sub>Jiashu Zhu, Yanhao Zheng, Ruitian Tian, Rujing Dang, Shen Zhang, Bingze Song, Jiachen Lei, Ruimin Lin, Jiahong Wu, Xiangxiang Chu</sub> | cs.CV | 2026-08-31 | [pdf](https://arxiv.org/pdf/2608.31106v1) · [abs](https://arxiv.org/abs/2608.31106v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
