@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-02 11:09 UTC_
+_Last updated: 2026-09-03 11:05 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System](https://arxiv.org/pdf/2609.01607v1)**<br><sub>Penghao Wu, Haiwen Diao, Weichen Fan, Lewei Lu, Dahua Lin, Ziwei Liu</sub> | cs.CV | 2026-09-01 | [pdf](https://arxiv.org/pdf/2609.01607v1) · [abs](https://arxiv.org/abs/2609.01607v1) |
-| 2 | **[UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture](https://arxiv.org/pdf/2609.01598v1)**<br><sub>Asees Kaur, Suzanne S. Sindi, Erica M. Rutter</sub> | cs.CV | 2026-09-01 | [pdf](https://arxiv.org/pdf/2609.01598v1) · [abs](https://arxiv.org/abs/2609.01598v1) |
-| 3 | **[H3-World: Turning Language Understanding into World Control](https://arxiv.org/pdf/2609.01560v1)**<br><sub>Danze Chen, Zeqing Wang, Ziyue Lin, Xingyi Yang, Yeying Jin</sub> | cs.CV | 2026-09-01 | [pdf](https://arxiv.org/pdf/2609.01560v1) · [abs](https://arxiv.org/abs/2609.01560v1) |
+| 1 | **[PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation](https://arxiv.org/pdf/2609.02860v1)**<br><sub>Yu Tian, Xintong Jiang, Jan Franklin Adamowski, Shiv O. Prasher, Shangpeng Sun</sub> | cs.CV | 2026-09-02 | [pdf](https://arxiv.org/pdf/2609.02860v1) · [abs](https://arxiv.org/abs/2609.02860v1) |
+| 2 | **[RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation](https://arxiv.org/pdf/2609.02847v1)**<br><sub>Xiaolei Lang, Ze Kang, Zehao Huang, Naiyan Wang</sub> | cs.CV | 2026-09-02 | [pdf](https://arxiv.org/pdf/2609.02847v1) · [abs](https://arxiv.org/abs/2609.02847v1) |
+| 3 | **[Benchmarking RAW and RGB Restoration in Image Signal Processors](https://arxiv.org/pdf/2609.02831v1)**<br><sub>Zihao Lu, Radu Timofte, Marcos V. Conde</sub> | cs.CV | 2026-09-02 | [pdf](https://arxiv.org/pdf/2609.02831v1) · [abs](https://arxiv.org/abs/2609.02831v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
