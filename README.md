@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-05 10:28 UTC_
+_Last updated: 2026-09-06 10:48 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision](https://arxiv.org/pdf/2609.04203v1)**<br><sub>Shravan Venkatraman, Wenshuai Zhao, Mohammad Hassan Vali, Arno Solin</sub> | cs.CV | 2026-09-03 | [pdf](https://arxiv.org/pdf/2609.04203v1) · [abs](https://arxiv.org/abs/2609.04203v1) |
-| 2 | **[TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation](https://arxiv.org/pdf/2609.04202v1)**<br><sub>Adeela Islam, Zorah Lähner, Vittorio Murino, Vladislav Golyanik</sub> | cs.CV | 2026-09-03 | [pdf](https://arxiv.org/pdf/2609.04202v1) · [abs](https://arxiv.org/abs/2609.04202v1) |
-| 3 | **[Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction](https://arxiv.org/pdf/2609.04201v1)**<br><sub>Chin-Yang Lin, Yang-Che Sun, Cheng Sun, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Wei-Chen Chiu, Yu-Lun Liu</sub> | cs.CV | 2026-09-03 | [pdf](https://arxiv.org/pdf/2609.04201v1) · [abs](https://arxiv.org/abs/2609.04201v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
