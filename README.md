@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-08 11:07 UTC_
+_Last updated: 2026-09-09 11:12 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs](https://arxiv.org/pdf/2609.09124v1)**<br><sub>Xiaofu Chen, Stella Frank, Yova Kementchedjhieva</sub> | cs.CV | 2026-09-08 | [pdf](https://arxiv.org/pdf/2609.09124v1) · [abs](https://arxiv.org/abs/2609.09124v1) |
+| 2 | **[Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout](https://arxiv.org/pdf/2609.09123v1)**<br><sub>Zhuoran Zhao, Shengju Qian, Tongtong Liang, Xianghao Kong, Songchun Zhang, Junchao Huang, Guian Fang, Xin Wang, Pan Hui, Anyi Rao</sub> | cs.CV | 2026-09-08 | [pdf](https://arxiv.org/pdf/2609.09123v1) · [abs](https://arxiv.org/abs/2609.09123v1) |
+| 3 | **[GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting](https://arxiv.org/pdf/2609.09082v1)**<br><sub>Thodoris Betsas, Anastasios Doulamis, Andreas Georgopoulos</sub> | cs.CV | 2026-09-08 | [pdf](https://arxiv.org/pdf/2609.09082v1) · [abs](https://arxiv.org/abs/2609.09082v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
