@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-09 11:12 UTC_
+_Last updated: 2026-09-10 11:08 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs](https://arxiv.org/pdf/2609.09124v1)**<br><sub>Xiaofu Chen, Stella Frank, Yova Kementchedjhieva</sub> | cs.CV | 2026-09-08 | [pdf](https://arxiv.org/pdf/2609.09124v1) · [abs](https://arxiv.org/abs/2609.09124v1) |
-| 2 | **[Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout](https://arxiv.org/pdf/2609.09123v1)**<br><sub>Zhuoran Zhao, Shengju Qian, Tongtong Liang, Xianghao Kong, Songchun Zhang, Junchao Huang, Guian Fang, Xin Wang, Pan Hui, Anyi Rao</sub> | cs.CV | 2026-09-08 | [pdf](https://arxiv.org/pdf/2609.09123v1) · [abs](https://arxiv.org/abs/2609.09123v1) |
-| 3 | **[GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting](https://arxiv.org/pdf/2609.09082v1)**<br><sub>Thodoris Betsas, Anastasios Doulamis, Andreas Georgopoulos</sub> | cs.CV | 2026-09-08 | [pdf](https://arxiv.org/pdf/2609.09082v1) · [abs](https://arxiv.org/abs/2609.09082v1) |
+| 1 | **[Guiding Image-to-3D Generation with Test-Time Partial Observations](https://arxiv.org/pdf/2609.10531v1)**<br><sub>Jerred Chen, Simon Weber, Ronald Clark</sub> | cs.CV | 2026-09-09 | [pdf](https://arxiv.org/pdf/2609.10531v1) · [abs](https://arxiv.org/abs/2609.10531v1) |
+| 2 | **[Precision in Rice Variety Classification using Stacking-Based Ensemble Learning](https://arxiv.org/pdf/2609.10524v1)**<br><sub>Md. Masudul Islam, Galib Muhammad Shahriar Himel, Md. Golam Moazzam, Mohammad Shorif Uddin</sub> | cs.CV | 2026-09-09 | [pdf](https://arxiv.org/pdf/2609.10524v1) · [abs](https://arxiv.org/abs/2609.10524v1) |
+| 3 | **[Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/pdf/2609.10522v1)**<br><sub>Yanzhe Chen, Zechen Bai, Zhijun Cao, Wenzheng Zeng, Kevin Qinghong Lin, Yiqi Lin, Guoqiang Liang, Kevin Yuchen Ma, Qiming Huang, Mike Zheng Shou</sub> | cs.RO | 2026-09-09 | [pdf](https://arxiv.org/pdf/2609.10522v1) · [abs](https://arxiv.org/abs/2609.10522v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
