@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-10 11:08 UTC_
+_Last updated: 2026-09-11 11:08 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Guiding Image-to-3D Generation with Test-Time Partial Observations](https://arxiv.org/pdf/2609.10531v1)**<br><sub>Jerred Chen, Simon Weber, Ronald Clark</sub> | cs.CV | 2026-09-09 | [pdf](https://arxiv.org/pdf/2609.10531v1) · [abs](https://arxiv.org/abs/2609.10531v1) |
-| 2 | **[Precision in Rice Variety Classification using Stacking-Based Ensemble Learning](https://arxiv.org/pdf/2609.10524v1)**<br><sub>Md. Masudul Islam, Galib Muhammad Shahriar Himel, Md. Golam Moazzam, Mohammad Shorif Uddin</sub> | cs.CV | 2026-09-09 | [pdf](https://arxiv.org/pdf/2609.10524v1) · [abs](https://arxiv.org/abs/2609.10524v1) |
-| 3 | **[Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/pdf/2609.10522v1)**<br><sub>Yanzhe Chen, Zechen Bai, Zhijun Cao, Wenzheng Zeng, Kevin Qinghong Lin, Yiqi Lin, Guoqiang Liang, Kevin Yuchen Ma, Qiming Huang, Mike Zheng Shou</sub> | cs.RO | 2026-09-09 | [pdf](https://arxiv.org/pdf/2609.10522v1) · [abs](https://arxiv.org/abs/2609.10522v1) |
+| 1 | **[SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://arxiv.org/pdf/2609.11929v1)**<br><sub>Haiwen Diao, Jiahao Wang, Chenjing Ding, Hanming Deng, Jiangnan Chen, Ruixi Zhang, Ruohui Wang, Wenwen Tong, Xiangyu Fan, Yubo Wang, Yue Zhu, Yuwei Niu, Zhengqi Bai, Zhiqian Lin, Zhitao Yang, Zhongang Cai, Bo Yang, Chen Feng, Chengguang Lv, Guangjia Liu, Guanlin Wang, Hanyu Zhang, Haojia Yu, Hongcan Xiao, Hongli Wang, Huan Wu, Huaping Zhong, Jian Fang, Jianan Fan, Jiaqi Li, Jiefan Lu, Jing Zuo, Jingcheng Ni, Junxiang Xu, Linjun Dai, Mutian Xu, Peishen Yan, Penghao Wu, Ruijie Mao, Ruisi Wang, Shihao Bai, Shuang Yang, Shuya Yang, Shuyan Zheng, Silei Wu, Siying Li, Tao Chu, Tianbo Zhong, Tongxi Zhou, Weichao Luo, Weichen Fan, Wenhao Jia, Wenjie Gao, Xiangli Kong, Yan Li, Yang Yong, Zimo Wen, Zixuan Qian, Wenxiu Sun, Ruihao Gong, Quan Wang, Lewei Lu, Lei Yang, Ziwei Liu, Dahua Lin</sub> | cs.CV | 2026-09-10 | [pdf](https://arxiv.org/pdf/2609.11929v1) · [abs](https://arxiv.org/abs/2609.11929v1) |
+| 2 | **[MindTopo: Can Foundation Models Reason in Topological Space?](https://arxiv.org/pdf/2609.11900v1)**<br><sub>Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Jianwen Lyu, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li</sub> | cs.AI | 2026-09-10 | [pdf](https://arxiv.org/pdf/2609.11900v1) · [abs](https://arxiv.org/abs/2609.11900v1) |
+| 3 | **[3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/pdf/2609.11894v1)**<br><sub>Adnan Armouti, Yixuan Gao, Rajalakshmi Nandakumar</sub> | cs.CV | 2026-09-10 | [pdf](https://arxiv.org/pdf/2609.11894v1) · [abs](https://arxiv.org/abs/2609.11894v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
