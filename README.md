@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-12 10:37 UTC_
+_Last updated: 2026-09-13 11:41 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://arxiv.org/pdf/2609.11929v1)**<br><sub>Haiwen Diao, Jiahao Wang, Chenjing Ding, Hanming Deng, Jiangnan Chen, Ruixi Zhang, Ruohui Wang, Wenwen Tong, Xiangyu Fan, Yubo Wang, Yue Zhu, Yuwei Niu, Zhengqi Bai, Zhiqian Lin, Zhitao Yang, Zhongang Cai, Bo Yang, Chen Feng, Chengguang Lv, Guangjia Liu, Guanlin Wang, Hanyu Zhang, Haojia Yu, Hongcan Xiao, Hongli Wang, Huan Wu, Huaping Zhong, Jian Fang, Jianan Fan, Jiaqi Li, Jiefan Lu, Jing Zuo, Jingcheng Ni, Junxiang Xu, Linjun Dai, Mutian Xu, Peishen Yan, Penghao Wu, Ruijie Mao, Ruisi Wang, Shihao Bai, Shuang Yang, Shuya Yang, Shuyan Zheng, Silei Wu, Siying Li, Tao Chu, Tianbo Zhong, Tongxi Zhou, Weichao Luo, Weichen Fan, Wenhao Jia, Wenjie Gao, Xiangli Kong, Yan Li, Yang Yong, Zimo Wen, Zixuan Qian, Wenxiu Sun, Ruihao Gong, Quan Wang, Lewei Lu, Lei Yang, Ziwei Liu, Dahua Lin</sub> | cs.CV | 2026-09-10 | [pdf](https://arxiv.org/pdf/2609.11929v1) · [abs](https://arxiv.org/abs/2609.11929v1) |
-| 2 | **[MindTopo: Can Foundation Models Reason in Topological Space?](https://arxiv.org/pdf/2609.11900v1)**<br><sub>Yunfei Ge, Anbang Liu, Qineng Wang, Johnalbert Garnica, Jianwen Lyu, Zihan Wang, Reuben Tan, Jianfeng Gao, Ruohan Zhang, Yining Hong, Jiajun Wu, Manling Li</sub> | cs.AI | 2026-09-10 | [pdf](https://arxiv.org/pdf/2609.11900v1) · [abs](https://arxiv.org/abs/2609.11900v1) |
-| 3 | **[3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/pdf/2609.11894v1)**<br><sub>Adnan Armouti, Yixuan Gao, Rajalakshmi Nandakumar</sub> | cs.CV | 2026-09-10 | [pdf](https://arxiv.org/pdf/2609.11894v1) · [abs](https://arxiv.org/abs/2609.11894v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
