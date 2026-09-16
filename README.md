@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-15 11:36 UTC_
+_Last updated: 2026-09-16 11:23 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models](https://arxiv.org/pdf/2609.15980v1)**<br><sub>Xingyun Wang, Haomin Zheng, Man Yuan, Leqian Yang, Ziming Liu</sub> | cs.LG | 2026-09-14 | [pdf](https://arxiv.org/pdf/2609.15980v1) · [abs](https://arxiv.org/abs/2609.15980v1) |
-| 2 | **[Anatomical Grounding and Leakage-Aware Multimodal Contrastive Learning for Alzheimer's Disease Classification from Structural MRI](https://arxiv.org/pdf/2609.15888v1)**<br><sub>Paul-Gabriel Nicolae, Irina Georgiana Mocanu</sub> | cs.CV | 2026-09-14 | [pdf](https://arxiv.org/pdf/2609.15888v1) · [abs](https://arxiv.org/abs/2609.15888v1) |
-| 3 | **[LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows](https://arxiv.org/pdf/2609.15863v1)**<br><sub>Xiaofeng Mao, Peijia Lin, Shaohao Rui, Yibo Zhang, Haibin Wan, Weijie Ma</sub> | cs.CV | 2026-09-14 | [pdf](https://arxiv.org/pdf/2609.15863v1) · [abs](https://arxiv.org/abs/2609.15863v1) |
+| 1 | **[PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control](https://arxiv.org/pdf/2609.17521v1)**<br><sub>Chuhao Chen, Peter Wonka, Chaoyang Wang, Chen Wang, Qiao Feng, Sergey Tulyakov, Lingjie Liu</sub> | cs.CV | 2026-09-15 | [pdf](https://arxiv.org/pdf/2609.17521v1) · [abs](https://arxiv.org/abs/2609.17521v1) |
+| 2 | **[Tables Decoded: DELTA for Structure, TARQA for Understanding](https://arxiv.org/pdf/2609.17458v1)**<br><sub>Jahanvi Rajput, Dhruv Kudale, Saikiran Kasturi, Utkarsh Verma, Ganesh Ramakrishnan</sub> | cs.CV | 2026-09-15 | [pdf](https://arxiv.org/pdf/2609.17458v1) · [abs](https://arxiv.org/abs/2609.17458v1) |
+| 3 | **[BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models](https://arxiv.org/pdf/2609.17443v1)**<br><sub>Yihui Peng, Guorui Lu, Qinyu Chen</sub> | cs.CV | 2026-09-15 | [pdf](https://arxiv.org/pdf/2609.17443v1) · [abs](https://arxiv.org/abs/2609.17443v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
