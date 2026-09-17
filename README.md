@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-16 11:23 UTC_
+_Last updated: 2026-09-17 11:31 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control](https://arxiv.org/pdf/2609.17521v1)**<br><sub>Chuhao Chen, Peter Wonka, Chaoyang Wang, Chen Wang, Qiao Feng, Sergey Tulyakov, Lingjie Liu</sub> | cs.CV | 2026-09-15 | [pdf](https://arxiv.org/pdf/2609.17521v1) · [abs](https://arxiv.org/abs/2609.17521v1) |
-| 2 | **[Tables Decoded: DELTA for Structure, TARQA for Understanding](https://arxiv.org/pdf/2609.17458v1)**<br><sub>Jahanvi Rajput, Dhruv Kudale, Saikiran Kasturi, Utkarsh Verma, Ganesh Ramakrishnan</sub> | cs.CV | 2026-09-15 | [pdf](https://arxiv.org/pdf/2609.17458v1) · [abs](https://arxiv.org/abs/2609.17458v1) |
-| 3 | **[BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models](https://arxiv.org/pdf/2609.17443v1)**<br><sub>Yihui Peng, Guorui Lu, Qinyu Chen</sub> | cs.CV | 2026-09-15 | [pdf](https://arxiv.org/pdf/2609.17443v1) · [abs](https://arxiv.org/abs/2609.17443v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
