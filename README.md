@@ -121,10 +121,14 @@ Python   14 mins               ████████████████�
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-28 13:42 UTC_
+_Last updated: 2026-09-29 12:40 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](https://arxiv.org/pdf/2609.35770v1)**<br><sub>Srinjay Sarkar, Prakhar Kaushik, Soumava Paul, Alan Yuille</sub> | cs.CV | 2026-09-28 | [pdf](https://arxiv.org/pdf/2609.35770v1) · [abs](https://arxiv.org/abs/2609.35770v1) |
+| 2 | **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](https://arxiv.org/pdf/2609.35768v1)**<br><sub>Zimo Wang, Junkun Yuan, Angtian Wang, Haotian Yang, Canyu Zhang, Siyuan Yuan, Xingchang Huang, Bo Liu, Yizhi Wang, Yiding Yang, Chongyang Ma, Gordon Guocheng Qian</sub> | cs.CV | 2026-09-28 | [pdf](https://arxiv.org/pdf/2609.35768v1) · [abs](https://arxiv.org/abs/2609.35768v1) |
+| 3 | **[Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning](https://arxiv.org/pdf/2609.35767v1)**<br><sub>Yijia Fan, Ziqi Huang, Zhongang Cai, Yan Li, Zimo Wen, Wanqi Yin, Haiwen Diao, Ziwei Liu</sub> | cs.CV | 2026-09-28 | [pdf](https://arxiv.org/pdf/2609.35767v1) · [abs](https://arxiv.org/abs/2609.35767v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
