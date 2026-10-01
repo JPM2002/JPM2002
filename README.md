@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-09-30 12:25 UTC_
+_Last updated: 2026-10-01 13:00 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](https://arxiv.org/pdf/2609.38177v1)**<br><sub>Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom Kim, Minkyeong Jeon, Heeseong Shin, Wonjun Moon, Federico Tombari, Daniel Barath, Marc Pollefeys, Seungryong Kim, Sunghwan Hong</sub> | cs.CV | 2026-09-29 | [pdf](https://arxiv.org/pdf/2609.38177v1) · [abs](https://arxiv.org/abs/2609.38177v1) |
-| 2 | **[Adversarial Training for Pixel Diffusion](https://arxiv.org/pdf/2609.38170v1)**<br><sub>Xin Lin, Zhifei Zhang, Yuqian Zhou, Haitian Zheng, Zhe Lin, Ming-Hsuan Yang, Truong Nguyen</sub> | cs.CV | 2026-09-29 | [pdf](https://arxiv.org/pdf/2609.38170v1) · [abs](https://arxiv.org/abs/2609.38170v1) |
-| 3 | **[Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data](https://arxiv.org/pdf/2609.38165v1)**<br><sub>Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini</sub> | cs.CV | 2026-09-29 | [pdf](https://arxiv.org/pdf/2609.38165v1) · [abs](https://arxiv.org/abs/2609.38165v1) |
+| 1 | **[Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces](https://arxiv.org/pdf/2609.40362v1)**<br><sub>Hongyuan Tao, Xinggang Wang, Lianghui Zhu, Yongkang Li, Yunchao Wei, Bin Feng, Shaoyu Chen, Qian Zhang, Chang Huang, Kai Yu</sub> | cs.CV | 2026-09-30 | [pdf](https://arxiv.org/pdf/2609.40362v1) · [abs](https://arxiv.org/abs/2609.40362v1) |
+| 2 | **[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](https://arxiv.org/pdf/2609.40361v1)**<br><sub>Tian Xia, Minghao Liu, Yiqing Liang, Laixi Shi, Jiayun Wang</sub> | cs.LG | 2026-09-30 | [pdf](https://arxiv.org/pdf/2609.40361v1) · [abs](https://arxiv.org/abs/2609.40361v1) |
+| 3 | **[Image Classifiers are Efficient Self-Supervised Video Representation Learners](https://arxiv.org/pdf/2609.40347v1)**<br><sub>Owais Iqbal, Sudipta Sarkar, Shyam Marjit, Omprakash Chakraborty, Anirban Chakraborty, Abir Das</sub> | cs.CV | 2026-09-30 | [pdf](https://arxiv.org/pdf/2609.40347v1) · [abs](https://arxiv.org/abs/2609.40347v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
