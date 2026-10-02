@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-01 13:00 UTC_
+_Last updated: 2026-10-02 12:22 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces](https://arxiv.org/pdf/2609.40362v1)**<br><sub>Hongyuan Tao, Xinggang Wang, Lianghui Zhu, Yongkang Li, Yunchao Wei, Bin Feng, Shaoyu Chen, Qian Zhang, Chang Huang, Kai Yu</sub> | cs.CV | 2026-09-30 | [pdf](https://arxiv.org/pdf/2609.40362v1) · [abs](https://arxiv.org/abs/2609.40362v1) |
-| 2 | **[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](https://arxiv.org/pdf/2609.40361v1)**<br><sub>Tian Xia, Minghao Liu, Yiqing Liang, Laixi Shi, Jiayun Wang</sub> | cs.LG | 2026-09-30 | [pdf](https://arxiv.org/pdf/2609.40361v1) · [abs](https://arxiv.org/abs/2609.40361v1) |
-| 3 | **[Image Classifiers are Efficient Self-Supervised Video Representation Learners](https://arxiv.org/pdf/2609.40347v1)**<br><sub>Owais Iqbal, Sudipta Sarkar, Shyam Marjit, Omprakash Chakraborty, Anirban Chakraborty, Abir Das</sub> | cs.CV | 2026-09-30 | [pdf](https://arxiv.org/pdf/2609.40347v1) · [abs](https://arxiv.org/abs/2609.40347v1) |
+| 1 | **[Moore, Escher, Penrose: A Conformal Golden Braid](https://arxiv.org/pdf/2610.02210v1)**<br><sub>Sophia Feldman, Assaf Shocher</sub> | cs.CV | 2026-10-01 | [pdf](https://arxiv.org/pdf/2610.02210v1) · [abs](https://arxiv.org/abs/2610.02210v1) |
+| 2 | **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](https://arxiv.org/pdf/2610.02207v1)**<br><sub>Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev</sub> | cs.CV | 2026-10-01 | [pdf](https://arxiv.org/pdf/2610.02207v1) · [abs](https://arxiv.org/abs/2610.02207v1) |
+| 3 | **[Embedding Prediction Helps Image Generation](https://arxiv.org/pdf/2610.02203v1)**<br><sub>Sihan Xu, Ji Xie, Zilin Wang, Hui Shen, Stella X. Yu</sub> | cs.CV | 2026-10-01 | [pdf](https://arxiv.org/pdf/2610.02203v1) · [abs](https://arxiv.org/abs/2610.02203v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
