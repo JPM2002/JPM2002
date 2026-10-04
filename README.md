@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-03 11:32 UTC_
+_Last updated: 2026-10-04 12:14 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Moore, Escher, Penrose: A Conformal Golden Braid](https://arxiv.org/pdf/2610.02210v1)**<br><sub>Sophia Feldman, Assaf Shocher</sub> | cs.CV | 2026-10-01 | [pdf](https://arxiv.org/pdf/2610.02210v1) · [abs](https://arxiv.org/abs/2610.02210v1) |
-| 2 | **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](https://arxiv.org/pdf/2610.02207v1)**<br><sub>Ramazan Fazylov, Stamatis Lefkimmiatis, Ivan Laptev</sub> | cs.CV | 2026-10-01 | [pdf](https://arxiv.org/pdf/2610.02207v1) · [abs](https://arxiv.org/abs/2610.02207v1) |
-| 3 | **[Embedding Prediction Helps Image Generation](https://arxiv.org/pdf/2610.02203v1)**<br><sub>Sihan Xu, Ji Xie, Zilin Wang, Hui Shen, Stella X. Yu</sub> | cs.CV | 2026-10-01 | [pdf](https://arxiv.org/pdf/2610.02203v1) · [abs](https://arxiv.org/abs/2610.02203v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
