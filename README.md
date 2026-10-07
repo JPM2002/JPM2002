@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-06 13:12 UTC_
+_Last updated: 2026-10-07 13:10 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation](https://arxiv.org/pdf/2610.06850v1)**<br><sub>Yucheng Zhang, Sirui Xu, Jinhong Li, Liuyu Bian, Anatulya Nandi, Derek Zhang, Xiangchen Liu, Xueting Li, Umar Iqbal, Yu-Xiong Wang, Liang-Yan Gui</sub> | cs.RO | 2026-10-05 | [pdf](https://arxiv.org/pdf/2610.06850v1) · [abs](https://arxiv.org/abs/2610.06850v1) |
-| 2 | **[S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation](https://arxiv.org/pdf/2610.06847v1)**<br><sub>Jeffrey Hu, Daniel Olmeda Reino, Ayush Tewari</sub> | cs.CV | 2026-10-05 | [pdf](https://arxiv.org/pdf/2610.06847v1) · [abs](https://arxiv.org/abs/2610.06847v1) |
-| 3 | **[Learning to Read the Contextual Tokens in Diffusion Transformers](https://arxiv.org/pdf/2610.06844v1)**<br><sub>Omer Dahary, Etai Sella, Hadar Averbuch-Elor, Daniel Cohen-Or, Or Patashnik</sub> | cs.CV | 2026-10-05 | [pdf](https://arxiv.org/pdf/2610.06844v1) · [abs](https://arxiv.org/abs/2610.06844v1) |
+| 1 | **[World Models' Last Exam in Physics](https://arxiv.org/pdf/2610.08791v1)**<br><sub>Mingju Gao, Qingle Liu, Yuzhao Peng, Xinjie Lin, Ziming Qin, Zheng Jiang, Wenyi Li, Calvin Xiao, Youjie Zheng, Kaisen Yang, Qinhuai Na</sub> | cs.CV | 2026-10-06 | [pdf](https://arxiv.org/pdf/2610.08791v1) · [abs](https://arxiv.org/abs/2610.08791v1) |
+| 2 | **[4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](https://arxiv.org/pdf/2610.08782v1)**<br><sub>Shiqi Li, Sean Cho, Yijie Li, Fengzhi Guo, Bowen Wen, Cheng Zhang</sub> | cs.CV | 2026-10-06 | [pdf](https://arxiv.org/pdf/2610.08782v1) · [abs](https://arxiv.org/abs/2610.08782v1) |
+| 3 | **[DepthWorld: 3D World Model for Robot Manipulation](https://arxiv.org/pdf/2610.08780v1)**<br><sub>Jai Bardhan, Josef Sivic, Vladimir Petrik</sub> | cs.RO | 2026-10-06 | [pdf](https://arxiv.org/pdf/2610.08780v1) · [abs](https://arxiv.org/abs/2610.08780v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
