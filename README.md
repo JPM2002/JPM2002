@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-07 13:10 UTC_
+_Last updated: 2026-10-08 13:17 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[World Models' Last Exam in Physics](https://arxiv.org/pdf/2610.08791v1)**<br><sub>Mingju Gao, Qingle Liu, Yuzhao Peng, Xinjie Lin, Ziming Qin, Zheng Jiang, Wenyi Li, Calvin Xiao, Youjie Zheng, Kaisen Yang, Qinhuai Na</sub> | cs.CV | 2026-10-06 | [pdf](https://arxiv.org/pdf/2610.08791v1) · [abs](https://arxiv.org/abs/2610.08791v1) |
-| 2 | **[4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](https://arxiv.org/pdf/2610.08782v1)**<br><sub>Shiqi Li, Sean Cho, Yijie Li, Fengzhi Guo, Bowen Wen, Cheng Zhang</sub> | cs.CV | 2026-10-06 | [pdf](https://arxiv.org/pdf/2610.08782v1) · [abs](https://arxiv.org/abs/2610.08782v1) |
-| 3 | **[DepthWorld: 3D World Model for Robot Manipulation](https://arxiv.org/pdf/2610.08780v1)**<br><sub>Jai Bardhan, Josef Sivic, Vladimir Petrik</sub> | cs.RO | 2026-10-06 | [pdf](https://arxiv.org/pdf/2610.08780v1) · [abs](https://arxiv.org/abs/2610.08780v1) |
+| 1 | **[Long-WAM: Scaling the Context of World-Action Models](https://arxiv.org/pdf/2610.10528v1)**<br><sub>Wei Huang, Bohan Zhang, Chenzhi Liu, Isabella Liu, Shuai Yang, Weian Mao, Luozhou Wang, Yicheng Xiao, Weifeng Lin, Qixin Hu, Bryan Chu, Sifei Liu, Linxi Fan, Xiaojuan Qi, Song Han, Yukang Chen</sub> | cs.RO | 2026-10-07 | [pdf](https://arxiv.org/pdf/2610.10528v1) · [abs](https://arxiv.org/abs/2610.10528v1) |
+| 2 | **[GRACE: Generation-aware latent compression for efficient video generation](https://arxiv.org/pdf/2610.10524v1)**<br><sub>Jiyoung Kim, Paul Hyunbin Cho, Jisu Nam, Donghoon Lee, Hyunsung Go, Yeonkyeong Lee, Hansaem Kim, Seungryong Kim</sub> | cs.CV | 2026-10-07 | [pdf](https://arxiv.org/pdf/2610.10524v1) · [abs](https://arxiv.org/abs/2610.10524v1) |
+| 3 | **[Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery](https://arxiv.org/pdf/2610.10512v1)**<br><sub>Chen Xu, Yunqi Li, Binbin Huang, Brent Yi, Shenghua Gao, Yi Ma</sub> | cs.CV | 2026-10-07 | [pdf](https://arxiv.org/pdf/2610.10512v1) · [abs](https://arxiv.org/abs/2610.10512v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
