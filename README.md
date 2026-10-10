@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-09 13:06 UTC_
+_Last updated: 2026-10-10 12:21 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration](https://arxiv.org/pdf/2610.12470v1)**<br><sub>Jusuk Lee, Sungha Kim, Yeonsoo Park, Jonguk Cheon, Yoonkyo Jung, Yongjun You, H. Jin Kim, Jia-Bin Huang, Furong Huang, Youngseok Jang, Seungjae Lee</sub> | cs.RO | 2026-10-08 | [pdf](https://arxiv.org/pdf/2610.12470v1) · [abs](https://arxiv.org/abs/2610.12470v1) |
+| 2 | **[DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training](https://arxiv.org/pdf/2610.12468v1)**<br><sub>Junyan Li, Ruizhi Li, Yu Liu, Xiangshuo Liu, Mingchao Sun, Hongyu Pan, Mu Xu, Lue Fan, Zhaoxiang Zhang</sub> | cs.RO | 2026-10-08 | [pdf](https://arxiv.org/pdf/2610.12468v1) · [abs](https://arxiv.org/abs/2610.12468v1) |
+| 3 | **[OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://arxiv.org/pdf/2610.12461v1)**<br><sub>You-Zhe Xie, Ting-Wei Chou, Yu-Hsuan Li, Kaipeng Zhang, Zhixiang Wang, Yu-Lun Liu</sub> | cs.CV | 2026-10-08 | [pdf](https://arxiv.org/pdf/2610.12461v1) · [abs](https://arxiv.org/abs/2610.12461v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
