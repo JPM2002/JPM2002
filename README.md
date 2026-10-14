@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-13 14:03 UTC_
+_Last updated: 2026-10-14 11:41 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[ChunkAct: Action Chunking for Agentic Robotics](https://arxiv.org/pdf/2610.18874v1)**<br><sub>Bingxin Xu, Wenrui Bao, Xinxin Liu, Jiawei Zhou, Yuzhang Shang, Emilio Ferrara</sub> | cs.RO | 2026-10-13 | [pdf](https://arxiv.org/pdf/2610.18874v1) · [abs](https://arxiv.org/abs/2610.18874v1) |
+| 2 | **[LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts](https://arxiv.org/pdf/2610.18873v1)**<br><sub>Wenxuan Guo, Yingping Liang, Zhaoguo Wang, Ziyuan Li, Angyuan Ma, Zhenyu Wu, Chengkun Wang, Bingyao Yu, Ze Chen, Borui Zhang, Xiuwei Xu, Meng Zhang, Erjin Zhou, Jiwen Lu</sub> | cs.RO | 2026-10-13 | [pdf](https://arxiv.org/pdf/2610.18873v1) · [abs](https://arxiv.org/abs/2610.18873v1) |
+| 3 | **[EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ](https://arxiv.org/pdf/2610.18872v1)**<br><sub>Yunsong Zhou, Xuekun Jiang, Haiqi Shen, Hangxu Liu, Chaojian Shi, Yujie Liu, Jingyuan Li, Haoran Yang, Jiafei Cao, Dongzhan Zhou, Dong Wang, Yao Mu, Chunhua Shen, Weinan Zhang</sub> | cs.RO | 2026-10-13 | [pdf](https://arxiv.org/pdf/2610.18872v1) · [abs](https://arxiv.org/abs/2610.18872v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
