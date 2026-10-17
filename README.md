@@ -121,7 +121,7 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-16 11:13 UTC_
+_Last updated: 2026-10-17 10:31 UTC_
 
 
 | # | Title | Cat. | Date | Links |
