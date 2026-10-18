@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-17 10:31 UTC_
+_Last updated: 2026-10-18 10:53 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation](https://arxiv.org/pdf/2610.22370v1)**<br><sub>SeungJu Cha, Ye-Chan Kim, HyunGee Kim, Sungho Koh, Dong-Jin Kim</sub> | cs.CV | 2026-10-15 | [pdf](https://arxiv.org/pdf/2610.22370v1) · [abs](https://arxiv.org/abs/2610.22370v1) |
-| 2 | **[SoftCache: Adaptive Step Size Caching for Diffusion Transformers](https://arxiv.org/pdf/2610.22369v1)**<br><sub>Shimon Malnick, Nadav Orenstein, Ohad Fried, Shai Avidan</sub> | cs.CV | 2026-10-15 | [pdf](https://arxiv.org/pdf/2610.22369v1) · [abs](https://arxiv.org/abs/2610.22369v1) |
-| 3 | **[T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](https://arxiv.org/pdf/2610.22364v1)**<br><sub>Chenyuan Zhou, Yining Hong, Huang Huang, Yunfan Jiang, Wenlong Huang, David Held, Vitor Campagnolo Guizilini, Yue Wang, Li Fei-Fei, Jiajun Wu, Leonidas Guibas, Yejin Choi</sub> | cs.RO | 2026-10-15 | [pdf](https://arxiv.org/pdf/2610.22364v1) · [abs](https://arxiv.org/abs/2610.22364v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
