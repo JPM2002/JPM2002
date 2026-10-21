@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-20 11:23 UTC_
+_Last updated: 2026-10-21 11:38 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](https://arxiv.org/pdf/2610.28632v1)**<br><sub>Noam Rotstein, Yoad Tewel, Chen Tessler, Haggai Maron, Gal Chechik, Or Litany, Yoni Kasten, Yuval Atzmon</sub> | cs.CV | 2026-10-20 | [pdf](https://arxiv.org/pdf/2610.28632v1) · [abs](https://arxiv.org/abs/2610.28632v1) |
+| 2 | **[SolarRenderer: Few-Step Generative Reference Rendering](https://arxiv.org/pdf/2610.28630v1)**<br><sub>Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao Jiang, Xin Wang, Yiren Song, Li Jiang, Mike Zheng Shou</sub> | cs.CV | 2026-10-20 | [pdf](https://arxiv.org/pdf/2610.28630v1) · [abs](https://arxiv.org/abs/2610.28630v1) |
+| 3 | **[Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](https://arxiv.org/pdf/2610.28628v1)**<br><sub>Yuxuan Kuang, Jiashun Wang, Yixuan Sun, Yufei Ye, Sungjae Park, Umar Iqbal, Katerina Fragkiadaki, Shubham Tulsiani</sub> | cs.RO | 2026-10-20 | [pdf](https://arxiv.org/pdf/2610.28628v1) · [abs](https://arxiv.org/abs/2610.28628v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
