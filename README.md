@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-22 11:39 UTC_
+_Last updated: 2026-10-23 11:28 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Rethinking Video Autoencoders for Interactive World Models](https://arxiv.org/pdf/2610.30129v1)**<br><sub>Adrien Ramanana Rahary, Yutong Bai, Nicolas Dufour, Patrick Pérez, David Picard</sub> | cs.CV | 2026-10-21 | [pdf](https://arxiv.org/pdf/2610.30129v1) · [abs](https://arxiv.org/abs/2610.30129v1) |
-| 2 | **[PhysiCalWorld: In-Context Physics Calibration for World Models](https://arxiv.org/pdf/2610.30125v1)**<br><sub>Yunhao Luo, Wentao He, Yinpei Dai, Hyelin Nam, Hongze Fu, Joyce Chai, Nima Fazeli, Jeong Joon Park</sub> | cs.RO | 2026-10-21 | [pdf](https://arxiv.org/pdf/2610.30125v1) · [abs](https://arxiv.org/abs/2610.30125v1) |
-| 3 | **[AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation](https://arxiv.org/pdf/2610.30097v1)**<br><sub>Likui Zhang, Zhe Zhu, Zhihao Zhan, Yibo Bai, Hanlin Wang, Dongwei Li, Bin Wang, Tianle Zhang, Xiaodan Liang, Liang Lin</sub> | cs.RO | 2026-10-21 | [pdf](https://arxiv.org/pdf/2610.30097v1) · [abs](https://arxiv.org/abs/2610.30097v1) |
+| 1 | **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://arxiv.org/pdf/2610.31670v1)**<br><sub>Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei</sub> | cs.CV | 2026-10-22 | [pdf](https://arxiv.org/pdf/2610.31670v1) · [abs](https://arxiv.org/abs/2610.31670v1) |
+| 2 | **[Reading, Writing, Sharing, and Interacting with the World through Video](https://arxiv.org/pdf/2610.31668v1)**<br><sub>Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan, Ming-Hsuan Yang, Philip Torr, Hao Fei</sub> | cs.CV | 2026-10-22 | [pdf](https://arxiv.org/pdf/2610.31668v1) · [abs](https://arxiv.org/abs/2610.31668v1) |
+| 3 | **[SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing](https://arxiv.org/pdf/2610.31659v1)**<br><sub>Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe, Huy Nghiem, Yongkyun Lee, Andrew Adams Schoen, Furong Huang</sub> | cs.CV | 2026-10-22 | [pdf](https://arxiv.org/pdf/2610.31659v1) · [abs](https://arxiv.org/abs/2610.31659v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
