@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-24 10:47 UTC_
+_Last updated: 2026-10-25 11:13 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://arxiv.org/pdf/2610.31670v1)**<br><sub>Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei</sub> | cs.CV | 2026-10-22 | [pdf](https://arxiv.org/pdf/2610.31670v1) · [abs](https://arxiv.org/abs/2610.31670v1) |
-| 2 | **[Reading, Writing, Sharing, and Interacting with the World through Video](https://arxiv.org/pdf/2610.31668v1)**<br><sub>Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan, Ming-Hsuan Yang, Philip Torr, Hao Fei</sub> | cs.CV | 2026-10-22 | [pdf](https://arxiv.org/pdf/2610.31668v1) · [abs](https://arxiv.org/abs/2610.31668v1) |
-| 3 | **[SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing](https://arxiv.org/pdf/2610.31659v1)**<br><sub>Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe, Huy Nghiem, Yongkyun Lee, Andrew Adams Schoen, Furong Huang</sub> | cs.CV | 2026-10-22 | [pdf](https://arxiv.org/pdf/2610.31659v1) · [abs](https://arxiv.org/abs/2610.31659v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
