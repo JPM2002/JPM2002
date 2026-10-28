@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-27 12:00 UTC_
+_Last updated: 2026-10-28 12:40 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation](https://arxiv.org/pdf/2610.35864v1)**<br><sub>Muxi Diao, Wenbin Xu, Lele Yang, Xuyang Ma, Yuzhe Chen, Jiankang Chen, Kaiyu Jiang, Changyi Liu, Haoyu Zhang, Hongyi Fu, Jianxiong Wang, Tianke Zhang, Haonan Fan, Yingxin Li, Bingyi Li, Xu Wang, Xuanyu Zheng, Bin Wen, Tingting Gao, Han Li, Wentao Zhang, Weiran Xu, Kongming Liang, Zhanyu Ma</sub> | cs.CV | 2026-10-26 | [pdf](https://arxiv.org/pdf/2610.35864v1) · [abs](https://arxiv.org/abs/2610.35864v1) |
-| 2 | **[Do vision models know that three is three?](https://arxiv.org/pdf/2610.35857v1)**<br><sub>Ankit Sonthalia, Arnas Uselis, Seong Joon Oh</sub> | cs.CV | 2026-10-26 | [pdf](https://arxiv.org/pdf/2610.35857v1) · [abs](https://arxiv.org/abs/2610.35857v1) |
-| 3 | **[FL4N: Feed-forward Latent Model for 4D Novel View Synthesis](https://arxiv.org/pdf/2610.35854v1)**<br><sub>Eunbeen Hong, Hyeonseo Yu, Honggyu An, Jooho Son, Hyunah Ko, Soowon Son, Chaehyun Kim, Jahyeok Koo, Jisoo Kim, Junhwa Hur, Seungryong Kim</sub> | cs.CV | 2026-10-26 | [pdf](https://arxiv.org/pdf/2610.35854v1) · [abs](https://arxiv.org/abs/2610.35854v1) |
+| 1 | **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](https://arxiv.org/pdf/2610.37668v1)**<br><sub>Prakhar Kaushik, Soumava Paul, Alan Yuille</sub> | cs.CV | 2026-10-27 | [pdf](https://arxiv.org/pdf/2610.37668v1) · [abs](https://arxiv.org/abs/2610.37668v1) |
+| 2 | **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://arxiv.org/pdf/2610.37666v1)**<br><sub>Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen, Yu-Chiang Frank Wang, Seungryong Kim, Fu-En Yang</sub> | cs.RO | 2026-10-27 | [pdf](https://arxiv.org/pdf/2610.37666v1) · [abs](https://arxiv.org/abs/2610.37666v1) |
+| 3 | **[Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence](https://arxiv.org/pdf/2610.37633v1)**<br><sub>Siyoon Jin, Dahyun Chung, Honggyu An, Sangbeom Lim, Wonjin Nam, Jaewoo Jung, WonJun Moon, Seungryong Kim</sub> | cs.CV | 2026-10-27 | [pdf](https://arxiv.org/pdf/2610.37633v1) · [abs](https://arxiv.org/abs/2610.37633v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
