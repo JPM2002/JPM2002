@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-29 12:49 UTC_
+_Last updated: 2026-10-30 12:41 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](https://arxiv.org/pdf/2610.37668v1)**<br><sub>Prakhar Kaushik, Soumava Paul, Alan Yuille</sub> | cs.CV | 2026-10-27 | [pdf](https://arxiv.org/pdf/2610.37668v1) · [abs](https://arxiv.org/abs/2610.37668v1) |
-| 2 | **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://arxiv.org/pdf/2610.37666v1)**<br><sub>Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen, Yu-Chiang Frank Wang, Seungryong Kim, Fu-En Yang</sub> | cs.RO | 2026-10-27 | [pdf](https://arxiv.org/pdf/2610.37666v1) · [abs](https://arxiv.org/abs/2610.37666v1) |
-| 3 | **[Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence](https://arxiv.org/pdf/2610.37633v1)**<br><sub>Siyoon Jin, Dahyun Chung, Honggyu An, Sangbeom Lim, Wonjin Nam, Jaewoo Jung, WonJun Moon, Seungryong Kim</sub> | cs.CV | 2026-10-27 | [pdf](https://arxiv.org/pdf/2610.37633v1) · [abs](https://arxiv.org/abs/2610.37633v1) |
+| 1 | **[Rethinking Neural Thickets Without Weight Perturbations](https://arxiv.org/pdf/2610.40649v1)**<br><sub>Nicolas Dufour, Elouan Gardès, Amil Dravid, Patrick Pérez, Loic Landrieu</sub> | cs.LG | 2026-10-29 | [pdf](https://arxiv.org/pdf/2610.40649v1) · [abs](https://arxiv.org/abs/2610.40649v1) |
+| 2 | **[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](https://arxiv.org/pdf/2610.40647v1)**<br><sub>Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai, Ziwei Liu</sub> | cs.CV | 2026-10-29 | [pdf](https://arxiv.org/pdf/2610.40647v1) · [abs](https://arxiv.org/abs/2610.40647v1) |
+| 3 | **[SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization](https://arxiv.org/pdf/2610.40640v1)**<br><sub>Derong Jin, Xiyi Chen, Ming C. Lin, Ruohan Gao</sub> | cs.CV | 2026-10-29 | [pdf](https://arxiv.org/pdf/2610.40640v1) · [abs](https://arxiv.org/abs/2610.40640v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
