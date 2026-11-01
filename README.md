@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-10-31 12:11 UTC_
+_Last updated: 2026-11-01 13:09 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Rethinking Neural Thickets Without Weight Perturbations](https://arxiv.org/pdf/2610.40649v1)**<br><sub>Nicolas Dufour, Elouan Gardès, Amil Dravid, Patrick Pérez, Loic Landrieu</sub> | cs.LG | 2026-10-29 | [pdf](https://arxiv.org/pdf/2610.40649v1) · [abs](https://arxiv.org/abs/2610.40649v1) |
-| 2 | **[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](https://arxiv.org/pdf/2610.40647v1)**<br><sub>Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai, Ziwei Liu</sub> | cs.CV | 2026-10-29 | [pdf](https://arxiv.org/pdf/2610.40647v1) · [abs](https://arxiv.org/abs/2610.40647v1) |
-| 3 | **[SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization](https://arxiv.org/pdf/2610.40640v1)**<br><sub>Derong Jin, Xiyi Chen, Ming C. Lin, Ruohan Gao</sub> | cs.CV | 2026-10-29 | [pdf](https://arxiv.org/pdf/2610.40640v1) · [abs](https://arxiv.org/abs/2610.40640v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
