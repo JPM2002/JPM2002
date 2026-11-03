@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-02 15:34 UTC_
+_Last updated: 2026-11-03 14:00 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](https://arxiv.org/pdf/2611.03647v1)**<br><sub>Jason Jingzhou Liu, Tony Tao, Deepak Pathak, Ruslan Salakhutdinov</sub> | cs.RO | 2026-11-02 | [pdf](https://arxiv.org/pdf/2611.03647v1) · [abs](https://arxiv.org/abs/2611.03647v1) |
+| 2 | **[Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation](https://arxiv.org/pdf/2611.03648v1)**<br><sub>Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov, Deepak Pathak</sub> | cs.RO | 2026-11-02 | [pdf](https://arxiv.org/pdf/2611.03648v1) · [abs](https://arxiv.org/abs/2611.03648v1) |
+| 3 | **[EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos](https://arxiv.org/pdf/2611.03646v1)**<br><sub>Yujiao Shen, Jiahe Song, Haitian Li, Jingkang Yang, Ziwei Liu</sub> | cs.CV | 2026-11-02 | [pdf](https://arxiv.org/pdf/2611.03646v1) · [abs](https://arxiv.org/abs/2611.03646v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
