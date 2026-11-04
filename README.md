@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-03 14:00 UTC_
+_Last updated: 2026-11-04 14:19 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](https://arxiv.org/pdf/2611.03647v1)**<br><sub>Jason Jingzhou Liu, Tony Tao, Deepak Pathak, Ruslan Salakhutdinov</sub> | cs.RO | 2026-11-02 | [pdf](https://arxiv.org/pdf/2611.03647v1) · [abs](https://arxiv.org/abs/2611.03647v1) |
-| 2 | **[Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation](https://arxiv.org/pdf/2611.03648v1)**<br><sub>Tony Tao, Jason Jingzhou Liu, Ruslan Salakhutdinov, Deepak Pathak</sub> | cs.RO | 2026-11-02 | [pdf](https://arxiv.org/pdf/2611.03648v1) · [abs](https://arxiv.org/abs/2611.03648v1) |
-| 3 | **[EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos](https://arxiv.org/pdf/2611.03646v1)**<br><sub>Yujiao Shen, Jiahe Song, Haitian Li, Jingkang Yang, Ziwei Liu</sub> | cs.CV | 2026-11-02 | [pdf](https://arxiv.org/pdf/2611.03646v1) · [abs](https://arxiv.org/abs/2611.03646v1) |
+| 1 | **[DreamX: Video Diffusion Model is a Universal Latent Action Learner](https://arxiv.org/pdf/2611.05377v1)**<br><sub>Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park, Seongchan Kim, Eunbeen Hong, Soowon Son, Fu-En Yang, Seungryong Kim</sub> | cs.CV | 2026-11-03 | [pdf](https://arxiv.org/pdf/2611.05377v1) · [abs](https://arxiv.org/abs/2611.05377v1) |
+| 2 | **[Möbius: A Unified Motion-Language Model Bridging Understanding and Generation](https://arxiv.org/pdf/2611.05279v1)**<br><sub>Jiazhi Shu, Chengfeng Zhao, Jinyi Wang, Yubo Zhao, Zhiyang Dou, Ronghui Li, Yu Lu, Xinwei Jiang, Zijiao Zeng, Yuan Liu</sub> | cs.CV | 2026-11-03 | [pdf](https://arxiv.org/pdf/2611.05279v1) · [abs](https://arxiv.org/abs/2611.05279v1) |
+| 3 | **[Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://arxiv.org/pdf/2611.05275v1)**<br><sub>Pengfei Zhou, Yixing Ma, Hexin Wang, Weidong Tang, Zhenglin Wan, Wangbo Zhao, Yang You</sub> | cs.CV | 2026-11-03 | [pdf](https://arxiv.org/pdf/2611.05275v1) · [abs](https://arxiv.org/abs/2611.05275v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
