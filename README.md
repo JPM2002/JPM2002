@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-04 14:19 UTC_
+_Last updated: 2026-11-05 14:29 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[DreamX: Video Diffusion Model is a Universal Latent Action Learner](https://arxiv.org/pdf/2611.05377v1)**<br><sub>Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park, Seongchan Kim, Eunbeen Hong, Soowon Son, Fu-En Yang, Seungryong Kim</sub> | cs.CV | 2026-11-03 | [pdf](https://arxiv.org/pdf/2611.05377v1) · [abs](https://arxiv.org/abs/2611.05377v1) |
-| 2 | **[Möbius: A Unified Motion-Language Model Bridging Understanding and Generation](https://arxiv.org/pdf/2611.05279v1)**<br><sub>Jiazhi Shu, Chengfeng Zhao, Jinyi Wang, Yubo Zhao, Zhiyang Dou, Ronghui Li, Yu Lu, Xinwei Jiang, Zijiao Zeng, Yuan Liu</sub> | cs.CV | 2026-11-03 | [pdf](https://arxiv.org/pdf/2611.05279v1) · [abs](https://arxiv.org/abs/2611.05279v1) |
-| 3 | **[Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://arxiv.org/pdf/2611.05275v1)**<br><sub>Pengfei Zhou, Yixing Ma, Hexin Wang, Weidong Tang, Zhenglin Wan, Wangbo Zhao, Yang You</sub> | cs.CV | 2026-11-03 | [pdf](https://arxiv.org/pdf/2611.05275v1) · [abs](https://arxiv.org/abs/2611.05275v1) |
+| 1 | **[From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://arxiv.org/pdf/2611.06918v1)**<br><sub>Weichen Fan, Haiwen Diao, Penghao Wu, Siyuan Hu, Ziqi Huang, Tianqi Liu, Mingze Sun, Ziyi Wang, Zhongang Cai, Hanming Deng, Quan Wang, Lei Yang, Lewei Lu, Fangzhou Hong, Zhaoxi Chen, Dahua Lin, Ziwei Liu</sub> | cs.CV | 2026-11-04 | [pdf](https://arxiv.org/pdf/2611.06918v1) · [abs](https://arxiv.org/abs/2611.06918v1) |
+| 2 | **[Perceptive Humanoid Motion from Simulation](https://arxiv.org/pdf/2611.06908v1)**<br><sub>Siyuan Hu, Abulikemu Abuduweili, Yue Meng, Shipeng Liu, Quentin Leboutet, Chen Chen, Matthias Müller, Vladlen Koltun</sub> | cs.RO | 2026-11-04 | [pdf](https://arxiv.org/pdf/2611.06908v1) · [abs](https://arxiv.org/abs/2611.06908v1) |
+| 3 | **[Motion-guided Contrastive Regularization For Latent World Models](https://arxiv.org/pdf/2611.06901v1)**<br><sub>Yiwen Chen, Qiqi Hou, Jisoo Jeong, Yinhao Zhu, Huaizu Jiang, Amir Said</sub> | cs.CV | 2026-11-04 | [pdf](https://arxiv.org/pdf/2611.06901v1) · [abs](https://arxiv.org/abs/2611.06901v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
