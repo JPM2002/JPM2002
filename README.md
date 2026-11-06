@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-05 14:29 UTC_
+_Last updated: 2026-11-06 14:08 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://arxiv.org/pdf/2611.06918v1)**<br><sub>Weichen Fan, Haiwen Diao, Penghao Wu, Siyuan Hu, Ziqi Huang, Tianqi Liu, Mingze Sun, Ziyi Wang, Zhongang Cai, Hanming Deng, Quan Wang, Lei Yang, Lewei Lu, Fangzhou Hong, Zhaoxi Chen, Dahua Lin, Ziwei Liu</sub> | cs.CV | 2026-11-04 | [pdf](https://arxiv.org/pdf/2611.06918v1) · [abs](https://arxiv.org/abs/2611.06918v1) |
-| 2 | **[Perceptive Humanoid Motion from Simulation](https://arxiv.org/pdf/2611.06908v1)**<br><sub>Siyuan Hu, Abulikemu Abuduweili, Yue Meng, Shipeng Liu, Quentin Leboutet, Chen Chen, Matthias Müller, Vladlen Koltun</sub> | cs.RO | 2026-11-04 | [pdf](https://arxiv.org/pdf/2611.06908v1) · [abs](https://arxiv.org/abs/2611.06908v1) |
-| 3 | **[Motion-guided Contrastive Regularization For Latent World Models](https://arxiv.org/pdf/2611.06901v1)**<br><sub>Yiwen Chen, Qiqi Hou, Jisoo Jeong, Yinhao Zhu, Huaizu Jiang, Amir Said</sub> | cs.CV | 2026-11-04 | [pdf](https://arxiv.org/pdf/2611.06901v1) · [abs](https://arxiv.org/abs/2611.06901v1) |
+| 1 | **[EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling](https://arxiv.org/pdf/2611.08477v1)**<br><sub>Yanlin Jin, Bowen Yang, Cheng Zhang, Yifan Yang, Zhe Li, Jianfei Cai, Kai Zhu</sub> | cs.CV | 2026-11-05 | [pdf](https://arxiv.org/pdf/2611.08477v1) · [abs](https://arxiv.org/abs/2611.08477v1) |
+| 2 | **[VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://arxiv.org/pdf/2611.08449v1)**<br><sub>Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang, Chiao-An Yang, Xianzhe Fan, Jing Wang, Zhiqi Li, Yuanguo Kuang, Ruijie Zheng, Johan Bjorck, Sifei Liu, Hang Su, Abhishek Badki, Lei Zhang, Alan Yuille, Linxi "Jim'' Fan, Jan Kautz, Zhiding Yu</sub> | cs.RO | 2026-11-05 | [pdf](https://arxiv.org/pdf/2611.08449v1) · [abs](https://arxiv.org/abs/2611.08449v1) |
+| 3 | **[Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception](https://arxiv.org/pdf/2611.08441v1)**<br><sub>Hongsen Cao, Chia-Yen Chiang, Mona Jaber, Meihui Wang, Yasmin Fathy</sub> | cs.CV | 2026-11-05 | [pdf](https://arxiv.org/pdf/2611.08441v1) · [abs](https://arxiv.org/abs/2611.08441v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
