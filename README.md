@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-07 12:51 UTC_
+_Last updated: 2026-11-08 13:12 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling](https://arxiv.org/pdf/2611.08477v1)**<br><sub>Yanlin Jin, Bowen Yang, Cheng Zhang, Yifan Yang, Zhe Li, Jianfei Cai, Kai Zhu</sub> | cs.CV | 2026-11-05 | [pdf](https://arxiv.org/pdf/2611.08477v1) · [abs](https://arxiv.org/abs/2611.08477v1) |
-| 2 | **[VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://arxiv.org/pdf/2611.08449v1)**<br><sub>Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang, Chiao-An Yang, Xianzhe Fan, Jing Wang, Zhiqi Li, Yuanguo Kuang, Ruijie Zheng, Johan Bjorck, Sifei Liu, Hang Su, Abhishek Badki, Lei Zhang, Alan Yuille, Linxi "Jim'' Fan, Jan Kautz, Zhiding Yu</sub> | cs.RO | 2026-11-05 | [pdf](https://arxiv.org/pdf/2611.08449v1) · [abs](https://arxiv.org/abs/2611.08449v1) |
-| 3 | **[Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception](https://arxiv.org/pdf/2611.08441v1)**<br><sub>Hongsen Cao, Chia-Yen Chiang, Mona Jaber, Meihui Wang, Yasmin Fathy</sub> | cs.CV | 2026-11-05 | [pdf](https://arxiv.org/pdf/2611.08441v1) · [abs](https://arxiv.org/abs/2611.08441v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
