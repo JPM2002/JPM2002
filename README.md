@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-09 16:00 UTC_
+_Last updated: 2026-11-10 14:44 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning](https://arxiv.org/pdf/2611.12886v1)**<br><sub>Haozhi Yuan, Handong Li, Yifan Zhang, Qianshan Wei</sub> | cs.CV | 2026-11-09 | [pdf](https://arxiv.org/pdf/2611.12886v1) · [abs](https://arxiv.org/abs/2611.12886v1) |
+| 2 | **[World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/pdf/2611.12885v1)**<br><sub>Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang, Xiang Bai</sub> | cs.CV | 2026-11-09 | [pdf](https://arxiv.org/pdf/2611.12885v1) · [abs](https://arxiv.org/abs/2611.12885v1) |
+| 3 | **[Guiding Data Allocation for Robust Subpopulation Generalization](https://arxiv.org/pdf/2611.12884v1)**<br><sub>Zhaoying Pan, Yipei Wang, Shenyu Lu, Xiaoqian Wang</sub> | cs.LG | 2026-11-09 | [pdf](https://arxiv.org/pdf/2611.12884v1) · [abs](https://arxiv.org/abs/2611.12884v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
