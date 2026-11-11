@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-10 14:44 UTC_
+_Last updated: 2026-11-11 14:02 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning](https://arxiv.org/pdf/2611.12886v1)**<br><sub>Haozhi Yuan, Handong Li, Yifan Zhang, Qianshan Wei</sub> | cs.CV | 2026-11-09 | [pdf](https://arxiv.org/pdf/2611.12886v1) · [abs](https://arxiv.org/abs/2611.12886v1) |
-| 2 | **[World In-Context Learning for Agentic Robot Manipulation](https://arxiv.org/pdf/2611.12885v1)**<br><sub>Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang, Xiang Bai</sub> | cs.CV | 2026-11-09 | [pdf](https://arxiv.org/pdf/2611.12885v1) · [abs](https://arxiv.org/abs/2611.12885v1) |
-| 3 | **[Guiding Data Allocation for Robust Subpopulation Generalization](https://arxiv.org/pdf/2611.12884v1)**<br><sub>Zhaoying Pan, Yipei Wang, Shenyu Lu, Xiaoqian Wang</sub> | cs.LG | 2026-11-09 | [pdf](https://arxiv.org/pdf/2611.12884v1) · [abs](https://arxiv.org/abs/2611.12884v1) |
+| 1 | **[Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](https://arxiv.org/pdf/2611.14518v1)**<br><sub>Sheethal Bhat, Bogdan Georgescu, Awais Mansoor, Florin C. Ghesu, Sasa Grbic, Andreas Maier</sub> | cs.CV | 2026-11-10 | [pdf](https://arxiv.org/pdf/2611.14518v1) · [abs](https://arxiv.org/abs/2611.14518v1) |
+| 2 | **[RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval](https://arxiv.org/pdf/2611.14496v1)**<br><sub>Tanishq Rachamalla, Srishti Kaushik, Muhammad Attique Khan, Gustau Camps-Valls, Swalpa Kumar Roy</sub> | cs.CV | 2026-11-10 | [pdf](https://arxiv.org/pdf/2611.14496v1) · [abs](https://arxiv.org/abs/2611.14496v1) |
+| 3 | **[C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference](https://arxiv.org/pdf/2611.14469v1)**<br><sub>Guorui Lu, Qinyu Chen</sub> | cs.CV | 2026-11-10 | [pdf](https://arxiv.org/pdf/2611.14469v1) · [abs](https://arxiv.org/abs/2611.14469v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
