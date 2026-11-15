@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-14 13:23 UTC_
+_Last updated: 2026-11-15 13:50 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Back to Pixels: Lifting Latent Video Diffusion into Pixel Space](https://arxiv.org/pdf/2611.17336v1)**<br><sub>Yanke Song, Shuo Chen, Chris Rockwell, Guande He, Nan Liu, Desai Xie, Tianpei Gu, Yong-Hyun Park, Aryan V S, Dennis Yuren Menn, Ming-Hsuan Yang, Xun Huang</sub> | cs.CV | 2026-11-12 | [pdf](https://arxiv.org/pdf/2611.17336v1) · [abs](https://arxiv.org/abs/2611.17336v1) |
-| 2 | **[Unbundling Multimodal Vision Encoding](https://arxiv.org/pdf/2611.17334v1)**<br><sub>Ellis Brown, Chris Hoang, Shengyi Qian, Shang-Wen Li, Mike Lewis, Marjan Ghazvininejad, Luke Zettlemoyer, Lucas Beyer, Mengye Ren, Jakob Verbeek, Saining Xie, Hu Xu</sub> | cs.CV | 2026-11-12 | [pdf](https://arxiv.org/pdf/2611.17334v1) · [abs](https://arxiv.org/abs/2611.17334v1) |
-| 3 | **[TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models](https://arxiv.org/pdf/2611.17331v1)**<br><sub>Chin-Yang Lin, Ryo Hachiuma, Jaesung Choe, Min-Hung Chen, Yu-Chiang Frank Wang, Yen-Yu Lin, Wei-Chen Chiu, Yu-Lun Liu, Cheng Sun</sub> | cs.CV | 2026-11-12 | [pdf](https://arxiv.org/pdf/2611.17331v1) · [abs](https://arxiv.org/abs/2611.17331v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
