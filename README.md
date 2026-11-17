@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-16 15:32 UTC_
+_Last updated: 2026-11-17 15:52 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](https://arxiv.org/pdf/2611.21605v1)**<br><sub>Huawei Lin, Jinting Liu, Tongyan Wang, Xuyang Chen, Ruihua Shi, Zhichao Xu, Jiaxin Qin, Guoshenghui Zhao, Baijian Yang, Yingjie Victor Chen, Tan Yu, Weijie Zhao</sub> | cs.CV | 2026-11-16 | [pdf](https://arxiv.org/pdf/2611.21605v1) · [abs](https://arxiv.org/abs/2611.21605v1) |
+| 2 | **[FaceJev: Direct Visual Decisions for Face Forgery Detection](https://arxiv.org/pdf/2611.21604v1)**<br><sub>Siran Peng, Tianshuo Zhang, Yibo Xue, Ajian Liu, Haoyuan Zhang, Weisong Zhao, Shuhuan Chen, Xiangyu Zhu, Zhen Lei</sub> | cs.CV | 2026-11-16 | [pdf](https://arxiv.org/pdf/2611.21604v1) · [abs](https://arxiv.org/abs/2611.21604v1) |
+| 3 | **[How VLMs Plan What's Next](https://arxiv.org/pdf/2611.21600v1)**<br><sub>Rohit Gandikota, Arnab Sen Sharma, Adam Belfki, David Bau</sub> | cs.CV | 2026-11-16 | [pdf](https://arxiv.org/pdf/2611.21600v1) · [abs](https://arxiv.org/abs/2611.21600v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
