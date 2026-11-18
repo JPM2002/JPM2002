@@ -121,14 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-17 15:52 UTC_
+_Last updated: 2026-11-18 15:31 UTC_
 
 
 | # | Title | Cat. | Date | Links |
 |:-:|:------|:----:|:----:|:------|
-| 1 | **[ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](https://arxiv.org/pdf/2611.21605v1)**<br><sub>Huawei Lin, Jinting Liu, Tongyan Wang, Xuyang Chen, Ruihua Shi, Zhichao Xu, Jiaxin Qin, Guoshenghui Zhao, Baijian Yang, Yingjie Victor Chen, Tan Yu, Weijie Zhao</sub> | cs.CV | 2026-11-16 | [pdf](https://arxiv.org/pdf/2611.21605v1) · [abs](https://arxiv.org/abs/2611.21605v1) |
-| 2 | **[FaceJev: Direct Visual Decisions for Face Forgery Detection](https://arxiv.org/pdf/2611.21604v1)**<br><sub>Siran Peng, Tianshuo Zhang, Yibo Xue, Ajian Liu, Haoyuan Zhang, Weisong Zhao, Shuhuan Chen, Xiangyu Zhu, Zhen Lei</sub> | cs.CV | 2026-11-16 | [pdf](https://arxiv.org/pdf/2611.21604v1) · [abs](https://arxiv.org/abs/2611.21604v1) |
-| 3 | **[How VLMs Plan What's Next](https://arxiv.org/pdf/2611.21600v1)**<br><sub>Rohit Gandikota, Arnab Sen Sharma, Adam Belfki, David Bau</sub> | cs.CV | 2026-11-16 | [pdf](https://arxiv.org/pdf/2611.21600v1) · [abs](https://arxiv.org/abs/2611.21600v1) |
+| 1 | **[Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](https://arxiv.org/pdf/2611.23228v1)**<br><sub>Rui Ning, Om Chabra, Hari Balakrishnan</sub> | cs.CV | 2026-11-17 | [pdf](https://arxiv.org/pdf/2611.23228v1) · [abs](https://arxiv.org/abs/2611.23228v1) |
+| 2 | **[FastFrames: Video Generation at Interactive Latency](https://arxiv.org/pdf/2611.23226v1)**<br><sub>Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong, Stephan Richter, Vladlen Koltun</sub> | cs.CV | 2026-11-17 | [pdf](https://arxiv.org/pdf/2611.23226v1) · [abs](https://arxiv.org/abs/2611.23226v1) |
+| 3 | **[EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification](https://arxiv.org/pdf/2611.23212v1)**<br><sub>Zhouhan Qian, Sicheng Chen, Chad Wong, Tianyi Zhang, Enhui Chai, Zeyu Liu, Fei Xia</sub> | cs.CV | 2026-11-17 | [pdf](https://arxiv.org/pdf/2611.23212v1) · [abs](https://arxiv.org/abs/2611.23212v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
