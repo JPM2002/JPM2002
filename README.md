@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-18 15:31 UTC_
+_Last updated: 2026-11-19 15:39 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](https://arxiv.org/pdf/2611.23228v1)**<br><sub>Rui Ning, Om Chabra, Hari Balakrishnan</sub> | cs.CV | 2026-11-17 | [pdf](https://arxiv.org/pdf/2611.23228v1) · [abs](https://arxiv.org/abs/2611.23228v1) |
-| 2 | **[FastFrames: Video Generation at Interactive Latency](https://arxiv.org/pdf/2611.23226v1)**<br><sub>Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong, Stephan Richter, Vladlen Koltun</sub> | cs.CV | 2026-11-17 | [pdf](https://arxiv.org/pdf/2611.23226v1) · [abs](https://arxiv.org/abs/2611.23226v1) |
-| 3 | **[EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification](https://arxiv.org/pdf/2611.23212v1)**<br><sub>Zhouhan Qian, Sicheng Chen, Chad Wong, Tianyi Zhang, Enhui Chai, Zeyu Liu, Fei Xia</sub> | cs.CV | 2026-11-17 | [pdf](https://arxiv.org/pdf/2611.23212v1) · [abs](https://arxiv.org/abs/2611.23212v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
