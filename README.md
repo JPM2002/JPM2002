@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-21 14:31 UTC_
+_Last updated: 2026-11-22 14:27 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[Posterior Matching Distillation](https://arxiv.org/pdf/2611.26629v1)**<br><sub>Hidir Yesiltepe, Julius Berner, Arash Vahdat, Pinar Yanardag</sub> | cs.CV | 2026-11-19 | [pdf](https://arxiv.org/pdf/2611.26629v1) · [abs](https://arxiv.org/abs/2611.26629v1) |
-| 2 | **[RL Post-Training in Diffusion Transformers Is Activation Steering](https://arxiv.org/pdf/2611.26627v1)**<br><sub>Tuna Han Salih Meral, Kaan Oktay, Alec Helbling, Atakan Kara, Duen Horng Chau, Pinar Yanardag</sub> | cs.CV | 2026-11-19 | [pdf](https://arxiv.org/pdf/2611.26627v1) · [abs](https://arxiv.org/abs/2611.26627v1) |
-| 3 | **[PlayCraft: Designing Engaging Games from Agent Play Experience](https://arxiv.org/pdf/2611.26624v1)**<br><sub>Weihao Cheng</sub> | cs.AI | 2026-11-19 | [pdf](https://arxiv.org/pdf/2611.26624v1) · [abs](https://arxiv.org/abs/2611.26624v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
