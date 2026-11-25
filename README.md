@@ -121,10 +121,14 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-24 17:29 UTC_
+_Last updated: 2026-11-25 17:03 UTC_
 
 
-_No new results in the chosen window._
+| # | Title | Cat. | Date | Links |
+|:-:|:------|:----:|:----:|:------|
+| 1 | **[OmniAct: One Policy, One Million Embodiments](https://arxiv.org/pdf/2611.33158v1)**<br><sub>Xiang Fan, Yuheng Wang, Jiayuan Yan, Bohan Fang, Wisdom Oluchi Ikezogwo, Ainaz Eftekhar, Max Argus, Jason Ren, Jiafei Duan, Ranjay Krishna</sub> | cs.RO | 2026-11-24 | [pdf](https://arxiv.org/pdf/2611.33158v1) · [abs](https://arxiv.org/abs/2611.33158v1) |
+| 2 | **[DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning](https://arxiv.org/pdf/2611.33153v1)**<br><sub>Binfei Ji, Zhiwen Cao, Anqi Yang, Prem Seetharaman, Shuo Yang, Ratheesh Kalarot, Yingyan Celine Lin, Mingze Xu</sub> | cs.CV | 2026-11-24 | [pdf](https://arxiv.org/pdf/2611.33153v1) · [abs](https://arxiv.org/abs/2611.33153v1) |
+| 3 | **[BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles](https://arxiv.org/pdf/2611.33151v1)**<br><sub>Yuwei Yang, Xiaoxiao Sun, Alejandro Lozano, Yuan-Sen Ting, Yuhui Yuan, Liang Zheng, Serena Yeung-Levy</sub> | cs.CV | 2026-11-24 | [pdf](https://arxiv.org/pdf/2611.33151v1) · [abs](https://arxiv.org/abs/2611.33151v1) |
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
