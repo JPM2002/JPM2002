@@ -121,14 +121,10 @@ No activity tracked
 
 <!-- SOTA-START -->
 **Topic:** `diffusion OR "large language model" OR "vision-language" OR reinforcement learning` • **Categories:** `cs.CV` • **Window:** last 2 day(s) • **Max:** 3  
-_Last updated: 2026-11-27 16:30 UTC_
+_Last updated: 2026-11-28 15:23 UTC_
 
 
-| # | Title | Cat. | Date | Links |
-|:-:|:------|:----:|:----:|:------|
-| 1 | **[AnyCam: Anything Can Represent Camera for Video Generation](https://arxiv.org/pdf/2611.34944v1)**<br><sub>Weijie Lyu, Zhixin Shu, Yuntian Ke, Ming-Hsuan Yang</sub> | cs.CV | 2026-11-25 | [pdf](https://arxiv.org/pdf/2611.34944v1) · [abs](https://arxiv.org/abs/2611.34944v1) |
-| 2 | **[Tracking Any Point with Agentic Visual Reasoning](https://arxiv.org/pdf/2611.34943v1)**<br><sub>Xuweiyi Chen, Jin Yao, Linzhan Mou, Lei Gong, Di Liu, Cheng Zhang, Ziqiao Ma, Sihan Xu, Adam W. Harley, Shengyi Qian, Zezhou Cheng</sub> | cs.CV | 2026-11-25 | [pdf](https://arxiv.org/pdf/2611.34943v1) · [abs](https://arxiv.org/abs/2611.34943v1) |
-| 3 | **[LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies](https://arxiv.org/pdf/2611.34940v1)**<br><sub>Yipengjing Sun, Chenyang Wang, Boyao Zhou, Jiapeng Zhu, Ka Leong Cheng, Shengping Zhang</sub> | cs.CV | 2026-11-25 | [pdf](https://arxiv.org/pdf/2611.34940v1) · [abs](https://arxiv.org/abs/2611.34940v1) |
+_No new results in the chosen window._
 <!-- SOTA-END -->
 ---
 ## 🎧 **Music**
